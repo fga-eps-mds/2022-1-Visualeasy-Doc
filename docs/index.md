@@ -4,7 +4,7 @@
 </p> -->
 
 <h3 id="sobre-o-projeto">Sobre o projeto</h3>
-<p align="justify">Uma solução computacional para a empresa BRASAL Refrigerantes  </p>
+<p align="justify">Uma solução computacional para relatar operações industriais. </p>
 
 <h3 id="equipe">Equipe</h3>
 <table>
