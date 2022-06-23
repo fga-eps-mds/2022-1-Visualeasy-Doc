@@ -1,0 +1,53 @@
+
+site_name: Visualizaçao de dados
+
+repo_name: 'fga-eps-mds/ 2022-1-Squad7'
+repo_url: 'https://github.com/fga-eps-mds/2022-1-Squad7'
+
+nav:
+  - Documentação do Projeto: 
+    - Sobre: index.md
+
+theme:
+  name: material
+  font:
+    text: Sora
+  palette:
+    primary: red
+  language: pt
+  #logo: assets/Icon.png
+  #favicon: assets/Icon.png
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    #- navigation.expand
+    #- navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.integrate
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fga-eps-mds/2022-1-Squad7
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      options:
+        custom_icons:
+          - overrides/.icons
