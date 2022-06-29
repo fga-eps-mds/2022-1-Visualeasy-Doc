@@ -3,23 +3,88 @@
   <img src="https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G04_Cardeal/main/docs/assets/logoIndex.png"/>
 </p> -->
 
-<h3 id="sobre-o-projeto">Sobre o projeto</h3>
+<p align="justify">WIKI destinada à documentação do projeto Visualeasy, desenvolvido pelo time 7 para a disciplina Engenharia de Produto de Software (EPS), ministrada pelo prof. Hilmer Neri no primeiro semestre de 2022.</p>
+
+<p align="justify">Nesta WIKI estão disponíveis: Documentação do projeto, incluíndo o documento de arquitetura de <i>software</i> e protótipos; A visão do produto, construída com auxílio do método Lean Inception; Resumo das Sprints concluídas pela equipe; Políticas para a padronização do projeto; E atas de reuniões de equipe e de reuniões com os <i>Products Owners.</i></p>
+
+<h3 id="sobre-o-projeto">Sobre o Visualeasy</h3>
 <p align="justify">Uma solução computacional para relatar operações industriais. </p>
 
 <h3 id="equipe">Equipe</h3>
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/brunaalmeidasantos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/brunaalmeidasantos" width="100px;" alt=""/><br /><sub><b>Bruna Santos </b></sub></a><br /><a href="https://github.com/brunaalmeidasantos"></a></td> 
-        <td align="center"><a href="https://github.com/brunocmo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/brunocmo" width="100px;" alt=""/><br /><sub><b>Bruno Nunes</b></sub></a><br /><a href="https://github.com/brunocmo"></a></td>
-        <td align="center"><a href="https://github.com/estevaoreis25"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/30116525?v=4" width="100px;" alt=""/><br /><sub><b>Estevão Reis</b></sub></a><br /><a href="https://github.com/estevaoreis25"></a></td>
-        <td align="center"><a href="https://github.com/gustavoduartemoreira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/32913216?v=4" width="100px;" alt=""/><br /><sub><b>Gustavo D.</b></sub></a><br /><a href="https://github.com/gustavoduartemoreira"></a></td>
-        <td align="center"><a href="https://github.com/caiobsantos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/caiobsantos" width="100px;" alt=""/><br /><sub><b>Caio Santos</b></sub></a><br /><a href="https://github.com/caiobsantos"></a></td> 
-        <td align="center"><a href="https://github.com/damarcones"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/damarcones" width="100px;" alt=""/><br /><sub><b>Damarcones Porto</b></sub></a><br /><a href="https://github.com/damarcones"></a></td> 
-        <td align="center"><a href="https://github.com/Gabriel-Azevedo-Batalha"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Gabriel-Azevedo-Batalha" width="100px;" alt=""/><br /><sub><b>Gabriel Batalha</b></sub></a><br /><a href="https://github.com/Gabriel-Azevedo-Batalha"></a></td> 
-        <td align="center"><a href="https://github.com/itallogravina"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/itallogravina" width="100px;" alt=""/><br /><sub><b>Itallo Gravina</b></sub></a><br /><a href="https://github.com/itallogravina"></a></td> 
-        <td align="center"><a href="https://github.com/Joao-Pedro-Moura"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Joao-Pedro-Moura" width="100px;" alt=""/><br /><sub><b>Jõao P. Moura</b></sub></a><br /><a href="https://github.com/Joao-Pedro-Moura"></a></td> 
-        <td align="center"><a href="https://github.com/lbrunofidelis "><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/lbrunofidelis " width="100px;" alt=""/><br /><sub><b>Luis B. Fidelis</b></sub></a><br /><a href="https://github.com/lbrunofidelis "></a></td> 
-        <td align="center"><a href="https://github.com/marcos-mv"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/marcos-mv" width="100px;" alt=""/><br /><sub><b>Marcos C.</b></sub></a><br /><a href="https://github.com/marcos-mv"></a></td> 
 
-    </tr>
-</table>
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/brunaalmeidasantos" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/brunaalmeidasantos" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Bruna Santos</figcaption>
+</figure>
+
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/brunocmo" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/brunocmo" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Bruno Nunes</figcaption>
+</figure>
+
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/damarcones" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/damarcones" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Damarcones Porto</figcaption>
+</figure>
+
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/estevaoreis25" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/u/30116525?v=4" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Estevão Reis</figcaption>
+</figure>
+
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/Gabriel-Azevedo-Batalha" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/Gabriel-Azevedo-Batalha" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Gabriel Batalha</figcaption>
+</figure>
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/gustavoduartemoreira" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/u/32913216?v=4" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Gustavo Duarte</figcaption>
+</figure>
+
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/itallogravina" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/itallogravina" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Itallo Gravina</figcaption>
+</figure>
+
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/Joao-Pedro-Moura" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/Joao-Pedro-Moura" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Jõao P. Moura</figcaption>
+</figure>
+
+
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/lbrunofidelis" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/lbrunofidelis" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Luis B. Fidelis</figcaption>
+</figure>
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/marcos-mv" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/marcos-mv" alt="drawing" style="width:120px;border-radius: 50%;"/>
+  </a>
+  <figcaption>Marcos Vinícius</figcaption>
+</figure>

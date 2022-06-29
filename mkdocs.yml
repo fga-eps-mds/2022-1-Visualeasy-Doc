@@ -1,12 +1,29 @@
 
-site_name: Visualizaçao de dados
+site_name: Visualeasy
 
 repo_name: 'fga-eps-mds/ 2022-1-Squad7'
 repo_url: 'https://github.com/fga-eps-mds/2022-1-Squad7'
 
 nav:
-  - Documentação do Projeto: 
-    - Sobre: index.md
+  - Home: 
+    - Visualeasy: index.md
+  - Documentação:
+      - Protótipo de Baixa Fidelidade: documentacao/prot-baixa.md
+      - Protótipo de Alta Fidelidade: documentacao/prot.alta.md
+      
+  - Visão de produto:
+        - Personas: visao-produto/personas.md
+  - Scrum:
+    - Modelo de Resumo das Sprints: scrum/modelo-resumo-sprint.md
+  - Políticas:
+    - Política de Branch: politicas/politica_de_branch.md
+    - Política de Commits: politicas/politica_de_commits.md
+    - Política de Issues: politicas/politica_de_issues.md
+    - Política de Pull Requests: politicas/politica_de_pull_request.md
+  - Atas de reunião: 
+    - Reuniões de equipe: Atas/atas_reuniao_equipe.md
+    - Reuniões com POs: Atas/atas_reuniao_pos.md
+
 
 theme:
   name: material
@@ -41,9 +58,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/fga-eps-mds/2022-1-Squad7
 
-plugins:
-  - search
-  - awesome-pages
+# plugins:
+#   - search
+#   - awesome-pages
 
 markdown_extensions:
   - attr_list
