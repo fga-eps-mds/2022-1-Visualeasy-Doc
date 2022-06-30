@@ -6,6 +6,7 @@
 - [1ª Reunião da Equipe em 23/06/2022](r1-equipe.md)
 - [2ª Reunião da Equipe em 24/06/2022](r2-equipe.md)
 - [3ª Reunião da Equipe em 28/06/2022](r3-equipe.md)
+- [4ª Reunião da Equipe em 29/06/2022](r4-equipe.md)
 
 
 ## Versionamento
@@ -13,3 +14,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |28/06/2022|1.0|Adiciona atas da 1ª, 2ª e 3ª reuniões da equipe|[Bruna Santos](https://github.com/brunaalmeidasantos)|
+|29/06/2022|2.0|Adiciona ata da 4ª reunião da equipe|[Bruna Santos](https://github.com/brunaalmeidasantos)|
