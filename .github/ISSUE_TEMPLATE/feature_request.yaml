@@ -1,0 +1,31 @@
+name: Feature request
+description: Suggest an idea on how to improve Rasa
+labels: ["area:rasa-oss :ferris_wheel:","type:enhancement :sparkles:"]
+body:
+  - type: textarea
+    id: current-state
+    attributes:
+      label: Que problema você está tentando resolver?
+      description: Breve resumo da situação atual. Por que esse recurso é necessário? Por favor, vincule quaisquer tópicos relevantes aqui.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Qual é a sua solução sugerida?
+      description: Como seria uma possível solução? Descreva, sem entrar em detalhes técnicos, quais mudanças precisam acontecer durante a implementação desse recurso.
+  - type: textarea
+    id: examples
+    attributes:
+      label: Exemplos (relevante)
+      description: Liste exemplos e/ou link para referências relevantes.
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Alguma coisa está impedindo que isso seja implementado? (se relevante)
+      description: Esse recurso está bloqueado por alguma coisa ou por alguém? Ou pode haver algum bloqueador em potencial a caminho?
+  - type: textarea
+    id: definition-of-done
+    attributes:
+      label: Definição de Pronto
+      description: O que precisa estar lá para considerar esse recurso como concluído?
