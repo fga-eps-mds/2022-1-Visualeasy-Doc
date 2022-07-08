@@ -9,7 +9,7 @@ nav:
     - Visualeasy: index.md
   - Documentação:
       - Protótipo de Baixa Fidelidade: documentacao/prot-baixa.md
-      - Protótipo de Alta Fidelidade: documentacao/prot.alta.md
+      - Protótipo de Alta Fidelidade: documentacao/prot-alta.md
       
   - Visão de produto:
         - Personas: visao-produto/personas.md
@@ -28,7 +28,8 @@ nav:
     - Ata 4: Atas/r4-equipe.md
     - Ata 5: Atas/r5-equipe.md
     - Ata 6: Atas/r6-equipe.md
-    - Ata 7: Atas/r7-equipe.md    
+    - Ata 7: Atas/r7-equipe.md   
+    - Ata 8: Atas/r8-equipe.md   
     - Reuniões com POs: Atas/atas_reuniao_pos.md
     - Ata 2: Atas/r2-pos.md
     - Ata 3: Atas/r3-pos.md
