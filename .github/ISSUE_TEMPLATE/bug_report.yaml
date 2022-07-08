@@ -1,0 +1,69 @@
+name: Bug Report
+description: Crie um relatório para nos ajudar a melhorar
+labels: ["area:visualeasy-oss :ferris_wheel:","type:bug :bug:"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reservar um tempo para preencher este relatório de bug!
+  - type: input
+    id: version-visualeasy
+    attributes:
+      label: Versão de código aberto do Visualeasy
+      description: Qual é a versão de código aberto visualeasy que você usou (`visualeasy --version`)
+    validations:
+      required: true
+  - type: input
+    id: version-visualeasy-sdk
+    attributes:
+      label: Versão do node Visualeasy
+      description: Qual é a versão do node visualeasy que você usou (se relevante)
+  # - type: input
+  #   id: version-visualeasy-x
+  #   attributes:
+  #     label: Visualeasy X version
+  #     description: Qual é a versão do Visualeasy que você usou (se relevante)
+  - type: dropdown
+    id: version-python
+    attributes:
+      label: Versão node
+      options:
+        - 16.*
+        - 17.*
+        - 18.*
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: version-os
+    attributes:
+      label: Qual sistema operacional você está usando?
+      multiple: true
+      options:
+        - Linux
+        - OSX
+        - Windows
+        - Cloud (AWS / GCP / AZURE)
+        - Self hosted Cloud (openshift)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: O que aconteceu?
+      description: Conte-nos também, o que você esperava que acontecesse?
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Comando / Solicitação
+      description: Comando ou solicitação que levou ao erro. Isso será formatado automaticamente em código, portanto, não há necessidade de backticks.
+      render: shell
+  - type: textarea
+    id: logs
+    attributes:
+      label: Saída de registro relevante
+      description: Copie e cole qualquer saída de log relevante, incluindo erros e rastreamentos de pilha. Isso será formatado automaticamente em código, portanto, não há necessidade de backticks.
+      render: shell
