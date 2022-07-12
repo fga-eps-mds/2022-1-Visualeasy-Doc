@@ -16,8 +16,11 @@ nav:
   - Scrum:
     - Modelo de Resumo das Sprints: scrum/modelo-resumo-sprint.md
   - Políticas:
+    - Padrão da Wiki: politicas/padrao-wiki.md
     - Política de Branch: politicas/politica_de_branch.md
     - Política de Commits: politicas/politica_de_commits.md
+    - Código de Conduta: politicas/CODE_OF_CONDUCT.md
+    - Guia de Contribuição: politicas/Contributor's_Guide.md
     - Política de Issues: politicas/politica_de_issues.md
     - Política de Pull Requests: politicas/politica_de_pull_request.md
   - Atas de reunião: 
