@@ -11,6 +11,7 @@
 - [6ª Reunião da Equipe em 04/06/2022](r6-equipe.md)
 - [7ª Reunião da Equipe em 04/06/2022](r7-equipe.md)
 - [8ª Reunião da Equipe em 04/06/2022](r8-equipe.md)
+- [9ª Reunião da Equipe em 12/07/2022](r9-equipe.md)
 
 
 ## Versionamento
