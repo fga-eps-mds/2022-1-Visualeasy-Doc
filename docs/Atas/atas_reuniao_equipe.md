@@ -8,9 +8,9 @@
 - [3ª Reunião da Equipe em 28/06/2022](r3-equipe.md)
 - [4ª Reunião da Equipe em 29/06/2022](r4-equipe.md)
 - [5ª Reunião da Equipe em 30/06/2022](r5-equipe.md)
-- [6ª Reunião da Equipe em 04/06/2022](r6-equipe.md)
-- [7ª Reunião da Equipe em 04/06/2022](r7-equipe.md)
-- [8ª Reunião da Equipe em 04/06/2022](r8-equipe.md)
+- [6ª Reunião da Equipe em 30/06/2022](r6-equipe.md)
+- [7ª Reunião da Equipe em 05/07/2022](r7-equipe.md)
+- [8ª Reunião da Equipe em 07/07/2022](r8-equipe.md)
 - [9ª Reunião da Equipe em 12/07/2022](r9-equipe.md)
 
 
@@ -24,3 +24,4 @@
 |04/07/2022|4.0|Adiciona ata da 6ª reunião da equipe|[Marcos Vinícius](https://github.com/marcos-mv)|
 |06/07/2022|5.0|Adiciona ata da 7ª reunião da equipe|[Bruno Nunes](https://github.com/brunocmo)|
 |07/07/2022|6.0|Adiciona ata da 8ª reunião da equipe|[Bruno Nunes](https://github.com/brunocmo)|
+|13/07/2022|7.0|Adiciona ata da 9ª reunião da equipe|[Luis Bruno](https://github.com/lbrunofidelis)|
