@@ -23,7 +23,6 @@
 - <p align="justify">Alteração nos seguintes tópicos do mural para validação com o cliente (reunião em 13/07):</p>
     - <p align="justify">Pequenos ajustes em <b>Resultado Esperado</b> e <b>Métricas para validar as hipóteses do negócio</b></p>
     - <p align="justify">
-        Finalização do sequenciador, com especificações dos tempos das funcionalidades - esta etapa durou muito tempo e exigiu grande esforço da equipe, pois foram levantadas
-        diversas discussões sobre como cada funcionalidade deve ser feita, viabilidade e tempo estimado.
+        Finalização das funcionalidades do MVP do sequenciador, com especificações dos tempos das funcionalidades - esta etapa durou muito tempo e exigiu grande esforço da equipe, pois foram levantadas diversas discussões sobre como cada funcionalidade deve ser feita, viabilidade e tempo estimado.
     </p>
-    - <p align="justify">Finalização da parte de custos, com base nos feedbacks coletados na aula do dia.</p>
+    - <p align="justify">Finalização da parte de custos e cronograma, com base nos feedbacks coletados na aula do dia.</p>
