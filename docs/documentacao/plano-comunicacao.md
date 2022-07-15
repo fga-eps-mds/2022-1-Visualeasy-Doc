@@ -21,6 +21,8 @@ Após a reunião inicial foi decidido entre os clientes e equipe de desenvolvime
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="100px" />| Google Drive | Utilizado pelo grupo para armazenar documentos referente ao desenvolvimento e gerência de todo o projeto|
 | <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-icon-0.png" width="100px" />| GitHub | Utilizado como repositório central para documentos e código |
 | <img src="https://cdn.worldvectorlogo.com/logos/zenhub.svg" width="100px" />| ZenHub | Utilizado para documentar a baseline de requisitos, roadmap, servir como quadro Kanban para o time e atribuições de tarefas |  
+| <img src="https://play-lh.googleusercontent.com/6vm41PRefe19H226FkTNyR3Z9gbKZILLFKOyihFIn8kmJn1VzMlKp8h2JlUFfcwn4RI=w240-h480-rw" width="100px" />| MURAL | Utilizada para a aplicação da LeanInception nos momentos iniciais do projeto| 
+| ![Figma Icon](./images/figma.png)| Figma | Utilizada para o desenvolvimento do protótipo de alta fidelidade | 
 
 
 ## Versionamento
