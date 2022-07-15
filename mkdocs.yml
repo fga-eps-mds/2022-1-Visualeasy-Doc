@@ -10,7 +10,7 @@ nav:
   - Documentação:
       - Protótipo de Baixa Fidelidade: documentacao/prot-baixa.md
       - Protótipo de Alta Fidelidade: documentacao/prot-alta.md
-      
+      - Custo do Projeto: documentacao/custo.md
   - Visão de produto:
         - Personas: visao-produto/personas.md
   - Scrum:
