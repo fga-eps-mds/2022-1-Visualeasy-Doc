@@ -13,7 +13,6 @@
 - João Pedro
 - Luis Bruno
 - Marcos Vinícius
-- TESTE
 
 <p align="justify">OBS: O integrante Gabriel Batalha está afastado por motivos de saúde (COVID-19).</p>
 
