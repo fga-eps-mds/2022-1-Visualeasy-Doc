@@ -7,15 +7,15 @@ repo_url: 'https://github.com/fga-eps-mds/2022-1-Squad7'
 nav:
   - Home: 
     - Visualeasy: index.md
-  - Documentação:
+    - Visão de produto:
+        - Lean Inception: visao-produto/personas.md
+  - Documentação do Projeto:
+      - Custo do Projeto: documentacao/custo.md
       - Protótipo de Baixa Fidelidade: documentacao/prot-baixa.md
       - Protótipo de Alta Fidelidade: documentacao/prot-alta.md
-      - Custo do Projeto: documentacao/custo.md
-  - Visão de produto:
-        - Personas: visao-produto/personas.md
-  - Scrum:
+  - Sprints:
     - Modelo de Resumo das Sprints: scrum/modelo-resumo-sprint.md
-  - Políticas:
+  - Políticas do Projeto:
     - Padrão da Wiki: politicas/padrao-wiki.md
     - Política de Branch: politicas/politica_de_branch.md
     - Política de Commits: politicas/politica_de_commits.md
@@ -25,31 +25,33 @@ nav:
     - Política de Pull Requests: politicas/politica_de_pull_request.md
   - Atas de reunião: 
     - Reuniões de equipe: Atas/atas_reuniao_equipe.md
-    - Ata 1: Atas/r1-equipe.md
-    - Ata 2: Atas/r2-equipe.md
-    - Ata 3: Atas/r3-equipe.md
-    - Ata 4: Atas/r4-equipe.md
-    - Ata 5: Atas/r5-equipe.md
-    - Ata 6: Atas/r6-equipe.md
-    - Ata 7: Atas/r7-equipe.md   
-    - Ata 8: Atas/r8-equipe.md   
-    - Ata 9: Atas/r9-equipe.md
-    - Ata 10: Atas/r10-equipe.md
+    # - Ata 1: Atas/r1-equipe.md
+    # - Ata 2: Atas/r2-equipe.md
+    # - Ata 3: Atas/r3-equipe.md
+    # - Ata 4: Atas/r4-equipe.md
+    # - Ata 5: Atas/r5-equipe.md
+    # - Ata 6: Atas/r6-equipe.md
+    # - Ata 7: Atas/r7-equipe.md   
+    # - Ata 8: Atas/r8-equipe.md   
+    # - Ata 9: Atas/r9-equipe.md
+    # - Ata 10: Atas/r10-equipe.md
     - Reuniões com POs: Atas/atas_reuniao_pos.md
-    - Ata 2: Atas/r2-pos.md
-    - Ata 3: Atas/r3-pos.md
-    - Ata 4: Atas/r4-pos.md
+    # - Ata 2: Atas/r2-pos.md
+    # - Ata 3: Atas/r3-pos.md
+    # - Ata 4: Atas/r4-pos.md
 theme:
-  name: material
+  name: "material"
   font:
     text: Sora
   palette:
-    primary: red
+    primary: "blue"
+    accent: "#00D899"
   language: pt
-  #logo: assets/Icon.png
-  #favicon: assets/Icon.png
+  logo: Imagens/Icon.png
+  favicon: Imagens/Icon.png
   icon:
     repo: fontawesome/brands/github
+
 
   features:
     - content.code.annotate
