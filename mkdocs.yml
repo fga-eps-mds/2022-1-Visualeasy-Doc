@@ -7,11 +7,12 @@ repo_url: 'https://github.com/fga-eps-mds/2022-1-Squad7'
 nav:
   - Home: 
     - Visualeasy: index.md
-    - Visão de produto:
+  - Visão de produto:
         - Lean Inception: visao-produto/personas.md
   - Documentação do Projeto:
       - Custo do Projeto: documentacao/custo.md
-      - Protótipo de Baixa Fidelidade: documentacao/prot-baixa.md
+      - Protótipos de Baixa Fidelidade: documentacao/prot-baixa.md
+      - Identidade Visual: documentacao/id-visual.md
       - Protótipo de Alta Fidelidade: documentacao/prot-alta.md
   - Sprints:
     - Modelo de Resumo das Sprints: scrum/modelo-resumo-sprint.md

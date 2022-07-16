@@ -124,4 +124,4 @@
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
-|12/07/2022|1.0|Adiciona regras de padronização da WIKI|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/brunaalmeidasantos), [Itallo Gravina](https://github.com/brunaalmeidasantos)|
+|12/07/2022|1.0|Adiciona regras de padronização da WIKI|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones), [Itallo Gravina](https://github.com/itallogravina)|
