@@ -2,10 +2,10 @@
  
 Amplamente divulgado através do PMBOK, o Gerenciamento de Riscos propõe a identificação de riscos e planos de ação para mitigá-los, eliminá-los, ou mesmo transferi-los. Dentre eles enfatizamos os seguintes:
  
-- Riscos de Projeto;
-- Riscos Técnicos;
-- Riscos Externos;
-- Riscos de Produto;
+- Riscos de Projeto.
+- Riscos Técnicos.
+- Riscos Externos.
+- Riscos de Produto.
  
 Cada um dos riscos acima foram subdivididos nos subtópicos abaixo:
  
@@ -40,7 +40,7 @@ Cada um dos riscos acima foram subdivididos nos subtópicos abaixo:
 | Riscos | Consequência |
 |--------|--------------|
 | Questões burocráticas | Pode inviabilizar o andamento do projeto |
-| Disponibilidade do cliente para validação do produto | Dificuldade de validação do produto |
+| Indisponibilidade do cliente para validação do produto | Dificuldade de validação do produto |
  
  
 ## Riscos de Produto
@@ -50,14 +50,14 @@ Cada um dos riscos acima foram subdivididos nos subtópicos abaixo:
 | Produto não atende às necessidades do cliente | Projeto falho e inutilizável |
 | Complexidade de codificação | Dificuldade na prestação de manutenção e correção de bugs |
 | Estabilidade do produto | Não atender às expectativas do cliente |
-| Especificação de Teste | Cobertura insuficiente de possíveis problemas e inviabilização da utilização do produto |
+| Falta de especificação de teste | Cobertura insuficiente de possíveis problemas e inviabilização da utilização do produto |
  
  
 ## Visualização Riscos
  
-### Classificação dos Risco
+### Classificação dos Riscos
  
-O grau dos riscos é definido pela multiplicação da probabilidade de ocorrência pelo , dos mesmos, causados ao projeto.
+O grau dos riscos é definido pela multiplicação da probabilidade de ocorrência, pelo impacto dos mesmos, causados ao projeto.
  
 As classificações de risco foram definidas da seguinte forma:
  
@@ -86,10 +86,11 @@ Tem como objetivo verificar a média de pontos que o grupo consegue entregar por
  
 * Lino. Disponível em [Github - Lino](https://github.com/BotLino/Lino);
 * Gerenciamento de riscos em projetos ágeis - Cultura Ágil. Disponível em [Cultura Ágil](https://www.culturaagil.com.br/gerenciamento-de-riscos-em-projetos-ageis/);
-* Disponível em [Devmedia](https://www.devmedia.com.br/visao-da-gerencia-de-riscos-na-engenharia-de-software/9144#:~:text=%C2%A7%20Riscos%20de%20Produto%20de,codifica%C3%A7%C3%A3o%20e%20especifica%C3%A7%C3%A3o%20de%20testes.).
+* Visão da gerência de riscos na engenharia de software. Disponível em [Devmedia](https://www.devmedia.com.br/visao-da-gerencia-de-riscos-na-engenharia-de-software/9144#:~:text=%C2%A7%20Riscos%20de%20Produto%20de,codifica%C3%A7%C3%A3o%20e%20especifica%C3%A7%C3%A3o%20de%20testes.).
+* Project Management Body of Knowledge. Disponível em [PMBOK](https://web.archive.org/web/20200701142517/http://itq.ch/pdf/pmbok1.pdf). 
  
  
-## Histórico de Revisão
+## Versionamento
  
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
