@@ -2,7 +2,11 @@
 
 ## Sobre
 
-Uma solução computacional para relatar operações industriais.
+O Visualeasy é uma aplicação Web que fornece uma visualização gráfica de métricas históricas de variáveis de produção. 
+
+O projeto é desenvolvido por alunos de gadruação em engenharia de Software da Universidade de Brasília - do Campus do Gama (FGA) - para a disciplina de Engenharia de Produto de Software (EPS).
+
+A aplicação Visualeasy proporciona a visualização de dados de forma gráfica ao longo do tempo, para auxiliar na tomada de decisões.
 
 ## Informações Complementares 
 
