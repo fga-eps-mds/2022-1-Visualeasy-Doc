@@ -12,6 +12,9 @@
 - [7ª Reunião da Equipe em 05/07/2022](r7-equipe.md)
 - [8ª Reunião da Equipe em 07/07/2022](r8-equipe.md)
 - [9ª Reunião da Equipe em 12/07/2022](r9-equipe.md)
+- [10ª Reunião da Equipe em 13/07/2022](r10-equipe.md)
+- [11ª Reunião da Equipe em 17/07/2022](r11-equipe.md)
+- [12ª Reunião da Equipe em 18/07/2022](r12-equipe.md)
 
 
 ## Versionamento
@@ -25,3 +28,4 @@
 |06/07/2022|5.0|Adiciona ata da 7ª reunião da equipe|[Bruno Nunes](https://github.com/brunocmo)|
 |07/07/2022|6.0|Adiciona ata da 8ª reunião da equipe|[Bruno Nunes](https://github.com/brunocmo)|
 |13/07/2022|7.0|Adiciona ata da 9ª reunião da equipe|[Luis Bruno](https://github.com/lbrunofidelis)|
+|19/07/2022|8.0|Adiciona ata da 11ª e 12ª reunião da equipe|[Damarcones Porto](https://github.com/damarcones)|
