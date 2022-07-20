@@ -8,8 +8,9 @@ nav:
   - Home: 
     - Visualeasy: index.md
   - Visão de produto:
-        - Lean Inception: visao-produto/personas.md
+        - Lean Inception: visao-produto/lean-inception.md
   - Documentação do Projeto:
+      - Product Backlog: documentacao/backlog.md
       - Custo do Projeto: documentacao/custo.md
       - Riscos do Projeto: documentacao/risco.md
       - Protótipos de Baixa Fidelidade: documentacao/prot-baixa.md
