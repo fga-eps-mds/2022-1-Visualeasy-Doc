@@ -5,49 +5,39 @@
 <p align="justify">O protótipo de baixa de fidalidade do Visualeasy possui 3 versões; Cada versão é detalhada nos tópicos a seguir.</p>
 
 
-
-
-
-
-
-
 ## 1ª Versão
 
 <p align="justify">Na 1ª versão do protótipo, para melhor interatividade e visualização do cliente, foi sugerido para os membros do grupo que fizessem uma representação ilustrativa de como seria a aplicação. Sendo assim, cada membro da equipe desenhou a sua visão da interface do Visualeasy. Seguidamente são apresentadas as imagens desenhadas pelos membros do grupo na reunião de 29/06/2022.</p>
 
 
-
-
-
-
 ### Bruna Almeida
-![BrunaAlmeida1](./images/bruna1.jpeg)
+![BrunaAlmeida1](./prototipos/bruna1.jpeg)
 
-![BrunaAlmeida2](./images/bruna2.jpeg)
+![BrunaAlmeida2](./prototipos/bruna2.jpeg)
 
 ### Bruno Carmo
-![BrunoCarmo](./images/bruno.jpeg)
+![BrunoCarmo](./prototipos/bruno.jpeg)
 
 ### Damarcones Porto
-![DamarconesPorto](./images/damarcones.jpeg)
+![DamarconesPorto](./prototipos/damarcones.jpeg)
 ### Estevão Reis
-![EstevãoReis](./images/estevao.jpeg)
+![EstevãoReis](./prototipos/estevao.jpeg)
 
 ### Itallo Gravina
-![ItalloGravina1](./images/italo1.jpeg)
+![ItalloGravina1](./prototipos/italo1.jpeg)
 
-![ItalloGravina1](./images/italo2.jpeg)
+![ItalloGravina1](./prototipos/italo2.jpeg)
 
 ### João Pedro
-![JoãoPedro](./images/joao.jpeg)
+![JoãoPedro](./prototipos/joao.jpeg)
 
 ### Luis Bruno
-![LuisBruno1](./images/luis1.jpeg)
+![LuisBruno1](./prototipos/luis1.jpeg)
 
-![LuisBruno2](./images/luis2.jpeg)
+![LuisBruno2](./prototipos/luis2.jpeg)
 
 ### Marcos Vinicius
-![Marcos Vinicius](./images/marcos.jpeg)
+![Marcos Vinicius](./prototipos/marcos.jpeg)
 
 ## 2ª Versão
 
@@ -55,16 +45,16 @@
 
 <p align = "justify"> A segunda versão do protótipo contém quatro telas: tela de login; tela para criar gráfico; tela com os gráficos gerados; e uma modal para editar os dados dos gráficos. A versão 2 do protótipo está apresentada a seguir.</p>
 
-![Protótipo de baixa fidelidade V2](./images/prot_baixa_V2_1.jpg)
-![Protótipo de baixa fidelidade V2](./images/prot_baixa_V2_2.jpg)
-![Protótipo de baixa fidelidade V2](./images/prot_baixa_V2_3.jpg)
-![Protótipo de baixa fidelidade V2](./images/prot_baixa_V2_4.jpg)
+![Protótipo de baixa fidelidade V2](./prototipos/prot_baixa_V2_1.jpg)
+![Protótipo de baixa fidelidade V2](./prototipos/prot_baixa_V2_2.jpg)
+![Protótipo de baixa fidelidade V2](./prototipos/prot_baixa_V2_3.jpg)
+![Protótipo de baixa fidelidade V2](./prototipos/prot_baixa_V2_4.jpg)
 
 ## 3ª Versão
 
 <p align="justify">Após nova discussão entre os integrantes da equipe, um novo protótipo foi desenhado, com o objetivo de otimizar a navegabilidade dos usuários, diminuindo o número de telas. Essa última versão contém apenas duas telas: tela de login - que não foi desenhada novamente, pois será usada a tela desenhada na segunda versão -; e uma tela principal onde o usuário pode criar gráficos, visualizá-los e editá-los. A terceira versão encontra-se abaixo. </p>
 
-![Protótipo de baixa fidelidade V3](./images/prot_baixa_V3.jpg)
+![Protótipo de baixa fidelidade V3](./prototipos/prot_baixa_V3.jpg)
 
 <br>
 
