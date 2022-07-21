@@ -1,4 +1,4 @@
-# Ata da 4ª Reunião de Equipe
+# Ata da 4ª Reunião com POs
  
 <p align="justify"><b>Data:</b> 13/07/2022</p>
 <p align="justify"><b>Horário:</b> 12:00h às 12:35h</p>
