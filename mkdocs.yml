@@ -30,27 +30,15 @@ nav:
     - Política de Pull Requests: politicas/politica_de_pull_request.md
   - Atas de reunião: 
     - Reuniões de equipe: Atas/atas_reuniao_equipe.md
-    # - Ata 1: Atas/r1-equipe.md
-    # - Ata 2: Atas/r2-equipe.md
-    # - Ata 3: Atas/r3-equipe.md
-    # - Ata 4: Atas/r4-equipe.md
-    # - Ata 5: Atas/r5-equipe.md
-    # - Ata 6: Atas/r6-equipe.md
-    # - Ata 7: Atas/r7-equipe.md   
-    # - Ata 8: Atas/r8-equipe.md   
-    # - Ata 9: Atas/r9-equipe.md
-    # - Ata 10: Atas/r10-equipe.md
     - Reuniões com POs: Atas/atas_reuniao_pos.md
-    # - Ata 2: Atas/r2-pos.md
-    # - Ata 3: Atas/r3-pos.md
-    # - Ata 4: Atas/r4-pos.md
+
 theme:
   name: "material"
   font:
     text: Sora
   palette:
-    primary: "blue"
-    accent: "#00D899"
+    primary: "red"
+    accent: "red"
   language: pt
   logo: Imagens/Icon.png
   favicon: Imagens/Icon.png
