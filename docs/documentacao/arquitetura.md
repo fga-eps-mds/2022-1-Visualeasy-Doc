@@ -29,15 +29,24 @@ No sistema Visualeasy foi decidido a criação de 3 microsserviços, sendo eles:
 
 #### Node JS
 
+[![node](images/node.png)](images/node.png)
+
 <p align ="justify">Para o microsserviço de controle e de autenticação foi utilizado o Node.JS. Node é uma plataforma de aplicação, na qual os programas são escritos em JS e compilados, otimizados e interpretados pela Máquina Virtual V8, que é a mesma usada pelo Google para executar JavaScript no navegador Chrome. O resultado deste processo é entregue como código de máquina server-side, tornando o Node muito mais eficiente na sua execução e consumo de recursos. A plataforma Node foi escolhida por ser eficiente na implementação de aplicações em tempo real, que precisam transferir mensagens de um lado para o outro de forma rápida. As mensagens geradas pelo Visualeasy podem demandar um grande volume de dados a cada requisição do sistema.</p>
 
 #### Next.JS
+
+[![next](images/next.png)](images/next.png)
+
 <p align ="justify">Para o microsserviço responsável pelo frontend foi utilizado o NextJS. O Next.JS é um framework para React que é uma biblioteca javascript, tendo seu foco no alto desempenho onde reúne diversas funcionalidades como renderização híbrida e estática de conteúdo, suporte a TypeScript, pre-fetching, sistema de rotas, pacotes de funcionalidades e diversos plugins, o framework será utilizado, como parte front-end do nosso projeto, em que mostrará as telas e apresentará os recursos de gráfico, login dentre outras funcionalidades.</p>
    
 #### D3.js
+
+[![d3](images/d3.png)](images/d3.png)
 <p align ="justify">Para a exibição dos gráficos foi escolhida a biblioteca D3.js. A D3.js é uma biblioteca em Javascript orientada a dados. Não é um framework monolítico, o que fornece uma melhor escalabilidade. D3 é rápido e trabalha com altos volumes de dados e interações com animações, assim evitando uma sobrecarga no sistema como um todo.</p>
 
 #### PostgreSQL
+
+[![postgres](images/postgres.png)](images/postgres.png)
 <p align ="justify">Para banco de dados foi escolhido o PostgreSQL. O PostgreSQL é um Sistema Gerenciador de Banco de Dados Relacional de código aberto que utiliza a linguagem SQL para armazenar de forma segura, extensível e possui um vasto ecossistema de ferramentas. É um software projetado para possuir compatibilidade com os principais sistemas operacionais como Linux e Windows. Por essas características esse Banco de Dados tem sido bastante utilizado no contexto geral de negócios, sites e por isso foi o escolhido como a solução de banco de dados do Visualeasy.</p>
 
 ### Metas e restrições da arquitetura
@@ -71,7 +80,10 @@ Detalhar micro serviços aqui
 
 ### Arquitetura dos Serviços e visão de Implementação
 
-## Visão Geral
+#### Visão Geral
+
+[![estrutura](images/estrutura.png)](images/estrutura.png)
+
 
 
 Cada microsserviço é detalhado da seguinte forma:
