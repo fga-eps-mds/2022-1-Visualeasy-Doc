@@ -2,10 +2,10 @@
 
 ### Finalidade
 
-<p align = "justify">O documento tem como objetivo estabelecer uma visão da arquitetura de software adotada no sistema Visualeasy. Com isso ele tem como finalidade evidenciar com clareza as decisões arquiteturais que foram tomadas no projeto. Disponibilizando as informações essenciais para as pessoas desenvolvedoras e demais envolvidos a respeito da aplicação e das tecnologias que serão utilizadas no desenvolvimento do projeto.</p>
+<p align = "justify">O documento estabelecerá uma visão da arquitetura de <em>software</em> adotada no sistema Visualeasy. Com isso ele tem como finalidade evidenciar com clareza as decisões arquiteturais que foram tomadas no projeto. Disponibilizando as informações essenciais para as pessoas desenvolvedoras e demais envolvidos a respeito da aplicação e das tecnologias que serão utilizadas no desenvolvimento do projeto.</p>
 
 ### Escopo
-<p align = "justify"> Essa documentação foi elaborada sobre a visão de arquitetura de software que será utilizada para a implementação do projeto Visualeasy, de forma a evidenciar as decisões tomadas. Serão abordados os padrões de arquitetura, os frameworks que serão usados no desenvolvimento do projeto. O objetivo é fornecer visualização gráfica de séries temporais, proporcionando uma melhor visualização dos dados fornecidos à aplicação e permitindo uma tomada de decisão com base na análise dos dados.</p>
+<p align = "justify"> Essa documentação foi elaborada sobre a visão de arquitetura de <em>software</em> que será utilizada para a implementação do projeto Visualeasy, para a evidenciar as decisões tomadas. Serão abordados os padrões de arquitetura, os <em>frameworks</em> que serão usados no desenvolvimento do projeto. O objetivo é fornecer visualização gráfica de séries temporais, proporcionando uma melhor visualização dos dados fornecidos à aplicação e permitindo uma tomada de decisão com base na análise dos dados.</p>
 
 ### Visão Geral
 
@@ -13,7 +13,7 @@
 
 #### Representação da Arquitetura
 
-<p align = "justify">Para o desenvolvimento do sistema Visualeasy, foi decidido a utilização de uma arquitetura em microsserviços. Microsserviços são uma abordagem arquitetônica e organizacional do desenvolvimento de software na qual o software consiste em pequenos serviços independentes que se comunicam usando APIs bem definidas. Esses serviços pertencem a pequenas equipes autossuficientes.</p>
+<p align = "justify">Para o desenvolvimento do sistema Visualeasy, foi decidido a utilização de uma arquitetura em microsserviços. Microsserviços são uma abordagem arquitetônica e organizacional do desenvolvimento de <em>software</em> onde o <em>software</em> consiste em pequenos serviços independentes que se comunicam usando APIs bem definidas. Esses serviços pertencem a pequenas equipes autossuficientes.</p>
 
 <p align ="justify">As arquiteturas de microsserviços facilitam a escalabilidade e agilizam o desenvolvimento de aplicativos, habilitando a inovação e acelerando o tempo de introdução de novos recursos no mercado.</p>
 
@@ -31,23 +31,23 @@ No sistema Visualeasy foi decidido a criação de 3 microsserviços, sendo eles:
 
 [![node](images/node.png)](images/node.png)
 
-<p align ="justify">Para o microsserviço de controle e de autenticação foi utilizado o Node.JS. Node é uma plataforma de aplicação, na qual os programas são escritos em JS e compilados, otimizados e interpretados pela Máquina Virtual V8, que é a mesma usada pelo Google para executar JavaScript no navegador Chrome. O resultado deste processo é entregue como código de máquina server-side, tornando o Node muito mais eficiente na sua execução e consumo de recursos. A plataforma Node foi escolhida por ser eficiente na implementação de aplicações em tempo real, que precisam transferir mensagens de um lado para o outro de forma rápida. As mensagens geradas pelo Visualeasy podem demandar um grande volume de dados a cada requisição do sistema.</p>
+<p align ="justify">Para o microsserviço de controle e de autenticação foi utilizado o Node.JS. Node é uma plataforma de aplicação, onde  programas são escritos em JS e compilados, otimizados e interpretados pela Máquina Virtual V8, sendo a mesma usada pelo Google para executar JavaScript no navegador Chrome. O resultado deste processo é entregue como código de máquina server-side, tornando o Node muito mais eficiente na sua execução e consumo de recursos. A plataforma Node foi escolhida por ser eficiente na implementação de aplicações em tempo real, que precisam transferir mensagens de um lado para o outro de forma rápida. As mensagens geradas pelo Visualeasy podem demandar um grande volume de dados a cada requisição do sistema.</p>
 
 #### Next.JS
 
 [![next](images/next.png)](images/next.png)
 
-<p align ="justify">Para o microsserviço responsável pelo frontend foi utilizado o NextJS. O Next.JS é um framework para React que é uma biblioteca javascript, tendo seu foco no alto desempenho onde reúne diversas funcionalidades como renderização híbrida e estática de conteúdo, suporte a TypeScript, pre-fetching, sistema de rotas, pacotes de funcionalidades e diversos plugins, o framework será utilizado, como parte front-end do nosso projeto, em que mostrará as telas e apresentará os recursos de gráfico, login dentre outras funcionalidades.</p>
+<p align ="justify">Para o microsserviço responsável pelo front-end foi utilizado o NextJS. O Next.JS é um <em>framework</em> para React que é uma biblioteca javascript. O seu foco é no alto desempenho onde reúne diversas funcionalidades como renderização híbrida e estática de conteúdo. Possui suporte a TypeScript, pre-fetching, sistema de rotas, pacotes de funcionalidades e diversos plugins, o <em>framework</em> será utilizado, como parte front-end do nosso projeto, em que mostrará as telas e apresentará os recursos de gráfico, login dentre outras funcionalidades.</p>
    
 #### D3.js
 
 [![d3](images/d3.png)](images/d3.png)
-<p align ="justify">Para a exibição dos gráficos foi escolhida a biblioteca D3.js. A D3.js é uma biblioteca em Javascript orientada a dados. Não é um framework monolítico, o que fornece uma melhor escalabilidade. D3 é rápido e trabalha com altos volumes de dados e interações com animações, assim evitando uma sobrecarga no sistema como um todo.</p>
+<p align ="justify">Para a exibição dos gráficos foi escolhida a biblioteca D3.js. A D3.js é uma biblioteca em Javascript orientada a dados. Não é um <em>framework</em> monolítico, fornecendo uma melhor escalabilidade. D3 é rápido e trabalha com altos volumes de dados e interações com animações, assim evitando uma sobrecarga no sistema como um todo.</p>
 
 #### PostgreSQL
 
 [![postgres](images/postgres.png)](images/postgres.png)
-<p align ="justify">Para banco de dados foi escolhido o PostgreSQL. O PostgreSQL é um Sistema Gerenciador de Banco de Dados Relacional de código aberto que utiliza a linguagem SQL para armazenar de forma segura, extensível e possui um vasto ecossistema de ferramentas. É um software projetado para possuir compatibilidade com os principais sistemas operacionais como Linux e Windows. Por essas características esse Banco de Dados tem sido bastante utilizado no contexto geral de negócios, sites e por isso foi o escolhido como a solução de banco de dados do Visualeasy.</p>
+<p align ="justify">Para banco de dados foi escolhido o PostgreSQL. O PostgreSQL é um Sistema Gerenciador de Banco de Dados Relacional de código aberto que utiliza a linguagem SQL para armazenar seguramente os dados, extensível e possui um vasto ecossistema de ferramentas. É um software projetado para possuir compatibilidade com os principais sistemas operacionais como Linux e Windows. Por essas características esse Banco de Dados tem sido bastante utilizado no contexto geral de negócios, sites e por isso foi o escolhido como a solução de banco de dados do Visualeasy.</p>
 
 ### Metas e restrições da arquitetura
 
@@ -88,7 +88,7 @@ Detalhar micro serviços aqui
 
 Cada microsserviço é detalhado da seguinte forma:
 
-- <p align ="justify">Visualização de dados/gráficos : Front-end do produto composto pelo framework Next.Js, para a construção das telas, campos, validações e botões que o usuário irá interagir. Acompanhando o Next.Js, o D3.Js é responsável pela visualização dos dados tratados, gerando os gráficos.</p>
+- <p align ="justify">Visualização de dados/gráficos : Front-end do produto composto pelo <em>framework</em> Next.Js, para a construção das telas, campos, validações e botões que o usuário irá interagir. Acompanhando o Next.Js, o D3.Js é responsável pela visualização dos dados tratados, gerando os gráficos.</p>
 - <p align ="justify">O Core é composto pelas APIs responsáveis pela autenticação de usuário e pelo controle, coleta de dados e geração de gráficos.</p>
 
 ## Visão de Dados
@@ -100,24 +100,24 @@ Cada microsserviço é detalhado da seguinte forma:
 
 ### Funcionalidade
 
-<p align ="justify">A funcionalidade de um software diz respeito à satisfação de necessidades que deram origem ao projeto. Abrange requisitos implícitos e explícitos e está intimamente ligada à qualidade do código criado. Neste sentido, o Visualeasy deve estar de acordo com o objetivo que originou sua demanda, e deve atender as necessidades que foram previstas para o usuário comum.</p>
+<p align ="justify">A funcionalidade de um software diz respeito à satisfação de necessidades que deram origem ao projeto. Abrange requisitos implícitos e explícitos e está intimamente ligada à qualidade do código criado. Neste sentido, o Visualeasy deve corresponder ao objetivo que originou sua demanda, e deve atender as necessidades que foram previstas para o usuário comum.</p>
 
 <p align ="justify">A característica de funcionalidade abrange também questões de segurança do sistema. O desenvolvimento do Visualeasy deve garantir que apenas usuários autorizados tenham acesso às informações do sistema. Para isso, será implementado um sistema de autenticação de usuários, com a utilização de tokens para validação de acessos.</p>
 
 ### Confiabilidade
 
-<p align ="justify">É a garantia que o software dá em não apresentar falhas em um período de tempo e ambiente específico. O Visualeasy busca apresentar os dados fidedignos em gráficos de acordo com o requisitado no banco de dados.
+<p align ="justify">É a garantia que o software dá em não apresentar falhas em um período de tempo e ambiente específico. O Visualeasy busca apresentar os dados fidedignos em gráficos conforme o requisitado no banco de dados.
 Usabilidade</p>
 
 <p align ="justify">A usabilidade está relacionada à meta de garantir que os usuários usem bem as funcionalidades de um sistema. A navegabilidade do Visualeasy deve ser intuitiva e fácil de ser utilizada, para que os usuários possam acessar as funcionalidades disponíveis sem grande esforço.</p>
 
 ### Eficiência
 
-<p align ="justify">A eficiência se refere à forma como o sistema ajuda os usuários a realizar suas tarefas. O Visualeasy deve oferecer formas fáceis e rápidas para que o usuário encontre a funcionalidade ou informações que deseja. Além disso, o produto deve ser compatível com o nível que foi requerido para o produto. Sendo assim, o Visualeasy deve ser eficaz às necessidades relatadas pelos Product Owners.</p>
+<p align ="justify">A eficiência se refere à forma como o sistema ajuda os usuários a realizar suas tarefas. O Visualeasy deve oferecer formas fáceis e rápidas para que o usuário encontre a funcionalidade ou informações que deseja. Além disso, o produto deve ser compatível com o nível que foi requerido para o produto. Sendo assim, o Visualeasy deve ser eficaz e atender necessidades dos Product Owners.</p>
 
 ### Manutenibilidade
 
-<p align ="justify">A manutenibilidade está diretamente ligada à qualidade do software que produziremos. Manutenções corretivas devem ser constantes a fim de corrigir bugs ou outros problemas ligados a utilização do sistema. O sistema deve ser capaz de se adaptar às mudanças do ambiente no qual vai atuar. Por exemplo, atualizar o sistema operacional ou tecnologias, bibliotecas.</p>
+<p align ="justify">A manutenibilidade está diretamente ligada à qualidade do software que produziremos. Manutenções corretivas devem ser constantes a fim de corrigir bugs ou outros problemas ligados a utilização do sistema. O sistema deve ser capaz de se adaptar às mudanças do ambiente onde irá atuar. Por exemplo, atualizar o sistema operacional ou tecnologias, bibliotecas.</p>
 
 <p align ="justify">Também construiremos um sistema onde usuários (e/ou outros envolvidos) possam sugerir uma nova funcionalidade ou modificar alguma já existente, de modo a aumentar a qualidade ou prevenir futuros bugs, como manutenção preventiva. Utilizando ferramentas como sonarcloud podemos detectar problemas relacionados à qualidade de código escrito e construir um sistema mais fácil de se manter.</p>
 
@@ -145,4 +145,6 @@ Usabilidade</p>
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |19/07/2022|1.0|Criação do documento de arquitetura do projeto| [Bruna Santos](https://github.com/brunaalmeidasantos),[Estevão Reis](https://github.com/estevaoreis25), [Itallo Gravina](https://github.com/itallogravina), [Luis Bruno](https://github.com/lbrunofidelis), [Damarcones Porto](https://github.com/damarcones), [Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv), [Gustavo Moreira](https://github.com/gustavoduartemoreira), [Gabriel Batalha](https://github.com/gustavoduartemoreira), [João Pedro](https://github.com/Joao-Pedro-Moura)|
-|23/07/2022|2.0|Correções e Adição do documento ao reposítório | [Marcos Vinicius](https://github.com/marcos-mv)
+|23/07/2022|1.1|Correções e Adição do documento ao reposítório | [Marcos Vinicius](https://github.com/marcos-mv)
+|25/07/2022|1.2|Revisão ortográfica do documento| [Gustavo Moreira](https://github.com/gustavoduartemoreira)
+
