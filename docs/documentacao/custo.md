@@ -32,6 +32,21 @@ ThinkPad L14 R3 | 10 Pessoas  | R$4.949,00 | R$49.490,00
 <p align = "justify"> Seguindo os valores da operadora Oi, teríamos o contrato de uma internet de 200 Mega, ao custo R$ 100,00 reais mensais. </p>
 
 
+#### Custo MVP
+Para a produção do MVP estimado em 2 meses de duração, temos então a seguinte estimativa de valores.
+
+Custo  | Valor unitário | Valor Total
+-|-|- 
+Aluno | R$ 10.225,00 | R$ 20.450,00
+Equipamento | R$49.490,00 | R$ 49.490,00
+Conta de Luz | R$ 34,08 | R$ 68,16
+Internet | R$ 100,00 | R$ 200,00
+**Total** || **R$ 70.208,16** |
+
+
+
+Portanto, o custo do MVP é estimado em **R$ 70.208,16**.
+
 #### Custo total
 Para um projeto estimado em 3 meses de duração, temos então a junção de todos os valores.
 
