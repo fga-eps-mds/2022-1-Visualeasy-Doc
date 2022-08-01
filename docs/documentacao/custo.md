@@ -81,3 +81,4 @@ Portanto, o custo final é de **R$ 80.567,24** .
 |------|------|------|------|
 |14/07/2022|1.0|Adiciona custos do projeto|[Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv)
 |15/07/2022|1.1| Correção ortografica, e mudança de valores no equipamento |[Gustavo Moreira](https://github.com/gustavoduartemoreira)
+|01/08/2022|1.2|Adição do Custo do MVP| [Marcos Vinicius](https://github.com/marcos-mv)

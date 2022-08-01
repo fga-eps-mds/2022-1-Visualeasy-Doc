@@ -93,6 +93,13 @@ Cada microsserviço é detalhado da seguinte forma:
 
 ## Visão de Dados
 
+Para a primeira versão da aplicação e para se adequar a questão do tempo disponível para a entrega. A visão de dados faz uma consulta a apenas a tabela "variavels" que possui atributos de acordo com o arquivo .csv disponibizado pelo cliente para população e testes da aplicação. 
+
+[![tabela_bd](images/tabela_bd.png)](images/tabela_bd.png)
+
+Para atualizações futuras e conforme a necessidade para a implantação no sistema do cliente a estrutura do banco será baseada nesse diagrama lógico de dados.
+
+[![visualeasy_dld](images/visualeasy_dld.png)](images/visualeasy_dld.png)
 
 ## Qualidade
 
@@ -147,4 +154,5 @@ Usabilidade</p>
 |19/07/2022|1.0|Criação do documento de arquitetura do projeto| [Bruna Santos](https://github.com/brunaalmeidasantos),[Estevão Reis](https://github.com/estevaoreis25), [Itallo Gravina](https://github.com/itallogravina), [Luis Bruno](https://github.com/lbrunofidelis), [Damarcones Porto](https://github.com/damarcones), [Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv), [Gustavo Moreira](https://github.com/gustavoduartemoreira), [Gabriel Batalha](https://github.com/gustavoduartemoreira), [João Pedro](https://github.com/Joao-Pedro-Moura)|
 |23/07/2022|1.1|Correções e Adição do documento ao reposítório | [Marcos Vinicius](https://github.com/marcos-mv)
 |25/07/2022|1.2|Revisão ortográfica do documento| [Gustavo Moreira](https://github.com/gustavoduartemoreira)
+|01/08/2022|1.4|Adição do tópico Visão de Dados| [Marcos Vinicius](https://github.com/marcos-mv)
 
