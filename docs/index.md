@@ -5,16 +5,19 @@
 
 <p align="justify">WIKI destinada à documentação do projeto Visualeasy, desenvolvido pelo time 7 para a disciplina Engenharia de Produto de Software (EPS), ministrada pelo prof. Hilmer Neri no primeiro semestre de 2022.</p>
 
-<p align="justify">Nesta WIKI estão disponíveis: Documentação do projeto, incluíndo o documento de arquitetura de <i>software</i> e protótipos; A visão do produto, construída com auxílio do método Lean Inception; Resumo das Sprints concluídas pela equipe; Políticas para a padronização do projeto; E atas de reuniões de equipe e de reuniões com os <i>Products Owners.</i></p>
+<p align="justify">Nesta WIKI estão disponíveis: Documentação do projeto, incluíndo o documento de arquitetura de <i>software</i> e protótipos; A visão do produto, construída com auxílio do método Lean Inception; Sprints; Políticas para a padronização do projeto; E atas de reuniões de equipe e de reuniões com os <i>Products Owners.</i></p>
 
 <h3 id="sobre-o-projeto">Sobre o Visualeasy</h3>
 <p align="justify">O Visualeasy é uma aplicação Web que fornece uma visualização gráfica de métricas históricas de variáveis de produção ao longo do tempo, para auxiliar na tomada de decisões.</p>
+
+<p align="justify">Para uma empresa de bebidas, cujo problema a ser resolvido é visualizar dados recebidos da fábrica, em diversos períodos. Assim, o Visualeasy é uma aplicação Web que fornece uma visualização gráfica de métricas históricas de variáveis de produção. Diferentemente de planilhas ou banco de dados brutos, que não são automatizados e não suportam o volume de dados, o nosso produto proporciona uma ferramenta de visualização de dados de forma gráfica ao longo do tempo, para auxiliar na tomada de decisões.</p>
 
 
 
 
 <h3 id="equipe">Equipe</h3>
 
+<p align="justify">A equipe de desenvolvimento do Visualeasy é composta por dez estudantes, que estão entre o 8º e 10º semestre do curso de Engenharia de Software da Universidade de Brasília.</p>
 
 <figure style="float:left;margin-right:16px;">
   <a href="https://github.com/brunaalmeidasantos" target="_blank" style="text-decoration: none">

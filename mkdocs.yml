@@ -9,21 +9,24 @@ nav:
     - Visualeasy: index.md
   - Visão de produto:
         - Lean Inception: visao-produto/lean-inception.md
-  - Documentação do Projeto:
-      - Product Backlog: documentacao/backlog.md
+  - Product Backlog: documentacao/backlog.md
+  - Arquitetura e Qualidade:
+    - Arquitetura do Projeto: documentacao/arquitetura.md
+    - Qualidade do Projeto: documentacao/qualidade.md
+  - Custo e Riscos:
       - Custo do Projeto: documentacao/custo.md
       - Riscos do Projeto: documentacao/risco.md
+  - Visual:
       - Protótipos de Baixa Fidelidade: documentacao/prot-baixa.md
-      - Arquitetura do Projeto: documentacao/arquitetura.md
-      - Qualidade do Projeto: documentacao/qualidade.md
       - Identidade Visual: documentacao/id-visual.md
-      - Plano de Comunicação: documentacao/plano-comunicacao.md
       - Protótipo de Alta Fidelidade: documentacao/prot-alta.md
-      - Quadro de conhecimentos: documentacao/quadro-conhecimento.md
-      - Termo de Abertura de Projeto: documentacao/tap.md
-  - Sprints:
-    - Modelo de Resumo das Sprints: scrum/modelo-resumo-sprint.md
-  - Políticas do Projeto:
+  - Organização:
+    - Termo de Abertura de Projeto: documentacao/tap.md
+    - Plano de Comunicação: documentacao/plano-comunicacao.md
+    - Quadro de conhecimentos: documentacao/quadro-conhecimento.md
+    - Metodologias: documentacao/metodologias.md
+    - Sprints: scrum/modelo-resumo-sprint.md  
+  - Políticas:
     - Padrão da Wiki: politicas/padrao-wiki.md
     - Política de Branch: politicas/politica_de_branch.md
     - Política de Commits: politicas/politica_de_commits.md
