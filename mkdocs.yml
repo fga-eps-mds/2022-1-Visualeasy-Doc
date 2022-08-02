@@ -9,6 +9,15 @@ nav:
     - Visualeasy: index.md
   - Visão de produto:
         - Lean Inception: visao-produto/lean-inception.md
+        - Visão de Produto: visao-produto/visao-prod.md
+        - O produto É - NÃO É - FAZ - NÃO FAZ: visao-produto/e-nao-e.md
+        - Objetivos de Negócio: visao-produto/objetivos-negocio.md
+        - Personas: visao-produto/personas.md
+        - Jornada do Usuário: visao-produto/jornada.md
+        - Brainstorming de Funcionalidades: visao-produto/brainstorming.md
+        - Revisão Técnica, de Negócio e UX: visao-produto/revisao.md
+        - Sequenciador: visao-produto/sequenciador.md
+        - MVP Canvas: visao-produto/mvp.md
   - Product Backlog: documentacao/backlog.md
   - Arquitetura e Qualidade:
     - Arquitetura do Projeto: documentacao/arquitetura.md
@@ -25,7 +34,7 @@ nav:
     - Plano de Comunicação: documentacao/plano-comunicacao.md
     - Quadro de conhecimentos: documentacao/quadro-conhecimento.md
     - Metodologias: documentacao/metodologias.md
-    - Sprints: scrum/modelo-resumo-sprint.md  
+    # - Sprints: scrum/modelo-resumo-sprint.md  
   - Políticas:
     - Padrão da Wiki: politicas/padrao-wiki.md
     - Política de Branch: politicas/politica_de_branch.md
