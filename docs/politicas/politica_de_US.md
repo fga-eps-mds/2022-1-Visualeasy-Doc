@@ -12,6 +12,8 @@ As hiśtórias de usuário(US) devem seguir o padrão a seguir:
 
 - Tarefas do Front-end: Descrever todas as tarefas da US que são de responsabilidade do front-end.
 
+## Código a ser usado
+
 ```
 ## Descrição
 
