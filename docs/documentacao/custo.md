@@ -33,22 +33,7 @@ ThinkPad L14 R3 | 10 Pessoas  | R$4.949,00 | R$49.490,00
  
  
 #### Custo MVP
-Para a produção do MVP estimado em 2 meses de duração, temos então a seguinte estimativa de valores.
- 
-Custo  | Valor unitário | Valor Total
--|-|-
-Aluno | R$ 10.225,00 | R$ 20.450,00
-Equipamento | R$49.490,00 | R$ 49.490,00
-Conta de Luz | R$ 34,08 | R$ 68,16
-Internet | R$ 100,00 | R$ 200,00
-**Total** || **R$ 70.208,16** |
- 
- 
- 
-Portanto, o custo do MVP é estimado em **R$ 70.208,16**.
- 
-#### Custo total
-Para um projeto estimado em 3 meses de duração, temos então a junção de todos os valores.
+Para a produção do MVP estimado em 3 meses de duração, temos então a seguinte estimativa de valores.
  
 Custo  | Valor unitário | Valor Total
 -|-|-
@@ -56,12 +41,36 @@ Aluno | R$ 10.225,00 | R$ 30.675,00
 Equipamento | R$49.490,00 | R$ 49.490,00
 Conta de Luz | R$ 34,08 | R$ 102,24
 Internet | R$ 100,00 | R$ 300,00
-**Total** || **R$ 80.567,24** |
+**Total** || **R$ 80.567,24** | 
  
  
+Portanto, o custo do MVP é estimado em **R$ 80.567,24**.
  
-Portanto, o custo final é de **R$ 80.567,24** .
+#### Custo total
+Para um projeto estimado em 4 meses de duração, temos então a junção de todos os valores.
  
+Custo  | Valor unitário | Valor Total
+-|-|-
+Aluno | R$ 10.225,00 | R$ 38.343,75
+Equipamento | R$49.490,00 | R$ 49.490,00
+Conta de Luz | R$ 34,08 | R$ 127,80
+Internet | R$ 100,00 | R$ 375,00
+**Total** || **R$ 88.336,55** |
+  
+ 
+Portanto, o custo final é de **R$ 88.336,55** .
+
+### Planilha
+
+Segue abaixo a planilha com a estimativa de custos por sprint.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="87%" height="229px"></iframe>
+
+Gráficos da distribuição dos custos por sprint.
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubchart?oid=1271245598&amp;format=interactive"></iframe>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubchart?oid=1863784430&amp;format=interactive"></iframe> 
  
  
 ### Referências
@@ -82,4 +91,5 @@ Portanto, o custo final é de **R$ 80.567,24** .
 |14/07/2022|1.0|Adiciona custos do projeto|[Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv)
 |15/07/2022|1.1| Correção ortográfica, e mudança de valores no equipamento |[Gustavo Moreira](https://github.com/gustavoduartemoreira)
 |01/08/2022|1.2|Adição do Custo do MVP| [Marcos Vinicius](https://github.com/marcos-mv)
+|10/08/2022|1.3|Adição do Custo por Sprint| [Gustavo Moreira](https://github.com/gustavoduartemoreira), [Marcos Vinicius](https://github.com/marcos-mv)
 
