@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<--*Este é um modelo para propostas de melhoria do Visualeasy. Este modelo serve como um guia inicial e deve ser personalizado caso necessário. Remover este texto.*-->
+<!--*Este é um modelo para propostas de melhoria do Visualeasy. Este modelo serve como um guia inicial e deve ser personalizado caso necessário. Remover este texto.*)-->
 
 Avise os desenvolvedores do Visualeasy da sua proposta.
 
@@ -24,6 +24,8 @@ Por exemplo.
 ## Proposto por:
 *(opcional: inserir nome ou organização)*
 
+## Proposta:
+<ol type="a">
 <li>Melhoria A</li>
 <i>Elaborar e apresentar a proposta de melhoria. Personalize conforme necessário.</i>
 </ol>
