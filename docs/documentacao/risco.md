@@ -12,45 +12,45 @@ Cada um dos riscos acima foram subdivididos nos subtópicos abaixo:
  
 ## Riscos de Projeto
  
-| Riscos | Consequência |
-|--------|--------------|
-| Indefinição do escopo | Alteração no planejamento e andamento das sprints |
-| Mudança do escopo | Alteração no planejamento e andamento das sprints |
-| Imaturidade da gerência | Planejamentos falhos, falta de qualidade, aumento do custo e tempo do projeto, entre outros |
-| Alteração na arquitetura | Gera retrabalho, alteração nas histórias planejadas, mudança de infraestrutura e código |
-| Comunicação não eficiente do grupo | Falhas de desenvolvimento, perda de informação e retrabalho |
-| Baixa produtividade dos integrantes  | Risco para o planejamento e aumento de tarefas não concluídas |
-| Divergência de horários entres os membros | Risco para o planejamento e aumento de tarefas não concluídas |
-| Dificuldades na integração do time | Risco para o planejamento e aumento de tarefas não concluídas |
-| Saída de membro do grupo | Sobrecarga e desgaste dos demais membros do grupo |
-| Falta de dedicação em atividades | Risco para o planejamento e aumento de tarefas não concluídas |
-| Atividades atrasadas | Risco para o planejamento e aumento de tarefas não concluídas |
-| Atividades secundárias dos membros | Risco para o planejamento e aumento de tarefas não concluídas |
+| Riscos | Consequência |Contigência|
+|--------|--------------|-----------|
+| Indefinição do escopo | Alteração no planejamento e andamento das sprints | Definir o escopo|
+| Mudança do escopo | Alteração no planejamento e andamento das sprints |Organizar novamente as sprints|
+| Imaturidade da gerência | Planejamentos falhos, falta de qualidade, aumento do custo e tempo do projeto, entre outros | Trocar a gerência|
+| Alteração na arquitetura | Gera retrabalho, alteração nas histórias planejadas, mudança de infraestrutura e código | Análisar se é a melhor alternativa mudar arquitetura |
+| Comunicação não eficiente do grupo | Falhas de desenvolvimento, perda de informação e retrabalho | Estruturar um padrão de comunicação no time| 
+| Baixa produtividade dos integrantes  | Risco para o planejamento e aumento de tarefas não concluídas | Reorganização das tarefas e em último caso, retirada de membros que atrapalham o time|
+| Divergência de horários entres os membros | Risco para o planejamento e aumento de tarefas não concluídas | Tentar alocar aqueles com horários compatíveis e os que não tem trabalham individualmente|
+| Dificuldades na integração do time | Risco para o planejamento e aumento de tarefas não concluídas |Procurar divergências para soluncionar e novas técnicas de entrosamento|
+| Saída de membro do grupo | Sobrecarga e desgaste dos demais membros do grupo | Redisbuição de tarefas de acordo com afinidade de conteúdo|
+| Falta de dedicação em atividades | Risco para o planejamento e aumento de tarefas não concluídas |Reuniões para motivar o time|
+| Atividades atrasadas | Risco para o planejamento e aumento de tarefas não concluídas | Procurar o motivo dos atrasos e solucionar|
+| Atividades secundárias dos membros | Risco para o planejamento e aumento de tarefas não concluídas |Encaixar os horários disponíveis dos membros na agenda do time| 
  
 ## Riscos Técnicos
  
-| Riscos | Consequência |
-|--------|--------------|
-| Falta ou falha de equipamentos | Prejudica o planejamento e atrasa as entregas |
-| Dificuldade com versionamento (git) | Inviabiliza o desenvolvimento do projeto |
-| Adaptação da equipe com as tecnologias | Prejudica o planejamento e atrasa as entregas |
+| Riscos | Consequência |Contingência|
+|--------|--------------|------------|
+| Falta ou falha de equipamentos | Prejudica o planejamento e atrasa as entregas |Buscar novos equipamentos assim que constatado o problema|
+| Dificuldade com versionamento (git) | Inviabiliza o desenvolvimento do projeto |Treinamento de git para os membros com dificuldade|
+| Adaptação da equipe com as tecnologias | Prejudica o planejamento e atrasa as entregas |Treinar toda a equipe no uso das ferramente (Dojô)
  
 ## Riscos Externos
  
-| Riscos | Consequência |
-|--------|--------------|
-| Questões burocráticas | Pode inviabilizar o andamento do projeto |
-| Indisponibilidade do cliente para validação do produto | Dificuldade de validação do produto |
+| Riscos | Consequência |Contigência|
+|--------|--------------|-----------|
+| Questões burocráticas | Pode inviabilizar o andamento do projeto |Resolver as questões burocráticas antes de dar início ao projeto|
+| Indisponibilidade do cliente para validação do produto | Dificuldade de validação do produto |Trabalhar naquilo que não precise de validação ou interromper a produção justificando o motivo para o cliente.
  
  
 ## Riscos de Produto
  
-| Riscos | Consequência |
-|--------|--------------|
-| Produto não atende às necessidades do cliente | Projeto falho e inutilizável |
-| Complexidade de codificação | Dificuldade na prestação de manutenção e correção de bugs |
-| Estabilidade do produto | Não atender às expectativas do cliente |
-| Falta de especificação de teste | Cobertura insuficiente de possíveis problemas e inviabilização da utilização do produto |
+| Riscos | Consequência |Contigência|
+|--------|--------------|-----------|
+| Produto não atende às necessidades do cliente | Projeto falho e inutilizável |Refatorar requisitos e reescrever escopo|
+| Complexidade de codificação | Dificuldade na prestação de manutenção e correção de bugs |Refatorar o código para verificar se a complexidade está correta|
+| Estabilidade do produto | Não atender às expectativas do cliente |Aplicar testes ou refatorar o produto
+| Falta de especificação de teste | Cobertura insuficiente de possíveis problemas e inviabilização da utilização do produto | Aumentar a cobertura de testes ou criar testes mais robustos
  
  
 ## Visualização Riscos
@@ -95,6 +95,7 @@ Tem como objetivo verificar a média de pontos que o grupo consegue entregar por
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |14/07/2022|1.0|Adiciona riscos do projeto|[Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv)
+|10/00/2022|2.0|Adiciona contigências|[Damarcones Porto](https://github.com/damarcones)
  
  
 
