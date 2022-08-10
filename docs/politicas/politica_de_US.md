@@ -41,4 +41,5 @@ As hiśtórias de usuário(US) devem seguir o padrão a seguir:
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
-|09/08/2022|1.0|Adiciona políticas de US|[Damarcones Porto](https://github.com/damarcones)|
+|09/08/2022|1.0|Adiciona políticas de US | [Damarcones Porto](https://github.com/damarcones)|
+|09/08/2022|1.1|Revisão gramatical | [Gustavo Duarte Moreira](https://github.com/gustavoduartemoreira)|
