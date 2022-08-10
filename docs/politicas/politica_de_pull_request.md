@@ -44,6 +44,6 @@ No _Template_ acima os trechos necessários devem ser substituídos e os campos 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |23/06/2022|1.0|Adiciona políticas de branchs|[itallo Gravina](https://github.com/itallogravina)|
-|09/08/2022|1.0|Adiciona template de pull request|[Gabriel Batalha](https://github.com/Gabriel-Azevedo-Batalha)|
+|09/08/2022|1.1|Adiciona template de pull request|[Gabriel Batalha](https://github.com/Gabriel-Azevedo-Batalha)|
 
 
