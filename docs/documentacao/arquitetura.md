@@ -77,7 +77,7 @@ Restrições:
  
 ### Visão Lógica
  
-Pacotes de Design Significativos do Ponto de Vista da Arquitetura.
+<p align ="justify">A aplicação Visualeasy é construída sobre o framework react no front-end e sobre o framework Node REST no back-end. React é uma biblioteca JavaScript de front-end de código aberto para a construção de interfaces de usuário ou componentes de IU. É mantido pelo time de engenharia do Facebook e por uma comunidade de desenvolvedores individuais e empresas. O framework Node REST utiliza uma variação da arquitetura MVC, chamada MTV(Model Template View) onde a “view” delega a informação apresentada para o template. O desenvolvimento em camadas e componentes é benéfico, pois tem custos reduzidos de desenvolvimento e manutenção e também de fácil reutilização em outros projetos.</p>
  
 #### Pacotes Visualeasy(API)
  
@@ -175,6 +175,7 @@ Usabilidade</p>
 |23/07/2022|1.1|Correções e Adição do documento ao reposítório | [Marcos Vinicius](https://github.com/marcos-mv)
 |25/07/2022|1.2|Revisão ortográfica do documento| [Gustavo Moreira](https://github.com/gustavoduartemoreira)
 |01/08/2022|1.4|Adição do tópico Visão de Dados, Visão Lógica-controle| [Marcos Vinicius](https://github.com/marcos-mv)
- 
+|13/08/2022|1.5|Refatora Visão Lógica| [Itallo Gravina](https://github.com/itallogravina)
+
  
 
