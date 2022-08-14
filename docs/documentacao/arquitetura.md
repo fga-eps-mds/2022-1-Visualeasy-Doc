@@ -6,14 +6,16 @@
  
 ### Escopo
 <p align = "justify"> Essa documentação foi elaborada sobre a visão de arquitetura de <em>software</em> que será utilizada para a implementação do projeto Visualeasy, para a evidenciar as decisões tomadas. Serão abordados os padrões de arquitetura, os <em>frameworks</em> que serão usados no desenvolvimento do projeto. O objetivo é fornecer visualização gráfica de séries temporais, proporcionando uma melhor visualização dos dados fornecidos à aplicação e permitindo uma tomada de decisão com base na análise dos dados.</p>
- 
-### Visão Geral
+
+<br>
+
+## Visão Geral
  
 <p align = "justify">Aqui serão detalhados as características primordiais da arquitetura adotada pela equipe desenvolvedora. Estarão presentes a representação arquitetural, as restrições de arquitetura, visão lógica, de implementação e de dados.</p>
  
-#### Representação da Arquitetura
+### Representação da Arquitetura
  
-<p align = "justify">Para o desenvolvimento do sistema Visualeasy, foi decidido a utilização de uma arquitetura em microsserviços. Microsserviços são uma abordagem arquitetônica e organizacional do desenvolvimento de <em>software</em> onde o <em>software</em> consiste em pequenos serviços independentes que se comunicam usando APIs bem definidas. Esses serviços pertencem a pequenas equipes autossuficientes.</p>
+<p align = "justify">Para o desenvolvimento do sistema Visualeasy, foi decidido a utilização de uma arquitetura em microsserviços. Microsserviços são uma abordagem arquitetônica e organizacional do desenvolvimento de <em>software</em>, onde o <em>software</em> consiste em pequenos serviços independentes que se comunicam usando APIs bem definidas. Esses serviços pertencem a pequenas equipes autossuficientes.</p>
  
 <p align ="justify">As arquiteturas de microsserviços facilitam a escalabilidade e agilizam o desenvolvimento de aplicativos, habilitando a inovação e acelerando o tempo de introdução de novos recursos no mercado.</p>
  
@@ -52,14 +54,16 @@ No sistema Visualeasy foi decidido a criação de 3 microsserviços, sendo eles:
 ### Metas e restrições da arquitetura
  
 Metas:
-- Funcionar nos principais browsers utilizados atualmente: Mozilla Firefox, Google Chrome e Microsoft Edge.
+
++ Funcionar nos principais browsers utilizados atualmente: Mozilla Firefox, Google Chrome e Microsoft Edge.
  
-- O código deve ser modularizado, facilitando a manutenção e com baixo acoplamento.
++ O código deve ser modularizado, facilitando a manutenção e com baixo acoplamento.
  
 Restrições:
-- Conexão com a Internet;
-- Conexão com a API;
-- Conexão ao Banco de Dados;
+
++ Conexão com a Internet;
++ Conexão com a API;
++ Conexão ao Banco de Dados;
  
 ### Ambiente e Ferramentas de Desenvolvimento
  
@@ -74,16 +78,17 @@ Restrições:
 |Virtualização|Docker-compose|3.9|Gerenciamento de contêiner|
 |Biblioteca|Jest|28.1.3|Biblioteca de testes|
  
+<br>
+
+## Visão Lógica
  
-### Visão Lógica
+<p align ="justify">Esta sessão apresenta os pacotes de design significativos do ponto de vista da arquitetura para o projeto Visualeasy.</p>
  
-Pacotes de Design Significativos do Ponto de Vista da Arquitetura.
- 
-#### Pacotes Visualeasy(API)
+### Pacotes Visualeasy (API)
  
 [![src_controle](images/src_controle.png)](images/postgres.png)
  
-Pacotes mais significativos da API
+<p align ="justify">Os pacotes mais significativos da API do Visualeasy são detalhados a seguir.</p>
  
 #### Model
 <p align ="justify">A Model identifica as entidades a serem utilizadas na aplicação de maneira correlacionada com conceitos abstraídos das circunstâncias apresentadas no mundo real. Nessa camada também é implementado a comunicação com o banco de dados.</p>
@@ -97,10 +102,12 @@ Pacotes mais significativos da API
  
 #### __tests__
 <p align ="justify">Outro pacote tão importante quanto o da source são os de testes utilizando o jest.js, serão realizadas verificações de unidade e integração para garantir a qualidade do software entregue.</p>
+
+<br>
+
+## Arquitetura dos Serviços e visão de Implementação
  
-### Arquitetura dos Serviços e visão de Implementação
- 
-#### Visão Geral
+### Visão Geral
  
 [![estrutura](images/estrutura.png)](images/estrutura.png)
  
@@ -110,48 +117,122 @@ Cada microsserviço é detalhado da seguinte forma:
  
 - <p align ="justify">Visualização de dados/gráficos : Front-end do produto composto pelo <em>framework</em> Next.Js, para a construção das telas, campos, validações e botões que o usuário irá interagir. Acompanhando o Next.Js, o D3.Js é responsável pela visualização dos dados tratados, gerando os gráficos.</p>
 - <p align ="justify">O Core é composto pelas APIs responsáveis pela autenticação de usuário e pelo controle, coleta de dados e geração de gráficos.</p>
- 
+
+<br>
+
 ## Visão de Dados
  
-Para a primeira versão da aplicação e para se adequar a questão do tempo disponível para a entrega. A visão de dados faz uma consulta a apenas a tabela "variavels" que possui atributos de acordo com o arquivo .csv disponibilizado pelo cliente para população e testes da aplicação.
+<p align ="justify">Para a primeira versão da aplicação e para se adequar a questão do tempo disponível para a entrega. A visão de dados faz uma consulta a apenas a tabela "variavels" que possui atributos de acordo com o arquivo .csv disponibilizado pelo cliente para população e testes da aplicação.</p>
  
 [![tabela_bd](images/tabela_bd.png)](images/tabela_bd.png)
  
 Para atualizações futuras e conforme a necessidade para a implantação no sistema do cliente a estrutura do banco será baseada nesse diagrama lógico de dados.
  
 [![visualeasy_dld](images/visualeasy_dld.png)](images/visualeasy_dld.png)
- 
+
+<br>
+
+
 ## Qualidade
  
-<p align ="justify">Para garantir a qualidade do sistema Visualeasy, serão seguidas 6 características de qualidade de software, definidas pela ISO9126 (em português, NBR13596). Cada característica está detalhada a seguir.</p>
- 
-### Funcionalidade
- 
-<p align ="justify">A funcionalidade de um software diz respeito à satisfação de necessidades que deram origem ao projeto. Abrange requisitos implícitos e explícitos e está intimamente ligada à qualidade do código criado. Neste sentido, o Visualeasy deve corresponder ao objetivo que originou sua demanda, e deve atender as necessidades que foram previstas para o usuário comum.</p>
- 
-<p align ="justify">A característica de funcionalidade abrange também questões de segurança do sistema. O desenvolvimento do Visualeasy deve garantir que apenas usuários autorizados tenham acesso às informações do sistema. Para isso, será implementado um sistema de autenticação de usuários, com a utilização de tokens para validação de acessos.</p>
- 
+<p align ="justify">Para garantir a qualidade do sistema Visualeasy, serão seguidas 7 de 8  características de qualidade do produto de <i>software</i>, definidas pela ISO/IEC 25010. A norma ISO/IEC 25010 define as características de qualidade que todos os <i>softwares</i> devem ter, de forma a alcançar um nível muito alto de qualidade no <i>software</i> que será entregue.</p>
+
+<p align ="justify">Todas as características seguidas pelo projeto Visualeasy pode ser visualizadas na imagem abaixo, e em seguida cada tópico será detalhado, para melhor entendimento.</p>
+
+[![ISO25010](images/ISO25010.png)](images/ISO25010.png)
+
+### Adequação Funcional
+
+<p align=justify>Esta característica representa o grau em que um produto ou sistema fornece funções que satisfazem as necessidades declaradas e implícitas quando utilizadas sob condições especificadas. Possui as seguintes subcaracterísticas:</p>
+
++ <p align=justify><b>Completude funcional:</b> Onde o conjunto de funções cobre todas as tarefas especificadas, e os objetivos do usuário;</p>
+
++ <p align=justify><b>Correção funcional:</b> Grau ao qual um produto ou sistema fornece os resultados corretos com o grau de precisão necessário;</p>
+
++ <p align=justify><b>Adequação funcional:</b> Onde as funções facilitam a realização das tarefas e objetivos especificados.</p>
+
+### Compatibilidade
+
+<p align=justify>Capacidade de sistemas em trocar informações com outros sistemas, e/ou executar as suas funções necessárias enquanto partilha o mesmo ambiente de <i>hardware</i> ou <i>software</i>. É composta pelas seguintes subcaracterísticas:</p>
+
++ <p align=justify><b>Coexistência:</b> Grau em que um produto pode desempenhar eficientemente as suas funções requeridas enquanto compartilha ambiente e recursos comuns com outros produtos, sem impacto prejudicial sobre qualquer outro produto.</p>
+
++ <p align=justify><b>Interoperabilidade:</b> Grau em que dois ou mais sistemas podem trocar informação e utilizar a informação que foi trocada.</p>
+
+### Usabilidade
+
+<p align=justify>Característica de um sistema que pode ser utilizado por usuários para atingir objetivos específicos com eficácia, eficiência e satisfação num contexto de utilização especificado. Esta característica é composta pelas seguintes subcaracterísticas:</p>
+
++ <p align=justify><b>Grau de reconhecimento de adequação:</b> Os utilizadores podem reconhecer se um sistema é apropriado para as suas necessidades;</p>
+
++ <p align=justify><b>Capacidade de aprendizagem:</b> Grau ao qual um sistema pode ser utilizado por usuários especificados para atingir objetivos específicos de aprendizagem de utilização do produto com eficácia, eficiência, ausência de risco e satisfação num contexto de utilização especificado;</p>
+
++ <p align=justify><b>Operabilidade:</b>Onde o sistema tem atributos que o tornam fácil de operar e controlar;</p>
+
++ <p align=justify><b>Proteção contra erros do usuário:</b> Onde o sistema protege os usuários contra a ocorrência de erros;</p>
+
++ <p align=justify><b>Estética da interface para o usuário:</b> Onde a interface permite uma interação agradável e satisfatória para o usuário;</p>
+
++ <p align=justify><b>Acessibilidade:</b> Onde o sistema pode ser utilizado por pessoas com a mais ampla gama de características e capacidades.</p>
+
 ### Confiabilidade
- 
-<p align ="justify">É a garantia que o software dá em não apresentar falhas em um período de tempo e ambiente específico. O Visualeasy busca apresentar os dados fidedignos em gráficos conforme o requisitado no banco de dados.
-Usabilidade</p>
- 
-<p align ="justify">A usabilidade está relacionada à meta de garantir que os usuários usem bem as funcionalidades de um sistema. A navegabilidade do Visualeasy deve ser intuitiva e fácil de ser utilizada, para que os usuários possam acessar as funcionalidades disponíveis sem grande esforço.</p>
- 
-### Eficiência
- 
-<p align ="justify">A eficiência se refere à forma como o sistema ajuda os usuários a realizar suas tarefas. O Visualeasy deve oferecer formas fáceis e rápidas para que o usuário encontre a funcionalidade ou informações que deseja. Além disso, o produto deve ser compatível com o nível que foi requerido para o produto. Sendo assim, o Visualeasy deve ser eficaz e atender necessidades dos Product Owners.</p>
- 
-### Manutenibilidade
- 
-<p align ="justify">A manutenibilidade está diretamente ligada à qualidade do software que produziremos. Manutenções corretivas devem ser constantes a fim de corrigir bugs ou outros problemas ligados a utilização do sistema. O sistema deve ser capaz de se adaptar às mudanças do ambiente onde irá atuar. Por exemplo, atualizar o sistema operacional ou tecnologias, bibliotecas.</p>
- 
-<p align ="justify">Também construiremos um sistema onde usuários (e/ou outros envolvidos) possam sugerir uma nova funcionalidade ou modificar alguma já existente, de modo a aumentar a qualidade ou prevenir futuros bugs, como manutenção preventiva. Utilizando ferramentas como sonarcloud podemos detectar problemas relacionados à qualidade de código escrito e construir um sistema mais fácil de se manter.</p>
- 
-### Portabilidade
- 
-<p align ="justify">A portabilidade é a característica de um sistema de software de se comportar de maneira igual em diversos ambientes operacionais. Sendo desenvolvido em Javascript, o Visualeasy tem a característica de ser nativo nos navegadores mais usados atualmente. Além disso, desenvolver uma documentação abrangente permite manter a escalabilidade e a continuidade do software, independentemente do desenvolvedor.</p>
- 
+
+<p align=justify>Onde um sistema executa funções especificadas durante um período de tempo especificado. Esta característica divide-se em:</p>
+
++ <p align=justify><b>Maturidade:</b> Grau ao qual o sistema satisfaz as necessidades de confiabilidade em funcionamento normal;</p>
+
++ <p align=justify><b>Disponibilidade:</b> O sistema deve estar operacional e acessível quando necessário para utilização;</p>
+
++ <p align=justify><b>Tolerância a falhas:</b> Onde o sistema funciona como pretendido, apesar da presença de falhas de <i>hardware</i> ou <i>software</i>;</p>
+
++ <p align=justify><b>Recuperação:</b> Grau ao qual, em caso de interrupção ou falha, o sistema pode recuperar os dados diretamente afetados e restabelecer o estado desejado do sistema.</p>
+
+
+### Segurança
+
+<p align=justify>Característica de um sistema que protege a informação e os dados de modo a que as pessoas ou sistemas tenham o grau de acesso aos dados adequado aos seus tipos e níveis de autorização. É composta pelas seguintes subcaracterísticas:</p>
+
++ <p align=justify><b>Confidencialidade:</b> Onde o sistema assegura que os dados são acessíveis apenas a quem está autorizado a ter acesso;</p>
+
++ <p align=justify><b>Integridade:</b> Onde o sistema impede o acesso não autorizado a dados;</p>
+
++ <p align=justify><b>Não repúdio:</b> Grau em que ações ou eventos podem ser comprovados de modo a que não possam ser repudiados mais tarde;</p>
+
++ <p align=justify><b>Responsabilidade:</b> Capacidade de que ações de uma entidade podem ser rastreadas de forma única à entidade;</p>
+
++ <p align=justify><b>Autenticidade:</b> Capacidade de se provar que a identidade de um sujeito ou recurso é a que foi reivindicada.</p>
+
+### Portabilidade 
+
+<p align=justify>Grau de eficácia e eficiência com o qual um sistema pode ser transferido de um <i>hardware</i>, <i>software</i> ou outro ambiente operacional ou de utilização para outro. É dividida nos seguintes tópicos:</p>
+
++ <p align=justify><b>Adaptabilidade:</b> O sistema pode ser adaptado eficaz e eficientemente para <i>hardware</i>, <i>software</i> ou outros ambientes operacionais ou de utilização diferentes ou em evolução;</p>
+
++ <p align=justify><b>Instalabilidade:</b> Grau de eficácia e eficiência com o qual o sistema pode ser instalado e/ou desinstalado com sucesso;</p>
+
++ <p align=justify><b>Substituibilidade:</b> Grau com o qual um produto pode substituir outro produto de <i>software</i> especificado para o mesmo fim no mesmo ambiente.</p>
+
+### Capacidade de Manutenção
+
+<p align=justify>Esta característica representa o grau de eficácia e eficiência com que um sistema pode ser modificado para o melhorar, corrigir ou adaptar às mudanças de ambiente e/ou requisitos. Esta característica é composta pelas seguintes subcaracterísticas:</p>
+
++ <p align=justify><b>Modularidade:</b> Onde o sistema é composto por componentes discretos, de tal forma que uma alteração a um componente tem um impacto mínimo sobre outros componentes;</p>
+
++ <p align=justify><b>Reusabilidade:</b> Grau em que um ativo pode ser utilizado em mais de um componente;</p>
+
++ <p align=justify><b>Analisabilidade:</b> Eficácia e eficiência com que é possível avaliar o impacto sobre um sistema de uma alteração pretendida para uma ou mais das suas partes, ou diagnosticar um produto para deficiências ou causas de falhas, ou identificar partes a serem modificadas;</p>
+
++ <p align=justify><b>Modificabilidade:</b> Capacidade de um sistema em ser eficaz e eficientemente modificado sem introduzir defeitos ou degradar a qualidade do produto;</p>
+
++ <p align=justify><b>Testabilidade:</b> Eficácia e eficiência com que podem ser estabelecidos critérios de teste para um sistema, produto ou componente e podem ser realizados testes para determinar se esses critérios foram cumpridos.</p>
+
+<br>
+
+As caracterísitcas de qualidade do produto de software serão avaliadas no [Teste de qualidade de uso](https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/documentacao/relatorio-qualidade/).
+
+
+<br>
+
 ## Referências
  
 * About Node.js. Node.js. Disponível em: [Node](https://nodejs.org/en/). Acesso em 20 de Julho de 2022.
@@ -162,11 +243,10 @@ Usabilidade</p>
 * The React Framework for Production. Next.js. Disponível em: [Next.js](nextjs.org/). Acesso em 21 de Julho de 2022.
 * O que é um bom software? Identifique essas 5 características! nata.house. Disponível em: [Natahouse](natahouse.com/pt/o-que-e-um-bom-software-identifique-essas-5-caracteristicas). Acesso em 21 de Julho de 2022.
 * O que são microsserviços? AWS. Disponível em: [AWS](https://aws.amazon.com/pt/microservices/.) Acesso em 21 de Julho de 2022.
-* Usabilidade e suas metas. Irla Rebelo, IHC na prática. Disponível em: [Irlabr](https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/6-usabilidade-e-suas-metas). Acesso em 21 de Julho de 2022.
-* Rogers et al. (2013). Design de Interação: Além da Interação Humano-Computador - Capítulo 1 - O que é design de interação.
-* Barbosa, S. D. J. and Silva, B. S. d. (2010). Interação Humano-Computador. Rio de Janeiro: Elsevier.
- 
- 
+* ISO/IEC 25010. ISO 2500. Disponível em: [ISO/IEC 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). Acesso em 10 de agosto de 2022.
+* Wikipédia. ISO/IEC 25010. Disponível em: [Wikipédia - ISO/IEC 25010](https://pt.wikipedia.org/wiki/ISO/IEC_25010). Acesso em 10 de agosto de 2022.
+
+
 ## Versionamento
  
 | Data | Versão | Descrição | Autor(es) |
@@ -174,7 +254,5 @@ Usabilidade</p>
 |19/07/2022|1.0|Criação do documento de arquitetura do projeto| [Bruna Santos](https://github.com/brunaalmeidasantos),[Estevão Reis](https://github.com/estevaoreis25), [Itallo Gravina](https://github.com/itallogravina), [Luis Bruno](https://github.com/lbrunofidelis), [Damarcones Porto](https://github.com/damarcones), [Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv), [Gustavo Moreira](https://github.com/gustavoduartemoreira), [Gabriel Batalha](https://github.com/gustavoduartemoreira), [João Pedro](https://github.com/Joao-Pedro-Moura)|
 |23/07/2022|1.1|Correções e Adição do documento ao reposítório | [Marcos Vinicius](https://github.com/marcos-mv)
 |25/07/2022|1.2|Revisão ortográfica do documento| [Gustavo Moreira](https://github.com/gustavoduartemoreira)
-|01/08/2022|1.4|Adição do tópico Visão de Dados, Visão Lógica-controle| [Marcos Vinicius](https://github.com/marcos-mv)
- 
- 
-
+|01/08/2022|1.3|Adição do tópico Visão de Dados, Visão Lógica-controle| [Marcos Vinicius](https://github.com/marcos-mv)
+|14/08/2022|1.4|Refatora tópico de qualidade|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|
