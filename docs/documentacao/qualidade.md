@@ -76,3 +76,4 @@ Os resultados dos testes de Qualidade em Uso serão relatados no documento de [R
 |14/07/2022|1.0|Adiciona documento de qualidade do projeto|[Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv)
 |25/07/2022|1.1|Revisão ortográfica do documento| [Gustavo Moreira](https://github.com/gustavoduartemoreira)
 |14/08/2022|1.2|Refatora tópico de testes de Qualidade em Uso|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|
+|15/08/2022|1.3|Revisão ortográfica do documento|[Damarcones Porto](https://github.com/damarcones)|
