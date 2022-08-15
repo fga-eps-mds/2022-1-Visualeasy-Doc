@@ -22,6 +22,7 @@ nav:
   - Arquitetura e Qualidade:
     - Arquitetura do Projeto: documentacao/arquitetura.md
     - Qualidade do Projeto: documentacao/qualidade.md
+    - Relatório dos Testes de Qualidade em Uso: documentacao/relatorio-qualidade.md
   - Custo e Riscos:
       - Custo do Projeto: documentacao/custo.md
       - Riscos do Projeto: documentacao/risco.md
