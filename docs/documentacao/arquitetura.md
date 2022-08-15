@@ -256,3 +256,4 @@ As caracterísitcas de qualidade do produto de software serão avaliadas no [Tes
 |25/07/2022|1.2|Revisão ortográfica do documento| [Gustavo Moreira](https://github.com/gustavoduartemoreira)
 |01/08/2022|1.3|Adição do tópico Visão de Dados, Visão Lógica-controle| [Marcos Vinicius](https://github.com/marcos-mv)
 |14/08/2022|1.4|Refatora tópico de qualidade|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|
+|15/08/2022|1.5|Revisão ortográfica do documento|[Damarcones Porto](https://github.com/damarcones)|
