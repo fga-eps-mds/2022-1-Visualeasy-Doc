@@ -23,3 +23,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |14/08/2022|1.0|Adiciona documento de Relatório de Execução e Resultados dos Testes de Qualidade em Uso|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|
+|15/08/2022|1.1|Correções ortográficas do documento.|[Damarcones Porto](https://github.com/damarcones)|
