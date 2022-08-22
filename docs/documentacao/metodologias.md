@@ -28,6 +28,15 @@
 <p align="justify">No contexto do projeto Visualeasy, as <i>Sprints</i> serão compostas de entregas semanais, intituladas <i>Releases</i>. Durante as reuniões semanais com os <i>Product Owners</i>(POs), os avanços realizados durante a execução das <i>Sprints</i> serão apresentadas aos POs.</p>
 
 
+
+### <i>Daily Meeting</i>
+
+<p align="justify">O <i>Daily Meeting</i> é uma reunião diária, normalmente com duração de 15 minutos, para discutir o que foi feito por cada membro da equipe, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar. O objetivo é deixar todos os integrantes cientes do trabalho um dos outros.</p>
+
+<p align="justify">No contexto da equipe <b>Visualeasy</b>, o <i>Daily Meeting</i> será realizado de segunda à sexta-feira, durante reunião às 20h na plataforma <i>Discord</i>, e cada integrante deverá falar sobre o que fez no dia em relação ao projeto, o que pretende fazer no dia seguinte e seus impedimentos para trabalhar. O relato de cada integrante será documentado no drive da equipe. Aos sábados não haverá reunião do grupo, e cada integrante apenas preencherá o documento de <i>Daily Meeting</i>. Aos domingos não será realizado <i>Daily Meeting</i>.</p>
+
+
+
 ### <i>Sprint Review</i>
 <p align="justify"><i>Sprint Review</i> é um momento de validação e verificação que ocorre antes do <i>Sprint planning</i>. Durante essa revisão, são analisadas as entregas da <i>Sprint</i> anterior e sua qualidade. Após essa análise, a atividade pode ser concluída ou pode voltar para o <i>Product Backlog</i>, associada com um pedido de correção. Durante esse evento também é discutido dificuldades enfrentadas e pontos de melhoria para a próxima sprint.</p>
 
@@ -60,6 +69,8 @@
 
 + artia.blog, 2020. <b>Você realmente sabe o que é SPRINT? Veja definição e aprenda como fazer na sua empresa</b>. Disponível em: https://artia.com/blog/sprint/. Acesso em 31 de julho de 2022.
 
++ Robson Camargo, 2019. <b>Conheça a importância de daily meeting nos métodos ágeis</b>. Disponível em : https://robsoncamargo.com.br/blog/daily-meeting. Acesso em 22 de agosto de 2022.
+
 <br>
 
 ## Versionamento
@@ -67,3 +78,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |31/07/2022|1.0|Adiciona metodologias do projeto|[Bruna Santos](https://github.com/brunaalmeidasantos)|
+|22/08/2022|1.1|Refatora tópico de Scrum|[Bruna Santos](https://github.com/brunaalmeidasantos)|
