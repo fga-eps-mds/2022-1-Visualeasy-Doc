@@ -35,7 +35,12 @@ nav:
     - Plano de Comunicação: documentacao/plano-comunicacao.md
     - Quadro de conhecimentos: documentacao/quadro-conhecimento.md
     - Metodologias: documentacao/metodologias.md
-    # - Sprints: scrum/modelo-resumo-sprint.md  
+  - Sprints:
+    - Modelo de Resumo para Sprints: scrum/modelo-resumo-sprint.md
+    - Sprint 0: scrum/sprint0.md
+    - Sprint 1: scrum/sprint1.md
+    - Sprint 2: scrum/sprint2.md
+    - Sprint 3: scrum/sprint3.md 
   - Políticas:
     - Padrão da Wiki: politicas/padrao-wiki.md
     - Política de Branch: politicas/politica_de_branch.md
