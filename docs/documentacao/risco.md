@@ -61,26 +61,26 @@ O grau dos riscos é definido pela multiplicação da probabilidade de ocorrênc
  
 As classificações de risco foram definidas da seguinte forma:
  
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=1432428913&amp;single=true" width="87%" height="229px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=1432428913&amp;single=true" width="81%" height="255px"></iframe>
  
 ### Quadro de Riscos
  
 Seguindo um dos pilares do Scrum que diz respeito à transparência, e do PMBOK  a respeito do monitoramento e gerenciamento de riscos, os riscos serão mapeados rigorosamente (e pontuados) e podem ser vistos na tabela abaixo:
  
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=0&amp;single=true" width="100%" height="590px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=0&amp;single=true" width="100%" height="680px"></iframe>
  
  
 ### *Burndown* de Riscos
  
 As informações coletadas durante a avaliação de risco podem ser usadas para criar um Gráfico de *Burndown* de Risco. Ele descreve os riscos identificados no projeto, os monitora analisando seus respectivos impactos e probabilidade de ocorrência ao longo do período de desenvolvimento do projeto.
  
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=403121833&amp;single=true" width="100%" height="300px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=403121833&amp;single=true" width="100%" height="900px"></iframe>
  
 ### Velocity
  
 Tem como objetivo verificar a média de pontos que o grupo consegue entregar por sprint. Quanto mais alta for essa medida, maior a produtividade e, consequentemente, maior capacidade de desenvolvimento da equipe. Ele será elaborado ao fim de cada sprint e é consultado no planejamento da sprint seguinte.
  
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=1408380136&amp;single=true" width="100%" height="100x"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=1408380136&amp;single=true" width="100%" height="400px"></iframe>
  
 ### Referências
  
@@ -98,7 +98,8 @@ Tem como objetivo verificar a média de pontos que o grupo consegue entregar por
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |14/07/2022|1.0|Adiciona riscos do projeto|[Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv)
-|10/00/2022|2.0|Adiciona contigências|[Damarcones Porto](https://github.com/damarcones)
+|10/08/2022|2.0|Adiciona contigências|[Damarcones Porto](https://github.com/damarcones)
+|29/08/2022|3.0|Atualização do gráficos|[Marcos Vinícius](https://github.com/marcos-mv)
  
  
 
