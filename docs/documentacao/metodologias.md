@@ -61,15 +61,15 @@
 
 ## Referências
 
-+ Ponto.Tel, 2021. <b>Entenda o conceito da Metodologia Scrum, e veja como ela pode auxiliar na sua gestão de projetos!</b>. Disponível em: https://www.pontotel.com.br/metodologia-scrum/. Acesso em 20 de julho de 2022.
++ Ponto.Tel. <b>Entenda o conceito da Metodologia Scrum, e veja como ela pode auxiliar na sua gestão de projetos!</b>. Disponível em: [pontotel.com.br/metodologia-scrum/](https://www.pontotel.com.br/metodologia-scrum/). Acesso em 20 de julho de 2022.
 
-+ DesenvolvimentoAgil.com.br. <b>Product Backlog</b>. Disponível em: http://www.desenvolvimentoagil.com.br/scrum/product_backlog. Acesso em 20 de julho de 2022.
++ DesenvolvimentoAgil.com.br. <b>Product Backlog</b>. Disponível em: [desenvolvimentoagil.com.br/scrum/product_backlog](http://www.desenvolvimentoagil.com.br/scrum/product_backlog). Acesso em 20 de julho de 2022.
 
-+ Agile Alliance. <b>Extreme Programming (XP)</b>. Disponível em: https://www.agilealliance.org/glossary/xp/. Acesso em 20 de julho de 2022.
++ Agile Alliance. <b>Extreme Programming (XP)</b>. Disponível em: [agilealliance.org/glossary/xp/](https://www.agilealliance.org/glossary/xp/). Acesso em 20 de julho de 2022.
 
-+ artia.blog, 2020. <b>Você realmente sabe o que é SPRINT? Veja definição e aprenda como fazer na sua empresa</b>. Disponível em: https://artia.com/blog/sprint/. Acesso em 31 de julho de 2022.
++ Artia. <b>Você realmente sabe o que é SPRINT? Veja definição e aprenda como fazer na sua empresa</b>. Disponível em: [artia.com/blog/sprint/](https://artia.com/blog/sprint/) . Acesso em 31 de julho de 2022.
 
-+ Robson Camargo, 2019. <b>Conheça a importância de daily meeting nos métodos ágeis</b>. Disponível em : https://robsoncamargo.com.br/blog/daily-meeting. Acesso em 22 de agosto de 2022.
++ Robson Camargo. <b>Conheça a importância de daily meeting nos métodos ágeis</b>. Disponível em: [robsoncamargo.com.br/blog/daily-meeting](https://robsoncamargo.com.br/blog/daily-meeting). Acesso em 22 de agosto de 2022.
 
 <br>
 

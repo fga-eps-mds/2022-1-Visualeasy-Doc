@@ -20,7 +20,9 @@
 
 ### Referências
 
-+ Prototipagem de alta fidelidade: o que é, quando, por que e como usar? 2020. Disponível em: medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b. Acesso em 19 de julho de 2022.
++ Medium. <b>Prototipagem de alta fidelidade: o que é, quando, por que e como usar?</b> 2020. Disponível em: [medium.com](medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b). Acesso em 19 de julho de 2022.
+
++ Protótipo de alta fidelidade desenvolvido na plataforma [figma.com](https://www.figma.com/).
 
 ### Versionamento
 

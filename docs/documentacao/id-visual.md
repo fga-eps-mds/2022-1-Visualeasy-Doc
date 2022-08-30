@@ -14,9 +14,9 @@
 
 
 ## Referências
-+ [rockcontent.com/br/blog/identidade-visual/](https://rockcontent.com/br/blog/identidade-visual/)
-+ [Figma](https://www.figma.com/);
-+ [Canva](https://www.canva.com/).
++ rockcontent. <b>Entenda o que é identidade visual e qual a sua importância para a estratégia do seu negócio</b>. Disponível em: [rockcontent.com/br/blog/identidade-visual/](https://rockcontent.com/br/blog/identidade-visual/). Acesso em 10 de julho de 2022.
+
++ Documento de identidade visual desenvolvido nas plataformas [figma.com](https://www.figma.com/) e [canva.com](https://www.canva.com/).
 
 <br>
 

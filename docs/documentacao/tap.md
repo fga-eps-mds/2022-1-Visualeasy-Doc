@@ -53,9 +53,10 @@
 <p align="justify">A princípio o Discord e o Microsoft Teams serão as ferramentas de comunicação entre as partes interessadas do projeto. No <a href=../plano-comunicacao>Plano de comunicação</a> do projeto é relatado mais detalhadamente sobre a comunicação utilizada.</p>
 
 ## Referências
-LANZ, Luciano Quinto. LANZ, Renata. Modelos de Termo de Abertura de Projeto. **PMKB**, 2013. Disponível em: <https://pmkb.com.br/artigos/modelos-de-termo-de-abertura-de-projeto/>. Acesso em: 14 de jul. de 2022.
 
-ESPINHA, Roberto Gil. Termo de abertura do projeto: o que é e como montar o seu. **Artia**. Disponível em: <https://artia.com/blog/termo-de-abertura-do-projeto/>. Acesso em: 14 de jul. de 2022.
++ PMBK. <b>Modelos de Termo de Abertura de Projeto</b>. Disponível em: [https://pmkb.com.br/artigos/modelos-de-termo-de-abertura-de-projeto/](https://pmkb.com.br/artigos/modelos-de-termo-de-abertura-de-projeto/). Acesso em 14 de julho de 2022.
+
++ Artia. <b>Termo de abertura do projeto: o que é e como montar o seu</b>. Disponível em: [artia.com/blog/termo-de-abertura-do-projeto/](https://artia.com/blog/termo-de-abertura-do-projeto/). Acesso em 14 de julho de 2022.
 
 
 ## Versionamento

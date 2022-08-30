@@ -84,10 +84,13 @@ Tem como objetivo verificar a média de pontos que o grupo consegue entregar por
  
 ### Referências
  
-* Lino. Disponível em [Github - Lino](https://github.com/BotLino/Lino);
-* Gerenciamento de riscos em projetos ágeis - Cultura Ágil. Disponível em [Cultura Ágil](https://www.culturaagil.com.br/gerenciamento-de-riscos-em-projetos-ageis/);
-* Visão da gerência de riscos na engenharia de software. Disponível em [Devmedia](https://www.devmedia.com.br/visao-da-gerencia-de-riscos-na-engenharia-de-software/9144#:~:text=%C2%A7%20Riscos%20de%20Produto%20de,codifica%C3%A7%C3%A3o%20e%20especifica%C3%A7%C3%A3o%20de%20testes.).
-* Project Management Body of Knowledge. Disponível em [PMBOK](https://web.archive.org/web/20200701142517/http://itq.ch/pdf/pmbok1.pdf). 
++ GitHub. <b>Bot Lino</b>. Disponível em [github.com/BotLino/Lino](https://github.com/BotLino/Lino). Acesso em 14 de julho de 2022.
+
++ Gerenciamento de riscos em projetos ágeis - Cultura Ágil. Disponível em [Cultura Ágil](https://www.culturaagil.com.br/gerenciamento-de-riscos-em-projetos-ageis/). Acesso em 14 de julho de 2022.
+
++ Devmedia. <b>Visão da gerência de riscos na engenharia de software</b>. Disponível em [devmedia.com](https://www.devmedia.com.br/visao-da-gerencia-de-riscos-na-engenharia-de-software/9144#:~:text=%C2%A7%20Riscos%20de%20Produto%20de,codifica%C3%A7%C3%A3o%20e%20especifica%C3%A7%C3%A3o%20de%20testes.). Acesso em 14 de julho de 2022.
+
++ PMBOK. <b>Project Management Body of Knowledge</b>. Disponível em [PMBOK](https://web.archive.org/web/20200701142517/http://itq.ch/pdf/pmbok1.pdf). Acesso em 14 de julho de 2022.
  
  
 ## Versionamento

@@ -37,10 +37,14 @@
 
 ### Referências
 
-+ <i>Ebook: Lean Inception</i>, Paulo Caroli;
-+ O que é e como criar a visão e a estratégia do produto?. 2016. Disponível em: pt.linkedin.com/pulse/o-que-%C3%A9-e-como-criar-vis%C3%A3o-estrat%C3%A9gia-do-produto-joaquim-torres. Acesso em 19 de julho de 2022.
-+ Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-+ Jornada do Usuário: o que é e qual a importância?. 2022. Disponível: blog.opinionbox.com/jornada-do-usuario/. Acesso em 19 de julho de 2022.
++ Paulo Caroli. <b><i>Lean Inception</i></b>. <i>Ebook</i>.
+
++ Linkedin. <b>O que é e como criar a visão e a estratégia do produto?</b>. 2016. Disponível em: 
+<a href = "pt.linkedin.com/pulse/o-que-%C3%A9-e-como-criar-vis%C3%A3o-estrat%C3%A9gia-do-produto-joaquim-torres">pt.linkedin.com</a>. Acesso em 19 de julho de 2022.
+
++ Barbosa e Silva. <b>Interação Humano-Computador</b>. Livro, 1ª edição, Rio de Janeiro: Elsevier, 2010.
+
++ opinion box. <b>Jornada do Usuário: o que é e qual a importância?</b>. 2022. Disponível em: <a href = "blog.opinionbox.com/jornada-do-usuario/">blog.opinionbox.com/jornada-do-usuario/</a>. Acesso em 19 de julho de 2022.
 
 ### Versionamento
 

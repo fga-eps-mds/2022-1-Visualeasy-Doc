@@ -62,10 +62,13 @@ Os resultados dos testes de Qualidade em Uso serão relatados no documento de [R
 
 ### Referências
 
-* Software Quality. Disponível em: [Software Quality](https://asq.org/quality-resources/software-quality#:~:text=Software%20quality%20is%20defined%20as,defect%20management%20and%20quality%20attributes). Acesso em 20 de Julho de 2022.
-* Jest.org. Disponível em: [Jest](https://jestjs.io/pt-BR/). Acesso em 20 de Julho de 2022.
-* SonarCloud. Disponível em: [Sonarcloud](https://jestjs.io/pt-BR/). Acesso em 20 de Julho de 2022.
-* ESLint. Disponível em: [ESLint](https://eslint.org/). Acesso em 20 de Julho de 2022.
++ ASQ. <b>What is Software Quality?</b> Disponível em: [asq.org](https://asq.org/quality-resources/software-quality#:~:text=Software%20quality%20is%20defined%20as,defect%20management%20and%20quality%20attributes). Acesso em 20 de Julho de 2022.
+
++ Jest.org. <b>JEST</b>. Disponível em: [jestjs.io](https://jestjs.io/pt-BR/). Acesso em 20 de Julho de 2022.
+
++ SonarCloud. <b>SonarCloud</b>. Disponível em: [sonarcloud.io](https://sonarcloud.io/). Acesso em 20 de Julho de 2022.
+
++ ESLint.org. <b>ESLint</b>. Disponível em: [eslint.org](https://eslint.org/). Acesso em 20 de Julho de 2022.
 
 
 

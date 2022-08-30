@@ -235,16 +235,25 @@ As caracterísitcas de qualidade do produto de software serão avaliadas no [Tes
 
 ## Referências
  
-* About Node.js. Node.js. Disponível em: [Node](https://nodejs.org/en/). Acesso em 20 de Julho de 2022.
-* Data-Driven Documents. D3.js. Disponível em: [D3.js](https://d3js.org/). Acesso em 20 de Julho de 2022.
-* Docker overview. Docker docs. Disponível em: [Docker](https://docs.docker.com/get-started/overview/). Acesso em 21 de Julho de 2022.
-* About Postgresql. Postgresql. Disponível em: [Postgres](https://www.postgresql.org/about/). Acesso em 21 de Julho de 2022.
-* O que é PostgreSQL? Microsoft Azure. Disponível em: [Azure](azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-postgresql/). Acesso em 21 de Julho de 2022.
-* The React Framework for Production. Next.js. Disponível em: [Next.js](nextjs.org/). Acesso em 21 de Julho de 2022.
-* O que é um bom software? Identifique essas 5 características! nata.house. Disponível em: [Natahouse](natahouse.com/pt/o-que-e-um-bom-software-identifique-essas-5-caracteristicas). Acesso em 21 de Julho de 2022.
-* O que são microsserviços? AWS. Disponível em: [AWS](https://aws.amazon.com/pt/microservices/.) Acesso em 21 de Julho de 2022.
-* ISO/IEC 25010. ISO 2500. Disponível em: [ISO/IEC 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). Acesso em 10 de agosto de 2022.
-* Wikipédia. ISO/IEC 25010. Disponível em: [Wikipédia - ISO/IEC 25010](https://pt.wikipedia.org/wiki/ISO/IEC_25010). Acesso em 10 de agosto de 2022.
++ Node.js. <b>About Node.js</b>. Disponível em: [Node](https://nodejs.org/en/). Acesso em 20 de Julho de 2022.
+
++ D3.js. <b>Data-Driven Documents</b>. Disponível em: [D3.js](https://d3js.org/). Acesso em 20 de Julho de 2022.
+
++ Docker docs. <b>Docker overview</b>. Disponível em: [Docker](https://docs.docker.com/get-started/overview/). Acesso em 21 de Julho de 2022.
+
++ Postgresql. <b>About Postgresql</b>. Disponível em: [Postgres](https://www.postgresql.org/about/). Acesso em 21 de Julho de 2022.
+
++ Microsoft Azure. <b>O que é PostgreSQL?</b> Disponível em: [Azure](azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-postgresql/). Acesso em 21 de Julho de 2022.
+
++ Next.js. <b>The React Framework for Production</b>. Disponível em: [Next.js](nextjs.org/). Acesso em 21 de Julho de 2022.
+
++ nata.house. <b>O que é um bom software? Identifique essas 5 características!</b> Disponível em: [Natahouse](natahouse.com/pt/o-que-e-um-bom-software-identifique-essas-5-caracteristicas). Acesso em 21 de Julho de 2022.
+
++ AWS. <b>O que são microsserviços?</b> Disponível em: [AWS](https://aws.amazon.com/pt/microservices/.) Acesso em 21 de Julho de 2022.
+
++ ISO/IEC 25010. <b>ISO 2500</b>. Disponível em: [ISO/IEC 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). Acesso em 10 de agosto de 2022.
+
++ Wikipédia. <b>ISO/IEC 25010</b>. Disponível em: [Wikipédia - ISO/IEC 25010](https://pt.wikipedia.org/wiki/ISO/IEC_25010). Acesso em 10 de agosto de 2022.
 
 
 ## Versionamento

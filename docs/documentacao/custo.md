@@ -75,13 +75,13 @@ Gráficos da distribuição dos custos por sprint.
  
 ### Referências
  
-**Gerenciando custos em um projeto**, Disponível em: https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/GPP_Material/textos/1502158711eBook_-_Gerenciando_Custos.pdf . Acessado em 14/07/2022
++ Organização "fga-eps-mds". <b>Gerenciando custos em um projeto</b>. Disponível em: [github.com/fga-eps-mds/A-Disciplina-MDS-EPS](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/GPP_Material/textos/1502158711eBook_-_Gerenciando_Custos.pdf). Acesso em 14 de julho de 2022.
  
-**A cobrança de mensalidades nas universidades públicas**, Jornal da USP. Disponível em: https://jornal.usp.br/artigos/a-cobranca-de-mensalidades-nas-universidades-publicas/ . Acessado em 14/07/2022
++ Jornal da USP. <b>A cobrança de mensalidades nas universidades públicas</b>. Disponível em: [jornal.usp.br/artigos](https://jornal.usp.br/artigos/a-cobranca-de-mensalidades-nas-universidades-publicas/). Acesso em 14 de julho de 2022.
  
-**Notebook lenovo ThinkPad L14 R3 Pro**, Disponível em: https://www.magazineluiza.com.br/notebook-lenovo-thinkpad-l14-r3-pro-8gb-256gb-ssd-w11-pro-14-hd-20u6002rbo-preto/p/fc89fkh8d5/in/note/ . Acessado em 14/07/2022
++ Magazine Luiza. <b>Notebook lenovo ThinkPad L14 R3 Pro</b>. Disponível em: [magazineluiza.com.br/notebook-lenovo-thinkpad](https://www.magazineluiza.com.br/notebook-lenovo-thinkpad-l14-r3-pro-8gb-256gb-ssd-w11-pro-14-hd-20u6002rbo-preto/p/fc89fkh8d5/in/note/). Acesso em 14 de julho de 2022.
  
-**Internet OI 100 MB**, Disponível em: https://www.oi.com.br/internet. Acessado em 14/07/2022
++ oi.com. <b>Internet OI 100 MB</b>. Disponível em: [oi.com.br/internet](https://www.oi.com.br/internet). Acesso em 14 de julho de 2022.
  
  
 ## Versionamento
