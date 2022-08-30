@@ -73,29 +73,54 @@
 <br>
 
 
+<p align = "justify"><i>Daily Meeting</i> de 22 de agosto de 2022 (Segunda-feira).</p>
+
+ <object data="/scrum/daily/DAILY-22_08.pdf" type="application/pdf" width="690px" height="400px">
+<embed src="/scrum/daily/DAILY-22_08.pdf">
+        <p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-22_08.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<br>
+
+
+<p align = "justify"><i>Daily Meeting</i> de 23 de agosto de 2022 (Terça-feira).</p>
+
+ <object data="/scrum/daily/DAILY-23_08.pdf" type="application/pdf" width="690px" height="400px">
+<embed src="/scrum/daily/DAILY-23_08.pdf">
+        <p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-23_08.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<br>
+
+
 
 ## Revisão
 
 ### O que foi concluído nessa Sprint?
 
-<p align = "justify"></p>
+<p align = "justify">As USs 11 e 12.</p>
 
 
 ### Aspectos da Sprint
 
 #### Aspectos positivos
 
-<p align = "justify"></p>
+<p align = "justify">Parte do código do <i>Frontend</i> do projeto foi refatorado, o que vai facilitar a implementação das próximas funcionalidades planejadas.</p>
 
 
 #### Problemas/soluções
 
-<p align = "justify"></p>
++ Problema: Atraso na entrega de trabalho de algumas duplas, por falta de conhecimento para implementar algumas USs;
+    + Solução: Reorganizar as duplas, de modo que sejam compostas por uma pessoa com menos conhecimento com as ferramentas e uma com mais conhecimento.
 
++ Problema: Cobertura de testes abaixo do esperado:
+    + Solução: Maior desempenho da equipe em fazer os testes.
 
 ### O que vem a seguir?
 
-<p align = "justify"></p>
+<p align = "justify">Continuar o desenvolvimento do Épico 2, concluindo as USs pendentes da Sprint 3.</p>
 
 <br>
 
