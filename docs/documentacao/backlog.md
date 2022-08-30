@@ -6,7 +6,7 @@
 
 <br>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpuecqN9l1Z45q5PbQjnHbCs0WOs30DWCg-c9J9kdriUwJVcGI6KWGtHBsAvJavPR8JjbsCYd2PCo3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" style="height: 100vh;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwmUtX6SdBjGwR0TnPJqhPQjEUtTOkhYm3c7kd7c0gcWERvStYG0WO0mBOl3YRTlx9yeGUbrdQTEEn/pubhtml?widget=true&amp;headers=false" width="100%" style="height: 100vh;"></iframe>
 
 <br>
 
@@ -16,7 +16,11 @@
 
 <br>
 
-![Planning Poker](/Imagens/planning-poker.png)
+<figure>
+<img align=center width="700" src="../../Imagens/planning-poker.png">
+<br>
+</figure>
+
 
 
 <br>
@@ -27,3 +31,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |19/07/2022|1.0|Adiciona documento sobre o <i>Product Backlog</i>|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|
+|30/08/2022|1.1|Refatora <i>Product Backlog</i>|[Bruna Santos](https://github.com/brunaalmeidasantos)|
