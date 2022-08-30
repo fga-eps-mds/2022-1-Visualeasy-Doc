@@ -107,7 +107,7 @@
 
 #### Aspectos positivos
 
-<p align = "justify">Parte do código do <i>Frontend</i> do projeto foi refatorado, o que vai facilitar a implementação das próximas funcionalidades planejadas.</p>
++ <p align = "justify">Parte do código do <i>Frontend</i> do projeto foi refatorado, o que vai facilitar a implementação das próximas funcionalidades planejadas.</p>
 
 
 #### Problemas/soluções
