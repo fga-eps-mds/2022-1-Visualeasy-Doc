@@ -6,11 +6,9 @@
 
 <p align="justify">O manual de identidade visual do projeto Visualeasy contém: Logo da aplicação - incluíndo suas variações -; Paleta de cores; Tipografia; Botões; Cards; e Campos.</p>
 
- <object data="/Imagens/id-visual.pdf" type="application/pdf" width="690px" height="430px">
-<embed src="/Imagens/id-visual.pdf">
-        <p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/Imagens/id-visual.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="/Imagens/id-visual.pdf" type="application/pdf" width="750px" height="500px"></object>
+
+<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/Imagens/id-visual.pdf">Download PDF</a>.</p>
 
 
 ## Referências
@@ -25,3 +23,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |16/07/2022|1.0|Adiciona identidade visual do projeto|[Bruna Santos](https://github.com/brunaalmeidasantos), [Luis Bruno](https://github.com/lbrunofidelis)|
+|16/07/2022|1.1|Correção do link pdf da identidade visual|[Gustavo Moreira](https://github.com/gustavoduartemoreira)|
