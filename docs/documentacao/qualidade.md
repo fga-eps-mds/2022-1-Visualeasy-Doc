@@ -36,26 +36,44 @@
 
 <br>
 
+
+
+
 ## <b>Testes de Usabilidade</b>
 
 ### Introdução
 
-<p align = "justify">A execução de testes de usabilidade baseia-se na aplicação da técnica de validação utilizada para avaliar um produto ou serviço. Os testes são realizados com usuários representativos do público-alvo. No caso da aplicação Visualeasy, os testes serão efetuados com o cliente logo após o lançamento de cada <i>Release</i>.</p>
+<p align = "justify">A execução de testes de usabilidade baseia-se na aplicação da técnica de validação utilizada para avaliar um produto ou serviço. Os testes são realizados com usuários representativos do público-alvo. No caso da aplicação Visualeasy, os testes serão efetuados com o cliente logo após o lançamento de cada <i>Release</i>, durante a aplicação dos formulários para validação.</p>
 
 ### Planejamento
 
-<p align = "justify">Os testes de usabilidade serão feitos a partir da validação de novas funcionalides com os clientes, durante as reuniões semanais com os <i>POS</i> do VisualEasy; e, uma vez que a aplicação esteja online, serão coletados dados de utilização e <i>feedback</i> sobre a aplicação por parte do cliente.</p>
+<p align = "justify">Os testes de usabilidade serão feitos juntamente com a da validação de novas funcionalides com os clientes, durante as releases lançadas nas reuniões semanais com os <i>POS</i> do VisualEasy; e, uma vez que a aplicação esteja online, serão coletados dados de utilização e <i>feedback</i> sobre a aplicação por parte do cliente.</p>
 
-Durante a execução dos testes de qualidade em uso, serão analisadas questões quanto à UX, a ISO25010 detalhada no documento de [Arquitetura](https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/documentacao/arquitetura/), e se os artefatos entregues atendem à solução proposta. Por questões de padronização, os dados coletados serão registrados em tabelas, como no exemplo a seguir.
+<p align = "justify">O formulário de validação das Histórias de Usuário irá abordar, além de questões para o usuário validar cada uma das USs concluídas, perguntas padronizadas acerca da usabilidade de cada funcionalidade implementada e apresentada na Release.</p>
 
-|História de Usuário|Funcionalidade Implementada|<i>Feedback</i> do cliente| O artefato atende à necessidade do usuário?|Quais características de Qualidade a funcionalidade apresenta?|
-|-------------------|---------------------------------|--------------------------|-----|-----|
-|00|Exemplo de história de usuário|Exemplo de funcionalidade implementada|Exemplo de <i>feedback</i> do cliente|Sim/Não/Parcialmente|Compatibilidade, Confiabilidade, etc|
+### Roteiro de perguntas
+
+<p align = "justify">Cada seção do formulário, que corresponde a uma USs a ser validada, conterá as seguintes perguntas:</p>
+
+|ID|Pergunta|Tipo de resposta|
+|--|--------|----------------|
+|01|Siga as instruções e marque as opções que conseguiu realizar.|Serão apresentadas ao usuário uma lista de passos que ele deve seguir para testar a funcionalidade que deve ser validada.|
+|02|Em relação à US00, em uma escala de 1 a 5, onde 1 significa "Muito insatisfeito" e 5 "Muito Satisfeito" marque a opção que mais se adequa à sua satisfação.|Escala de 1 a 5.|
+|<b>03</b>|Qual a sua opinião sobre a navegação para completar a tarefa referente à US00?|Resposta livre.|
+|<b>04</b>|Teve alguma dificuldade em realizar os passos indicados na 1ª questão? Se sim, qual?|Resposta livre.|
+|<b>05</b>|Como se sentiu ao realizar a tarefa?|Checklist com as opções: satisfeito, confuso, decepcionado|
+|<b>06</b>|Justifique sua resposta em relação à questão anterior.|Resposta livre.|
+|<b>07</b>|A funcionalidade condiz com a sua expectativa como usuário?|Resposta livre.|
+|08|Comentários e observações sobre a US03.|Resposta livre.|
+|09|Caso deseje, insira alguma imagem para complementar o feedback a respeito da validação da US03|Campo para fazer <i>upload</i> de imagens.|
+
+<p align = "justify">As perguntas com a coluna "ID" em negrito são referentes ao teste de usabilidade.</p>
 
 
 ### Execução dos testes
 
-Os resultados dos testes de Qualidade em Uso serão relatados no documento de [Relatório de Execução e Resultados dos Testes de Qualidade em Uso](https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/documentacao/relatorio-qualidade/).
+<p align = "justify">Os resultados dos formulários de validação das Histórias de Usuário, incluindo as perguntas referentes aos testes de usabilidade, serão descritos no <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/documentacao/relatorio-qualidade/">Relatório de resultados dos formulários de validação das Histórias de Usuário</a>.</p>
+
 
 <br>
 <br>

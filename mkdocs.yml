@@ -22,7 +22,7 @@ nav:
   - Arquitetura e Qualidade:
     - Arquitetura do Projeto: documentacao/arquitetura.md
     - Qualidade do Projeto: documentacao/qualidade.md
-    - Relatório dos Testes de Qualidade em Uso: documentacao/relatorio-qualidade.md
+    - Relatório de resultados dos formulários de validação das Histórias de Usuário (USs): documentacao/relatorio-qualidade.md
   - Custo e Riscos:
       - Custo do Projeto: documentacao/custo.md
       - Riscos do Projeto: documentacao/risco.md
@@ -42,7 +42,8 @@ nav:
     - Sprint 2: scrum/sprint2.md
     - Sprint 3: scrum/sprint3.md
     - Sprint 4: scrum/sprint4.md
-    - Sprint 5: scrum/sprint5.md 
+    - Sprint 5: scrum/sprint5.md
+    - Velocity: scrum/velocity.md
   - Políticas:
     - Padrão da Wiki: politicas/padrao-wiki.md
     - Política de Branch: politicas/politica_de_branch.md
