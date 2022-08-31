@@ -90,7 +90,7 @@
 
 ### O que foi concluído nessa Sprint?
 
-<p align = "justify">Todas as USs planejadas (08, 09, 10); além da refatoração das USs 11 e 12, para adaptar as funcionalidades de capturar uma imagem do gráfico e baixar um arquivo CSV à refatoração de parte do código do <i>Frontend</i> do projeto, feita na Sprint 3.</p>
+<p align = "justify">As USs 08 e 10; além da refatoração das USs 11 e 12, para adaptar as funcionalidades de capturar uma imagem do gráfico e baixar um arquivo CSV à refatoração de parte do código do <i>Frontend</i> do projeto, feita na Sprint 3.</p>
 
 
 ### Aspectos da Sprint
@@ -108,7 +108,7 @@
 
 ### O que vem a seguir?
 
-<p align = "justify">Conclusão do MVP, com o desenvolvimentos das USs 13 à 18.</p>
+<p align = "justify">Conclusão do MVP, com o desenvolvimentos das USs 08 e 13 à 18.</p>
 
 <br>
 

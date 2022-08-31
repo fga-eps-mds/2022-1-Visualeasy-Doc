@@ -7,7 +7,7 @@
 
 ### Objetivo da Sprint
 
-<p align = "justify">Desenvolver as USs 13 à 18, para concluir o MVP do projeto.</p>
+<p align = "justify">Desenvolver as USs 08 e 13 à 18, para concluir o MVP do projeto.</p>
 
 
 ### Duração

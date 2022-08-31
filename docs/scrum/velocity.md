@@ -14,7 +14,7 @@
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSbgF8NiRC8pM_X3aYCj-bDFbWfMyPMzzBoTAOYYhCo46ky8149ubSgeAnKACao5QAG31GaYFll5wGM/pubchart?oid=1546710688&amp;format=interactive"></iframe>
 
-<p align = "justify"><b>Média de pontos concluídos por Sprint: 19</b></p>
+<p align = "justify"><b>Média de pontos concluídos por Sprint: 17</b></p>
 
 <br>
 
@@ -96,14 +96,14 @@
 |US|Descrição|Pontuação|Concluída?|
 |--|---------|---------|----------|
 |US08|Gerar um gráfico baseado em duas ou mais váriaveis selecionadas|13|✅|
-|US09|Visualizar mais de um gráfico na mesma tela|8|✅|
+|US09|Visualizar mais de um gráfico na mesma tela|8|❌|
 |US10|Criar abas|8|✅|
 
-<p align = "justify">Ao final, todas as USs planejadas para essa Sprint foram concluídas.</p>
+<p align = "justify">Ao final, as USs 8 e 10 foram concluídas nessa Sprint, totalizando 72,4% dos pontos planejados.</p>
 
 |Total de pontos planejados|Total de pontos concluídos|Porcentagem de conclusão (por pontos)|
 |:------------------------:|:------------------------:|:-----------------------------------:|
-|29|29|100%|
+|29|21|72,4%|
 
 
 

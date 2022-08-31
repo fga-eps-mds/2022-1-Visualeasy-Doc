@@ -25,22 +25,9 @@
 
 ### Release 3 (31/08/2022)
 
-<p align = "justify"><b>USs a serem validadadas: 8, 9, 10, 11, 12</b></p>
+<p align = "justify"><b>USs a serem validadadas: 8, 10, 11, 12</b></p>
 
 
-<!-- |ID|Pergunta|Resposta do formulário|
-|--|--------|----------------|
-|01|Siga as instruções e marque as opções que conseguiu realizar.||
-|02|Em relação à US00, em uma escala de 1 a 5, onde 1 significa "Muito insatisfeito" e 5 "Muito Satisfeito" marque a opção que mais se adequa à sua satisfação.||
-|<b>03</b>|Qual a sua opinião sobre a navegação para completar a tarefa referente à US00?||
-|<b>04</b>|Teve alguma dificuldade em realizar os passos indicados na 1ª questão? Se sim, qual?||
-|<b>05</b>|Como se sentiu ao realizar a tarefa?||
-|<b>06</b>|Justifique sua resposta em relação à questão anterior.||
-|<b>07</b>|A funcionalidade condiz com a sua expectativa como usuário?||
-|08|Comentários e observações sobre a US03.||
-|09|Caso deseje, insira alguma imagem para complementar o feedback a respeito da validação da US03||
-
-<p align = "justify"><b>Conclusão:</b></p> -->
 
 <br>
 
@@ -50,3 +37,4 @@
 |------|------|------|------|
 |14/08/2022|1.0|Adiciona documento de Relatório de Execução e Resultados dos Testes de Qualidade em Uso|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|
 |15/08/2022|1.1|Correções ortográficas do documento.|[Damarcones Porto](https://github.com/damarcones)|
+|30/08/2022|1.2|Refatora documento|[Bruna Santos](https://github.com/brunaalmeidasantos)|

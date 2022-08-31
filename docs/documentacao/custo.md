@@ -62,9 +62,10 @@ Portanto, o custo final é de **R$ 88.336,55** .
 
 ### Planilha
 
-Segue abaixo a planilha com a estimativa de custos por sprint.
+<p align = "justify">Segue abaixo a planilha com a estimativa de custos por sprint. As colunas de Concepção 1, 2 e 3 correspondem à <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/scrum/sprint0/">Sprint 0</a>.</p>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="87%" height="229px"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="229px"></iframe>
 
 Gráficos da distribuição dos custos por sprint.
 
