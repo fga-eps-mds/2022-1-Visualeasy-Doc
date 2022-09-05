@@ -43,44 +43,36 @@
 
 <p align = "justify"><i>Daily Meeting</i> de 24 de agosto de 2022 (Quarta-feira).</p>
 
- <object data="/scrum/daily/DAILY-24_08.pdf" type="application/pdf" width="690px" height="400px">
-<embed src="/scrum/daily/DAILY-24_08.pdf">
-        <p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-24_08.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="/scrum/daily/DAILY-24_08.pdf" type="application/pdf" width="750px" height="500px"></object>
+
+<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-24_08.pdf">Download PDF</a>.</p>
 
 <br>
 
 
 <p align = "justify"><i>Daily Meeting</i> de 25 de agosto de 2022 (Quinta-feira).</p>
 
- <object data="/scrum/daily/DAILY-25_08.pdf" type="application/pdf" width="690px" height="400px">
-<embed src="/scrum/daily/DAILY-25_08.pdf">
-        <p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-25_08.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="/scrum/daily/DAILY-25_08.pdf" type="application/pdf" width="750px" height="500px"></object>
+
+<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-25_08.pdf">Download PDF</a>.</p>
 
 <br>
 
 
 <p align = "justify"><i>Daily Meeting</i> de 26 de agosto de 2022 (Sexta-feira).</p>
 
- <object data="/scrum/daily/DAILY-26_08.pdf" type="application/pdf" width="690px" height="400px">
-<embed src="/scrum/daily/DAILY-26_08.pdf">
-        <p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-26_08.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="/scrum/daily/DAILY-26_08.pdf" type="application/pdf" width="750px" height="500px"></object>
+
+<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-26_08.pdf">Download PDF</a>.</p>
 
 <br>
 
 
 <p align = "justify"><i>Daily Meeting</i> de 29 de agosto de 2022 (Segunda-feira).</p>
 
- <object data="/scrum/daily/DAILY-29_08.pdf" type="application/pdf" width="690px" height="400px">
-<embed src="/scrum/daily/DAILY-29_08.pdf">
-        <p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-29_08.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="/scrum/daily/DAILY-29_08.pdf" type="application/pdf" width="750px" height="500px"></object>
+
+<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-29_08.pdf">Download PDF</a>.</p>
 
 <br>
 
@@ -117,3 +109,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
 |30/08/2022|1.0 |Adiciona resumo da sprint 4|[Bruna Santos](https://github.com/brunaalmeidasantos)|
+|30/08/2022|1.1 |Corregindo os links dos pdfs|[Gustavo Moreira](https://github.com/gustavoduartemoreira)|
