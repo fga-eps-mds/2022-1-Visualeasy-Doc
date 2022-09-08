@@ -42,45 +42,35 @@
 
 <p align = "justify"><i>Daily Meeting</i> de 17 de agosto de 2022 (Quarta-feira).</p>
 
-<object data="/scrum/daily/DAILY-17_08.pdf" type="application/pdf" width="750px" height="500px"></object>
-
-<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-17_08.pdf">Download PDF</a>.</p>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSW5xDZHXfXUAV7K8-kPL81nQVtwFi8jf7j3GmNG1Ao1DdcCWiwEQoGS0jjB-VZdzc4OK5fOHD-pWh9/pub?embedded=true" width="100%" style="height: 60vh;"></iframe>
 
 <br>
 
 
 <p align = "justify"><i>Daily Meeting</i> de 18 de agosto de 2022 (Quinta-feira).</p>
 
-<object data="/scrum/daily/DAILY-18_08.pdf" type="application/pdf" width="750px" height="500px"></object>
-
-<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-18_08.pdf">Download PDF</a>.</p>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQrmxfMwfEZ6wQZwwjH8L1rIiiES_zhcy3tawT3yf8WRTp_PhPqTyXIG33fdEy1HG5Kj9ef3x78GP0X/pub?embedded=true" width="100%" style="height: 60vh;"></iframe>
 
 <br>
 
 
 <p align = "justify"><i>Daily Meeting</i> de 19 de agosto de 2022 (Sexta-feira).</p>
 
-<object data="/scrum/daily/DAILY-19_08.pdf" type="application/pdf" width="750px" height="500px"></object>
-
-<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-19_08.pdf">Download PDF</a>.</p>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRT55Vhy1TXKbow5pLv4jtrr8zkzYPLs0DQTgAJyiNZ0ljfrCrwWKQCLt13kMFmvvavxOgFKTUZWNUz/pub?embedded=true" width="100%" style="height: 60vh;"></iframe>
 
 <br>
 
 
 <p align = "justify"><i>Daily Meeting</i> de 22 de agosto de 2022 (Segunda-feira).</p>
 
-<object data="/scrum/daily/DAILY-22_08.pdf" type="application/pdf" width="750px" height="500px"></object>
-
-<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-22_08.pdf">Download PDF</a>.</p>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQYr3MVlZLi2BdT8xYENevtnsFOcrSScKav1Baz937hc5IkoN6ql-uUaH4lkWpajYNAflcdE7x3d-xq/pub?embedded=true" width="100%" style="height: 60vh;"></iframe>
 
 <br>
 
 
 <p align = "justify"><i>Daily Meeting</i> de 23 de agosto de 2022 (Terça-feira).</p>
 
-<object data="/scrum/daily/DAILY-23_08.pdf" type="application/pdf" width="750px" height="500px"></object>
-
-<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/DAILY-23_08.pdf">Download PDF</a>.</p>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRkSzMwAqtt5gMINBpaPwrEmJtqnDQmR49ONfjtxk3xSI4WKAUm4Rv9FuXMU1MRZDu70K1PzjUVDgAN/pub?embedded=true" width="100%" style="height: 60vh;"></iframe>
 
 <br>
 

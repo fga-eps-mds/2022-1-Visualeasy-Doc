@@ -27,9 +27,7 @@ Desenvolver o <i>[Lean Inception](https://fga-eps-mds.github.io/2022-1-Visualeas
 
 <p align = "justify">Nessa Sprint o <i>Daily Meeting</i> foi feito durante as reuniões diárias da equipe, e não foram documentadas. Uma tabela, apresentada a seguir, com a tarefa de responsabilidade de cada integrante foi feita no drive da equipe e, conforme as tarefas fossem concluídas, o campo de "status" era preenchido com "feito".</p>
 
-<object data="/scrum/daily/documentos.pdf" type="application/pdf" width="750px" height="500px"></object>
-
-<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/scrum/daily/documentos.pdf">Download PDF</a>.</p>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRss7dEYk-lFHvqpKd-7kwagxiM20kMUf8IjQxq-MKEf8sK0p8lRuOZRQ5Gy4KMxtKm017jKYb5HXPq/pub?embedded=true" width="100%" style="height: 100vh;"></iframe>
 
 
 ## **Revisão**
