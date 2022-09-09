@@ -13,7 +13,7 @@
 ### Duração
 
 + <b>Início:</b> 31/08/2022
-+ <b>Fim:</b> 06/09/2022
++ <b>Fim:</b> 08/09/2022
 
 ### Definição dos pares para trabalhar
 
@@ -28,7 +28,7 @@
 
 ### Backlog da Sprint
 
-|US|Descrição|Dupla responsável|
+|US|Descrição|Grupo responsável|
 |--|---------|-----------------|
 |US09|Visualizar mais de um gráfico na mesma tela|2|
 |US13|Obter link de compartilhamento|1|
@@ -39,7 +39,6 @@
 |US18|Destacar variáveis no gráfico|6|
 
 <br>
-
 
 
 ## <i>Daily Meeting</i>
@@ -68,32 +67,45 @@
 
 <br>
 
+<p align = "justify"><i>Daily Meeting</i> de 08 de setembro de 2022 (Quinta-feira).</p>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSkI23p8GKYiwA7cVkxr5kBe-YIpjX1eOW8oqyt7Jg3UcLcd1XUrT-tE0K6hkEFi2coqEUglEayU49d/pub?embedded=true" width="100%" style="height: 60vh;"></iframe>
+
+<br>
 
 
-<!-- ## Revisão
+
+## Revisão
 
 ### O que foi concluído nessa Sprint?
 
-<p align = "justify"></p>
+<p align = "justify">As USs 09, 13, 15, 17 e 18.</p>
 
 
 ### Aspectos da Sprint
 
 #### Aspectos positivos
 
-<p align = "justify"></p>
++ <p align = "justify">Conclusão do Épico 1;</p>
+
++ <p align = "justify">Sprint com o maior número de pontuação concluída.</p>
 
 
 #### Problemas/soluções
 
-<p align = "justify"></p>
++ <p align = "justify">Problema: Problemas com os testes / Diminuição da cobertura:</p>
+
+    + <p align = "justify">Solução: Na próxima Sprint designar pelo menos 4 integrantes da equipe para se dedicar apenas aos testes.</p>
+
++ <p align = "justify">Problema: Cansaço da equipe.</p>
+
 
 
 ### O que vem a seguir?
 
-<p align = "justify"></p>
+<p align = "justify">Conclusão da USs 14 e 16, além da implementação de melhorias sugeridas pelos POs, aumento de cobertura dos testes e atualização de documentos.</p>
 
-<br> -->
+<br>
 
 
 ## Versionamento
@@ -101,3 +113,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
 |30/08/2022|1.0 |Adiciona planejamento da sprint 5|[Bruna Santos](https://github.com/brunaalmeidasantos)|
+|08/09/2022|1.1|Adiciona revisão da sprint 5|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|

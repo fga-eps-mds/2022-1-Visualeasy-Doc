@@ -14,7 +14,14 @@
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSbgF8NiRC8pM_X3aYCj-bDFbWfMyPMzzBoTAOYYhCo46ky8149ubSgeAnKACao5QAG31GaYFll5wGM/pubchart?oid=1546710688&amp;format=interactive"></iframe>
 
-<p align = "justify"><b>Média de pontos concluídos por Sprint: 17</b></p>
+<p align = "justify"><b>Média de pontos concluídos por Sprint: 19</b></p>
+
+<p align = "justify">O próximo gráfico compara o número de pontos planejados e concluídos em cada Sprint finalizada.</p>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSbgF8NiRC8pM_X3aYCj-bDFbWfMyPMzzBoTAOYYhCo46ky8149ubSgeAnKACao5QAG31GaYFll5wGM/pubchart?oid=734681441&amp;format=interactive"></iframe>
+
+
+<p align = "justify">Os tópicos a seguir detalham a evolução do projeto em cada Sprint.</p>
 
 <br>
 
@@ -105,6 +112,29 @@
 |:------------------------:|:------------------------:|:-----------------------------------:|
 |29|21|72,4%|
 
+<br>
+
+### Sprint 5
+
+<p align = "justify">O objetivo da <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/scrum/sprint5/">Sprint 5</a> foi concluir o MVP do projeto Visualeasy, finalizando os Épicos 1 e 2 do <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/documentacao/backlog/"><i>Product Backlog</i></a>.</p>
+
+
+|US|Descrição|Pontuação|Concluída?|
+|--|---------|---------|----------|
+|US09|Visualizar mais de um gráfico na mesma tela|8|✅|
+|US13|Obter link de compartilhamento|8|✅|
+|US14|Mover a linha do tempo de um gráfico|8|❌|
+|US15|Expandir o gráfico em modo tela cheia|5|✅|
+|US16|Dar zoom no gráfico|5|❌|
+|US17|Verificar informações detalhadas de determinado ponto no gráfico|3|✅|
+|US18|Destacar variáveis no gráfico|5|✅|
+
+
+<p align = "justify">Por problemas com algumas bibliotecas utilizadas no projeto, as USs 14 e 16 não foram finalizadas. 69% dos pontos planejados para essa Sprint foram finalizados.</p>
+
+|Total de pontos planejados|Total de pontos concluídos|Porcentagem de conclusão (por pontos)|
+|:------------------------:|:------------------------:|:-----------------------------------:|
+|42|29|69%|
 
 
 <br>
@@ -119,3 +149,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
 |30/08/2022|1.0 |Adiciona velocity das sprints 1, 2, 3 e 4|[Bruna Santos](https://github.com/brunaalmeidasantos)|
+|08/09/2022|1.1 |Adiciona velocity da sprint 5|[Bruna Santos](https://github.com/brunaalmeidasantos)|
