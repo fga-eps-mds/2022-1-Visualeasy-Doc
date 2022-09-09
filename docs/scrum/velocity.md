@@ -14,7 +14,7 @@
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSbgF8NiRC8pM_X3aYCj-bDFbWfMyPMzzBoTAOYYhCo46ky8149ubSgeAnKACao5QAG31GaYFll5wGM/pubchart?oid=1546710688&amp;format=interactive"></iframe>
 
-<p align = "justify"><b>Média de pontos concluídos por Sprint: 19</b></p>
+<p align = "justify"><b>Média de pontos concluídos por Sprint: 22</b></p>
 
 <p align = "justify">O próximo gráfico compara o número de pontos planejados e concluídos em cada Sprint finalizada.</p>
 
@@ -123,18 +123,18 @@
 |--|---------|---------|----------|
 |US09|Visualizar mais de um gráfico na mesma tela|8|✅|
 |US13|Obter link de compartilhamento|8|✅|
-|US14|Mover a linha do tempo de um gráfico|8|❌|
+|US14|Mover a linha do tempo de um gráfico|8|✅|
 |US15|Expandir o gráfico em modo tela cheia|5|✅|
-|US16|Dar zoom no gráfico|5|❌|
+|US16|Dar zoom no gráfico|5|✅|
 |US17|Verificar informações detalhadas de determinado ponto no gráfico|3|✅|
 |US18|Destacar variáveis no gráfico|5|✅|
 
 
-<p align = "justify">Por problemas com algumas bibliotecas utilizadas no projeto, as USs 14 e 16 não foram finalizadas. 69% dos pontos planejados para essa Sprint foram finalizados.</p>
+<p align = "justify">Por problemas com algumas bibliotecas utilizadas no projeto, as USs 14 e 16 não foram finalizadas. Toda a pontuação planejada para essa sprint foi concluída.</p>
 
 |Total de pontos planejados|Total de pontos concluídos|Porcentagem de conclusão (por pontos)|
 |:------------------------:|:------------------------:|:-----------------------------------:|
-|42|29|69%|
+|42|42|100%|
 
 
 <br>

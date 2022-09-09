@@ -7,7 +7,7 @@
 
 ### Objetivo da Sprint
 
-<p align = "justify">Finalizar as USs 14 e 16, para concluir o MVP do projeto. Além disso, serão implementadas as melhorias sugeridas pelos POs em relação às abas dos gráficos. Por fim, a equipe irá trabalhar para aumentar a cobertura dos testes e atualizar documentos.</p>
+<p align = "justify">Nessa sprint serão implementadas as melhorias sugeridas pelos POs em relação às abas dos gráficos. Por fim, a equipe irá trabalhar para aumentar a cobertura dos testes e atualizar documentos.</p>
 
 
 ### Duração
@@ -17,20 +17,11 @@
 
 ### Definição dos pares para trabalhar
 
-| |Integrante 1|Integrante 2|Integrante 3|
-|-|------------|------------|------------|
-|Grupo 1|Marcos|Estevão|-|
-|Grupo 2|Gabriel|Luis|Damarcones|
+A definir
 
 ### Backlog da Sprint
 
-|US|Descrição|Grupo responsável|
-|--|---------|-----------------|
-|US14|Mover a linha do tempo de um gráfico|1|
-|US16|Dar zoom no gráfico|1|
-|--|Melhoria das abas|2|
-|--|Aumento de cobertura de testes|A definir|
-|--|Atualização de documentação|A definir|
+A definir
 
 <br>
 

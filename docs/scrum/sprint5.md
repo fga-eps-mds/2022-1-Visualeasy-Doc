@@ -79,16 +79,18 @@
 
 ### O que foi concluído nessa Sprint?
 
-<p align = "justify">As USs 09, 13, 15, 17 e 18.</p>
+<p align = "justify">Todas as USs planejadas (9, 13 à 18).</p>
 
 
 ### Aspectos da Sprint
 
 #### Aspectos positivos
 
-+ <p align = "justify">Conclusão do Épico 1;</p>
++ <p align = "justify">Conclusão dos Épicos 1 e 2;</p>
 
-+ <p align = "justify">Sprint com o maior número de pontuação concluída.</p>
++ <p align = "justify">Conclusão do MVP do projeto;</p>
+
++ <p align = "justify">Sprint com o maior número de pontuação concluída (42 pontos).</p>
 
 
 #### Problemas/soluções
@@ -103,7 +105,7 @@
 
 ### O que vem a seguir?
 
-<p align = "justify">Conclusão da USs 14 e 16, além da implementação de melhorias sugeridas pelos POs, aumento de cobertura dos testes e atualização de documentos.</p>
+<p align = "justify">Implementação de melhorias sugeridas pelos POs, aumento de cobertura dos testes e atualização de documentos.</p>
 
 <br>
 
