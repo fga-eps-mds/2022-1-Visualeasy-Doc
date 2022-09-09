@@ -28,29 +28,39 @@ No sistema Visualeasy foi decidido a criação de 3 microsserviços, sendo eles:
 <p align ="justify">A utilização de microsserviços traz como benefícios o desacoplamento das funcionalidades do sistema. Portanto, a alteração de um deles ou até mesmo a queda de algum deles, não afetará o resto do sistema, podendo as outras funcionalidades continuarem em execução normalmente.</p>
  
 <p align ="justify">Para o desenvolvimento dos microsserviços foi utilizado as seguintes tecnologias:</p>
- 
+
+<br>
+
 #### Node JS
  
 [![node](images/node.png)](images/node.png)
  
 <p align ="justify">Para o microsserviço de controle e de autenticação foi utilizado o Node.JS. Node é uma plataforma de aplicação, onde  programas são escritos em JS e compilados, otimizados e interpretados pela Máquina Virtual V8, sendo a mesma usada pelo Google para executar JavaScript no navegador Chrome. O resultado deste processo é entregue como código de máquina server-side, tornando o Node muito mais eficiente na sua execução e consumo de recursos. A plataforma Node foi escolhida por ser eficiente na implementação de aplicações em tempo real, que precisam transferir mensagens de um lado para o outro de forma rápida. As mensagens geradas pelo Visualeasy podem demandar um grande volume de dados a cada requisição do sistema.</p>
- 
+
+<br>
+
 #### Next.JS
  
-[![next](images/next.png)](images/next.png)
+[![next](images/next.jpeg)](images/next.jpeg)
  
 <p align ="justify">Para o microsserviço responsável pelo front-end foi utilizado o NextJS. O Next.JS é um <em>framework</em> para React que é uma biblioteca javascript. O seu foco é no alto desempenho onde reúne diversas funcionalidades como renderização híbrida e estática de conteúdo. Possui suporte a TypeScript, pre-fetching, sistema de rotas, pacotes de funcionalidades e diversos plugins, o <em>framework</em> será utilizado, como parte front-end do nosso projeto, em que mostrará as telas e apresentará os recursos de gráfico, login dentre outras funcionalidades.</p>
- 
+
+<br>
+
 #### D3.js
  
 [![d3](images/d3.png)](images/d3.png)
 <p align ="justify">Para a exibição dos gráficos foi escolhida a biblioteca D3.js. A D3.js é uma biblioteca em Javascript orientada a dados. Não é um <em>framework</em> monolítico, fornecendo uma melhor escalabilidade. D3 é rápido e trabalha com altos volumes de dados e interações com animações, assim evitando uma sobrecarga no sistema como um todo.</p>
- 
+
+<br>
+
 #### PostgreSQL
  
 [![postgres](images/postgres.png)](images/postgres.png)
 <p align ="justify">Para banco de dados foi escolhido o PostgreSQL. O PostgreSQL é um Sistema Gerenciador de Banco de Dados Relacional de código aberto que utiliza a linguagem SQL para armazenar seguramente os dados, extensível e possui um vasto ecossistema de ferramentas. É um software projetado para possuir compatibilidade com os principais sistemas operacionais como Linux e Windows. Por essas características esse Banco de Dados tem sido bastante utilizado no contexto geral de negócios, sites e por isso foi o escolhido como a solução de banco de dados do Visualeasy.</p>
- 
+
+<br>
+
 ### Metas e restrições da arquitetura
  
 Metas:
@@ -64,7 +74,9 @@ Restrições:
 + Conexão com a Internet;
 + Conexão com a API;
 + Conexão ao Banco de Dados;
- 
+
+<br>
+
 ### Ambiente e Ferramentas de Desenvolvimento
  
 | Requisito | Ferramenta/Solução | Versão |Descrição |
@@ -115,8 +127,8 @@ Restrições:
  
 Cada microsserviço é detalhado da seguinte forma:
  
-- <p align ="justify">Visualização de dados/gráficos : Front-end do produto composto pelo <em>framework</em> Next.Js, para a construção das telas, campos, validações e botões que o usuário irá interagir. Acompanhando o Next.Js, o D3.Js é responsável pela visualização dos dados tratados, gerando os gráficos.</p>
-- <p align ="justify">O Core é composto pelas APIs responsáveis pela autenticação de usuário e pelo controle, coleta de dados e geração de gráficos.</p>
+- <p align ="justify"><b>Visualização de dados/gráficos:</b> Front-end do produto composto pelo <em>framework</em> Next.Js, para a construção das telas, campos, validações e botões que o usuário irá interagir. Acompanhando o Next.Js, o D3.Js é responsável pela visualização dos dados tratados, gerando os gráficos.</p>
+- <p align ="justify"><b>Core:</b>O Core é composto pelas APIs responsáveis pela autenticação de usuário e pelo controle, coleta de dados e geração de gráficos.</p>
 
 <br>
 
@@ -135,103 +147,48 @@ Para atualizações futuras e conforme a necessidade para a implantação no sis
 
 ## Qualidade
  
-<p align ="justify">Para garantir a qualidade do sistema Visualeasy, serão seguidas 7 de 8  características de qualidade do produto de <i>software</i>, definidas pela ISO/IEC 25010. A norma ISO/IEC 25010 define as características de qualidade que todos os <i>softwares</i> devem ter, de forma a alcançar um nível muito alto de qualidade no <i>software</i> que será entregue.</p>
+<p align ="justify">A norma ISO/IEC 25010 define 8 características de qualidade que todos os <i>software</i> devem ter, de forma a alcançar um nível muito alto de qualidade no <i>software</i> que será entregue. São elas: adequação funcional; eficiência de performance; compatibilidade; usabilidade; confiabilidade; segurança; portabilidade e; capacidade de manutenção.</p>
 
-<p align ="justify">Todas as características seguidas pelo projeto Visualeasy pode ser visualizadas na imagem abaixo, e em seguida cada tópico será detalhado, para melhor entendimento.</p>
+
+<p align ="justify">Os desenvolvedores do presente projeto buscam garantir que todas as características definidas pela ISO 25010 estejam presentes no produto Visualeasy, com atenção em especial à 4 características de qualidade, apresentadas na imagem a seguir, indispensáveis para a qualidade do produto Visualeasy. Cada característica é detalahda nos próximos tópicos.</p>
+
 
 [![ISO25010](images/ISO25010.png)](images/ISO25010.png)
 
 ### Adequação Funcional
 
-<p align=justify>Esta característica representa o grau em que um produto ou sistema fornece funções que satisfazem as necessidades declaradas e implícitas quando utilizadas sob condições especificadas. Possui as seguintes subcaracterísticas:</p>
+<p align=justify>Essa característica representa o grau em que o produto ou sistema fornece funções que satisfazem as necessidades declaradas e implícitas dos usuários, quando utilizadas sob condições especificadas.</p>
 
-+ <p align=justify><b>Completude funcional:</b> Onde o conjunto de funções cobre todas as tarefas especificadas, e os objetivos do usuário;</p>
+<p align=justify>No projeto Visualeasy, as necessidades do usuário foram analisadas e especificadas durante o desenvolvimento do <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/visao-produto/lean-inception/"><i>Lean Inception</i></a>, e por fim, foram listadas em forma de histórias de usuário no <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/documentacao/backlog/"><i>Product Backlog</i></a>.</p>
 
-+ <p align=justify><b>Correção funcional:</b> Grau ao qual um produto ou sistema fornece os resultados corretos com o grau de precisão necessário;</p>
 
-+ <p align=justify><b>Adequação funcional:</b> Onde as funções facilitam a realização das tarefas e objetivos especificados.</p>
-
-### Compatibilidade
-
-<p align=justify>Capacidade de sistemas em trocar informações com outros sistemas, e/ou executar as suas funções necessárias enquanto partilha o mesmo ambiente de <i>hardware</i> ou <i>software</i>. É composta pelas seguintes subcaracterísticas:</p>
-
-+ <p align=justify><b>Coexistência:</b> Grau em que um produto pode desempenhar eficientemente as suas funções requeridas enquanto compartilha ambiente e recursos comuns com outros produtos, sem impacto prejudicial sobre qualquer outro produto.</p>
-
-+ <p align=justify><b>Interoperabilidade:</b> Grau em que dois ou mais sistemas podem trocar informação e utilizar a informação que foi trocada.</p>
+<a href=""></a>
 
 ### Usabilidade
 
-<p align=justify>Característica de um sistema que pode ser utilizado por usuários para atingir objetivos específicos com eficácia, eficiência e satisfação num contexto de utilização especificado. Esta característica é composta pelas seguintes subcaracterísticas:</p>
+<p align=justify>Característica de um sistema que pode ser utilizado pelos mais diferentes usuários para atingir diversos objetivos específicos com eficácia, eficiência e satisfação.</p>
 
-+ <p align=justify><b>Grau de reconhecimento de adequação:</b> Os utilizadores podem reconhecer se um sistema é apropriado para as suas necessidades;</p>
+<p align=justify>A interface do Visualeasy é projetada para ser fácil de operar e controlar, com navegabilidade intuitiva, para garantir que o sistema possa ser utilizado por usuários com a mais ampla gama de características e capacidades.</p>
 
-+ <p align=justify><b>Capacidade de aprendizagem:</b> Grau ao qual um sistema pode ser utilizado por usuários especificados para atingir objetivos específicos de aprendizagem de utilização do produto com eficácia, eficiência, ausência de risco e satisfação num contexto de utilização especificado;</p>
-
-+ <p align=justify><b>Operabilidade:</b>Onde o sistema tem atributos que o tornam fácil de operar e controlar;</p>
-
-+ <p align=justify><b>Proteção contra erros do usuário:</b> Onde o sistema protege os usuários contra a ocorrência de erros;</p>
-
-+ <p align=justify><b>Estética da interface para o usuário:</b> Onde a interface permite uma interação agradável e satisfatória para o usuário;</p>
-
-+ <p align=justify><b>Acessibilidade:</b> Onde o sistema pode ser utilizado por pessoas com a mais ampla gama de características e capacidades.</p>
-
-### Confiabilidade
-
-<p align=justify>Onde um sistema executa funções especificadas durante um período de tempo especificado. Esta característica divide-se em:</p>
-
-+ <p align=justify><b>Maturidade:</b> Grau ao qual o sistema satisfaz as necessidades de confiabilidade em funcionamento normal;</p>
-
-+ <p align=justify><b>Disponibilidade:</b> O sistema deve estar operacional e acessível quando necessário para utilização;</p>
-
-+ <p align=justify><b>Tolerância a falhas:</b> Onde o sistema funciona como pretendido, apesar da presença de falhas de <i>hardware</i> ou <i>software</i>;</p>
-
-+ <p align=justify><b>Recuperação:</b> Grau ao qual, em caso de interrupção ou falha, o sistema pode recuperar os dados diretamente afetados e restabelecer o estado desejado do sistema.</p>
-
-
-### Segurança
-
-<p align=justify>Característica de um sistema que protege a informação e os dados de modo a que as pessoas ou sistemas tenham o grau de acesso aos dados adequado aos seus tipos e níveis de autorização. É composta pelas seguintes subcaracterísticas:</p>
-
-+ <p align=justify><b>Confidencialidade:</b> Onde o sistema assegura que os dados são acessíveis apenas a quem está autorizado a ter acesso;</p>
-
-+ <p align=justify><b>Integridade:</b> Onde o sistema impede o acesso não autorizado a dados;</p>
-
-+ <p align=justify><b>Não repúdio:</b> Grau em que ações ou eventos podem ser comprovados de modo a que não possam ser repudiados mais tarde;</p>
-
-+ <p align=justify><b>Responsabilidade:</b> Capacidade de que ações de uma entidade podem ser rastreadas de forma única à entidade;</p>
-
-+ <p align=justify><b>Autenticidade:</b> Capacidade de se provar que a identidade de um sujeito ou recurso é a que foi reivindicada.</p>
 
 ### Portabilidade 
 
-<p align=justify>Grau de eficácia e eficiência com o qual um sistema pode ser transferido de um <i>hardware</i>, <i>software</i> ou outro ambiente operacional ou de utilização para outro. É dividida nos seguintes tópicos:</p>
+<p align=justify>Grau de eficácia e eficiência com o qual um sistema pode ser transferido de um <i>hardware</i>, <i>software</i> ou outro ambiente operacional ou de utilização para outro.</p>
 
-+ <p align=justify><b>Adaptabilidade:</b> O sistema pode ser adaptado eficaz e eficientemente para <i>hardware</i>, <i>software</i> ou outros ambientes operacionais ou de utilização diferentes ou em evolução;</p>
+<p align=justify>Esta é uma característica indispensável ao produto Visualeasy, visto que um dos objetivos do projeto é que os POs testem, a cada release, as novas funcionalidades implementadas. Sendo assim, o sistema deve ser adaptável a diferentes ambientes.</p>
 
-+ <p align=justify><b>Instalabilidade:</b> Grau de eficácia e eficiência com o qual o sistema pode ser instalado e/ou desinstalado com sucesso;</p>
 
-+ <p align=justify><b>Substituibilidade:</b> Grau com o qual um produto pode substituir outro produto de <i>software</i> especificado para o mesmo fim no mesmo ambiente.</p>
 
 ### Capacidade de Manutenção
 
-<p align=justify>Esta característica representa o grau de eficácia e eficiência com que um sistema pode ser modificado para o melhorar, corrigir ou adaptar às mudanças de ambiente e/ou requisitos. Esta característica é composta pelas seguintes subcaracterísticas:</p>
+<p align=justify>Esta característica representa o grau de eficácia e eficiência com que um sistema pode ser modificado para o melhorar, corrigir ou adaptar às mudanças de ambiente e/ou requisitos.</p>
 
-+ <p align=justify><b>Modularidade:</b> Onde o sistema é composto por componentes discretos, de tal forma que uma alteração a um componente tem um impacto mínimo sobre outros componentes;</p>
+<p align=justify>Por ser um projeto desenvolvido ao longo de mais de um semestre, por diferentes equipes, o sistema Visualeasy deve possuir elevada capacidade de manutenção, para garantir que outros desenvolvedores possam adicionar novas funcionalidades e melhorias facilmente.</p>
 
-+ <p align=justify><b>Reusabilidade:</b> Grau em que um ativo pode ser utilizado em mais de um componente;</p>
 
-+ <p align=justify><b>Analisabilidade:</b> Eficácia e eficiência com que é possível avaliar o impacto sobre um sistema de uma alteração pretendida para uma ou mais das suas partes, ou diagnosticar um produto para deficiências ou causas de falhas, ou identificar partes a serem modificadas;</p>
-
-+ <p align=justify><b>Modificabilidade:</b> Capacidade de um sistema em ser eficaz e eficientemente modificado sem introduzir defeitos ou degradar a qualidade do produto;</p>
-
-+ <p align=justify><b>Testabilidade:</b> Eficácia e eficiência com que podem ser estabelecidos critérios de teste para um sistema, produto ou componente e podem ser realizados testes para determinar se esses critérios foram cumpridos.</p>
 
 <br>
 
-As caracterísitcas de qualidade do produto de software serão avaliadas no [Teste de qualidade de uso](https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/documentacao/relatorio-qualidade/).
-
-
-<br>
 
 ## Referências
  
@@ -266,3 +223,4 @@ As caracterísitcas de qualidade do produto de software serão avaliadas no [Tes
 |01/08/2022|1.3|Adição do tópico Visão de Dados, Visão Lógica-controle| [Marcos Vinicius](https://github.com/marcos-mv)
 |14/08/2022|1.4|Refatora tópico de qualidade|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|
 |15/08/2022|1.5|Revisão ortográfica do documento|[Damarcones Porto](https://github.com/damarcones)|
+|08/09/2022|1.6|Refatora tópico de qualidade|[Bruna Santos](https://github.com/brunaalmeidasantos)|
