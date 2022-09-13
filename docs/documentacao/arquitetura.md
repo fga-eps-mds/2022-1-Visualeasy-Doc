@@ -19,12 +19,15 @@
  
 <p align ="justify">As arquiteturas de microsserviços facilitam a escalabilidade e agilizam o desenvolvimento de aplicativos, habilitando a inovação e acelerando o tempo de introdução de novos recursos no mercado.</p>
  
-No sistema Visualeasy foi decidido a criação de 3 microsserviços, sendo eles:
+No sistema Visualeasy foi decidido, a criação de 2 microsserviços, sendo eles:
  
 - **Frontend**: Responsável pela visualização de todo o sistema.
 - **Controle**: Responsável pelo envio e tratamento dos dados de todas as variáveis que serão visualizadas nos gráficos.
-- **Autenticação**: Responsável por lidar com a autenticação no sistema e com a criação dos perfis de usuário dentro do sistema.
+
+<p align ="justify">Há a possibilidade da adição de mais 1 microsserviço, que ficará como um possível incremento ao projeto, e devido ao tempo insuficiente de duração do projeto, não será implementado. Este microsserviço é:</p>
  
+- **Usuario**: Responsável por lidar com a autenticação no sistema e com a criação dos perfis de usuário dentro do sistema.
+
 <p align ="justify">A utilização de microsserviços traz como benefícios o desacoplamento das funcionalidades do sistema. Portanto, a alteração de um deles ou até mesmo a queda de algum deles, não afetará o resto do sistema, podendo as outras funcionalidades continuarem em execução normalmente.</p>
  
 <p align ="justify">Para o desenvolvimento dos microsserviços foi utilizado as seguintes tecnologias:</p>
@@ -84,7 +87,7 @@ Restrições:
 |Linguagem|Javascript|ES6|Linguagem de programação interpretada e multiparadigma|
 |Framework|Node.js|16.16.0|Ambiente de execução Javascript server-side|
 |Framework|Next.js|12.2.2|Framework React |
-|Biblioteca|D3.js |7.6.1| Biblioteca Javascript orientada a dados|
+|Biblioteca|Chart.js |3.8.2| Biblioteca Javascript para renderização de gráficos|
 |Base de dados|PostgreSQL|14|Sistema Gerenciador de Banco de Dados de código aberto|
 |Virtualização|Docker|20.10.17|Plataforma aberta para empacotamento e execução de aplicações em contêineres|
 |Virtualização|Docker-compose|3.9|Gerenciamento de contêiner|
@@ -127,7 +130,7 @@ Restrições:
  
 Cada microsserviço é detalhado da seguinte forma:
  
-- <p align ="justify"><b>Visualização de dados/gráficos:</b> Front-end do produto composto pelo <em>framework</em> Next.Js, para a construção das telas, campos, validações e botões que o usuário irá interagir. Acompanhando o Next.Js, o D3.Js é responsável pela visualização dos dados tratados, gerando os gráficos.</p>
+- <p align ="justify"><b>Visualização de dados/gráficos:</b> Front-end do produto composto pelo <em>framework</em> Next.Js, para a construção das telas, campos, validações e botões que o usuário irá interagir. Acompanhando o Next.Js, o Chart.Js é responsável pela visualização dos dados tratados, gerando os gráficos.</p>
 - <p align ="justify"><b>Core:</b>O Core é composto pelas APIs responsáveis pela autenticação de usuário e pelo controle, coleta de dados e geração de gráficos.</p>
 
 <br>
@@ -194,8 +197,6 @@ Para atualizações futuras e conforme a necessidade para a implantação no sis
  
 + Node.js. <b>About Node.js</b>. Disponível em: [Node](https://nodejs.org/en/). Acesso em 20 de Julho de 2022.
 
-+ D3.js. <b>Data-Driven Documents</b>. Disponível em: [D3.js](https://d3js.org/). Acesso em 20 de Julho de 2022.
-
 + Docker docs. <b>Docker overview</b>. Disponível em: [Docker](https://docs.docker.com/get-started/overview/). Acesso em 21 de Julho de 2022.
 
 + Postgresql. <b>About Postgresql</b>. Disponível em: [Postgres](https://www.postgresql.org/about/). Acesso em 21 de Julho de 2022.
@@ -212,6 +213,9 @@ Para atualizações futuras e conforme a necessidade para a implantação no sis
 
 + Wikipédia. <b>ISO/IEC 25010</b>. Disponível em: [Wikipédia - ISO/IEC 25010](https://pt.wikipedia.org/wiki/ISO/IEC_25010). Acesso em 10 de agosto de 2022.
 
++ Chart.js. <b>Chart.js</b>. Disponível em: [Chart.js](https://www.chartjs.org/docs/latest/). Acesso em 13 de setembro de 2022.
+
++ Gigasystems. <b>Criando Gráficos com Chart.js com legenda</b>. Disponível em: [Gigasystems](https://www.gigasystems.com.br/artigo/90/criando-graficos-com-chart.js-com-legenda). Acesso em 13 de setembro de 2022.
 
 ## Versionamento
  
@@ -224,3 +228,4 @@ Para atualizações futuras e conforme a necessidade para a implantação no sis
 |14/08/2022|1.4|Refatora tópico de qualidade|[Bruna Santos](https://github.com/brunaalmeidasantos), [Damarcones Porto](https://github.com/damarcones)|
 |15/08/2022|1.5|Revisão ortográfica do documento|[Damarcones Porto](https://github.com/damarcones)|
 |08/09/2022|1.6|Refatora tópico de qualidade|[Bruna Santos](https://github.com/brunaalmeidasantos)|
+|13/09/2022|1.7|Refatoração do tópico de Representação da arquitetura|[João Pedro](https://github.com/Joao-Pedro-Moura)|
