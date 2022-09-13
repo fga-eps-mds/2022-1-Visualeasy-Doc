@@ -47,10 +47,10 @@ No sistema Visualeasy foi decidido a criação de 3 microsserviços, sendo eles:
 
 <br>
 
-#### D3.js
+#### Chart.js
  
-[![d3](images/d3.png)](images/d3.png)
-<p align ="justify">Para a exibição dos gráficos foi escolhida a biblioteca D3.js. A D3.js é uma biblioteca em Javascript orientada a dados. Não é um <em>framework</em> monolítico, fornecendo uma melhor escalabilidade. D3 é rápido e trabalha com altos volumes de dados e interações com animações, assim evitando uma sobrecarga no sistema como um todo.</p>
+[![Chart.js](images/chartjs.png)](images/chartjs.png)
+<p align ="justify">Para a exibição dos gráficos foi escolhida a biblioteca Chart.js. O Chart.js é uma biblioteca em Javascript de código aberto e que é muito utilizada pela comunidade. Essa biblioteca utiliza apenas HTML, CSS, JS e utilizando-se do elemento canvas do HTML5 para gerar gráficos na tela do usuário, o que torna uma ferramenta mais acessível e de fácil aprendizado para implementação no projeto. O Chart.js possui suporte responsivo, legenda para os gráficos, opções de gráficos interativos e modulares, entre outras funcionalidades que abrangem todo o escopo do projeto. </p>
 
 <br>
 
