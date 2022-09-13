@@ -36,13 +36,31 @@
 
 <br>
 
-<!-- ## **Release 4 (09/09/2022)**
+## **Release 4 (09/09/2022)**
 
 <p align = "justify"><b>USs a serem validadadas: 9, 10, 13, 14, 15, 16, 17, 18</b></p>
 
-<p align = "justify"><b>Conclusão:</b></p>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQugG2RuUd1g0I-EQuNasAGNmD6J9BBwfIBzcx7sIsE3MrO3X5xOvuXNIm_YXw2rASyGg-cLnDeJPhy/pubhtml?gid=57692993&amp;single=true&amp;widget=true&amp;headers=false" width="100%" style="height: 145vh;"></iframe>
 
-<br> -->
+
+<p align = "justify"><b>Conclusão:</b>Os usuários conseguiram testar todas as novas funcionalidades implementadas e se mostraram satisfeitos com elas. Algumas considerações foram feitas acerca das USs 09, 14 e 18, e estão detalhadas no tópico a seguir.</p>
+
+
+<br>
+
+## **Sugestões de melhorias**
+
+|Release|US|Consideração|
+|-------|--|------------|
+|2|07|Acredito que falte uma legenda especificando as variaveis selecionadas, além de uma diferenciação por cor|
+|3|8|Quando se gera um gráfico, n é possível editá-lo, como por exemplo, mudando o período selecionado, deve-se voltar para a tela inicial e gerar um outro gráfico|
+|3|10|Acredito que deveria ter um botão para criar uma nova aba como nos navegadores ser possível gerar o gráfico na mesma aba, ao invés de gerar o gráfico em uma nova aba.|
+|3|12|Muito bom, uma observação de algo que acho que deveria ser implementado, é mostrar a unidade de cada variável no eixo Y e com isso, gerando uma coluna nova no csv gerado. Nós não mandamos a unidade de cada variável, mas poderiam colocar uma unidade qualquer só para testar mesmo.|
+|4|09|acho que a única melhoria q poderia ser feita aqui é a seguinte: quando se troca de aba e volta para a aba anterior, a múltipla visualização dos gráficos some e volta a ficar um gráfico apenas|
+|4|14|acredito que poderia haver uma barra de navegacao horizontal para poder mexer especificamente no eixo x ou y|
+|4|18|acredito que deveria haver um botap para voltar o grafico para a posicao original|
+
+<br>
 
 ## Versionamento
 
