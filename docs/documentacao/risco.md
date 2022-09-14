@@ -79,8 +79,8 @@ As informações coletadas durante a avaliação de risco podem ser usadas para 
 ### Velocity
  
 Tem como objetivo verificar a média de pontos que o grupo consegue entregar por sprint. Quanto mais alta for essa medida, maior a produtividade e, consequentemente, maior capacidade de desenvolvimento da equipe. Ele será elaborado ao fim de cada sprint e é consultado no planejamento da sprint seguinte.
- 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=1408380136&amp;single=true" width="100%" height="400px"></iframe>
+
+<iframe width="100%" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRcmGp2J8hwLAXFNeJDz2b5BkdsILm8dHGXEYWs7wMwuaS7_SRj1xRsOxQAPmigh9CxTXc3OTHbjDj/pubchart?oid=1763211652&amp;format=interactive"></iframe>
  
 ### Referências
  
@@ -99,7 +99,7 @@ Tem como objetivo verificar a média de pontos que o grupo consegue entregar por
 |------|------|------|------|
 |14/07/2022|1.0|Adiciona riscos do projeto|[Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv)
 |10/08/2022|2.0|Adiciona contigências|[Damarcones Porto](https://github.com/damarcones)
-|29/08/2022|3.0|Atualização do gráficos|[Marcos Vinícius](https://github.com/marcos-mv)
+|29/08/2022|3.0|Atualização e adição de gráficos|[Marcos Vinícius](https://github.com/marcos-mv)
  
  
 
