@@ -26,13 +26,13 @@
 
 ### Backlog da Sprint
 
-|US|Descrição|Dupla responsável|
-|--|---------|-----------------|
-|US08|Gerar um gráfico baseado em duas ou mais váriaveis selecionadas|1|
-|US09|Visualizar mais de um gráfico na mesma tela|2|
-|US10|Criar abas|3|
-|US11|Capturar uma imagem do gráfico|4|
-|US12|Baixar um arquivo de planilha (CSV)|5|
+|US|Descrição|Pontuação|Dupla responsável|
+|:--:|-------|:-------:|:---------------:|
+|US08|Gerar um gráfico baseado em duas ou mais váriaveis selecionadas|13|1|
+|US09|Visualizar mais de um gráfico na mesma tela|8|2|
+|US10|Criar abas|8|3|
+|US11|Capturar uma imagem do gráfico|5|4|
+|US12|Baixar um arquivo de planilha (CSV)|8|5|
 
 <br>
 
@@ -80,8 +80,11 @@
 
 ### O que foi concluído nessa Sprint?
 
-<p align = "justify">As USs 11 e 12.</p>
+<p align = "justify">As USs 11 e 12, pórem até o fechamento dessa Sprint os POs ainda não validaram. Por esse motivo, os pontos decorrentes das USs completadas (12 pontos) serão debitados na próxima Sprint.</p>
 
+|Pontuação da Sprint|Pontos concluídos|Dívida para a próxima Sprint|
+|:-----------------:|:---------------:|:--------------------------:|
+|48|0|48|
 
 ### Aspectos da Sprint
 

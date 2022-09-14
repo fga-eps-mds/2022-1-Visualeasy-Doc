@@ -28,15 +28,15 @@
 
 ### Backlog da Sprint
 
-|US|Descrição|Grupo responsável|
-|--|---------|-----------------|
-|US09|Visualizar mais de um gráfico na mesma tela|2|
-|US13|Obter link de compartilhamento|1|
-|US14|Mover a linha do tempo de um gráfico|3|
-|US15|Expandir o gráfico em modo tela cheia|4|
-|US16|Dar zoom no gráfico|3|
-|US17|Verificar informações detalhadas de determinado ponto no gráfico|5|
-|US18|Destacar variáveis no gráfico|6|
+|US|Descrição|Pontuação|Grupo responsável|
+|:--:|-------|:-------:|:---------------:|
+|US09|Visualizar mais de um gráfico na mesma tela|8|2|
+|US13|Obter link de compartilhamento|8|1|
+|US14|Mover a linha do tempo de um gráfico|8|3|
+|US15|Expandir o gráfico em modo tela cheia|5|4|
+|US16|Dar zoom no gráfico|5|3|
+|US17|Verificar informações detalhadas de determinado ponto no gráfico|3|5|
+|US18|Destacar variáveis no gráfico|5|6|
 
 <br>
 
@@ -79,7 +79,11 @@
 
 ### O que foi concluído nessa Sprint?
 
-<p align = "justify">Todas as USs planejadas (9, 13 à 18).</p>
+<p align = "justify">Todas as USs planejadas (9, 13 à 18). Toda a pontuação planejada para essa sprint foi concluída.</p>
+
+|Pontuação da Sprint|Pontos concluídos|Dívida para a próxima Sprint|
+|:-----------------:|:---------------:|:--------------------------:|
+|39|39|0|
 
 
 ### Aspectos da Sprint
@@ -105,7 +109,7 @@
 
 ### O que vem a seguir?
 
-<p align = "justify">Implementação de melhorias sugeridas pelos POs, aumento de cobertura dos testes e atualização de documentos.</p>
+<p align = "justify">Aumento de cobertura dos testes e atualização de documentos.</p>
 
 <br>
 

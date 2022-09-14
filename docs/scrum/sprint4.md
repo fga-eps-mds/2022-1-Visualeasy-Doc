@@ -27,13 +27,11 @@
 
 ### Backlog da Sprint
 
-|US|Descrição|Dupla responsável|
-|--|---------|-----------------|
-|US08|Gerar um gráfico baseado em duas ou mais váriaveis selecionadas|1|
-|US09|Visualizar mais de um gráfico na mesma tela|2|
-|US10|Criar abas|5|
-|US11|Capturar uma imagem do gráfico - Refatoração|3|
-|US12|Baixar um arquivo de planilha (CSV) - Refatoração|4|
+|US|Descrição|Pontuação|Dupla responsável|
+|:--:|-------|::------:|:---------------:|
+|US08|Gerar um gráfico baseado em duas ou mais váriaveis selecionadas|13|1|
+|US09|Visualizar mais de um gráfico na mesma tela|8|2|
+|US10|Criar abas|8|5|
 
 <br>
 
@@ -81,6 +79,10 @@
 ### O que foi concluído nessa Sprint?
 
 <p align = "justify">As USs 08 e 10; além da refatoração das USs 11 e 12, para adaptar as funcionalidades de capturar uma imagem do gráfico e baixar um arquivo CSV à refatoração de parte do código do <i>Frontend</i> do projeto, feita na Sprint 3.</p>
+
+|Pontuação da Sprint|Pontos concluídos|Dívida para a próxima Sprint|
+|:-----------------:|:---------------:|:--------------------------:|
+|58|58|0|
 
 
 ### Aspectos da Sprint

@@ -30,12 +30,12 @@
 
 ### Backlog da Sprint
 
-|US|Descrição|Dupla responsável|
-|--|---------|-----------------|
-|US03|Filtrar as váriaveis atráves de pesquisa|3 (Backend) / 5 (Frontend)|
-|US05|Selecionar um intervalo de tempo pré definido|1 (Backend) / 6 (Frontend)|
-|US06|Selecionar um intervalo de tempo personalizado|2 (Backend) / 7 (Frontend)|
-|US07|Gerar um gráfico baseado em uma variável selecionada|4 (Backend) / 8 (Frontend)|
+|US|Descrição|Pontuação|Dupla responsável|
+|:--:|-------|:-------:|:---------------:|
+|US03|Filtrar as váriaveis atráves de pesquisa|5|3 (Backend) / 5 (Frontend)|
+|US05|Selecionar um intervalo de tempo pré definido|5|1 (Backend) / 6 (Frontend)|
+|US06|Selecionar um intervalo de tempo personalizado|8|2 (Backend) / 7 (Frontend)|
+|US07|Gerar um gráfico baseado em uma variável selecionada|8|4 (Backend) / 8 (Frontend)|
 
 
 
@@ -78,7 +78,14 @@
 
 ### O que foi concluído nessa Sprint?
 
-<p align = "justify">Todas as USs planejadas, o que possibilitou a geração de um gráfico inicial.</p>
+<p align = "justify">Todas as USs planejadas (26 pontos) foram concluídas, o que possibilitou a geração de um gráfico inicial.</p>
+
+
+|Pontuação da Sprint|Pontos concluídos|Dívida para a próxima Sprint|
+|:-----------------:|:---------------:|:--------------------------:|
+|47|26|21|
+
+<br>
 
 
 ### Aspectos da Sprint

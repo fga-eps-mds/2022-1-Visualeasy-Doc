@@ -17,17 +17,17 @@
 
 ### Backlog da Sprint
 
-|US|Descrição|
-|--|---------|
-|US01|Selecionar uma variável listada|
-|US02|Selecionar mais de um variável listada|
-|US03|Filtrar as váriaveis atráves de pesquisa|
-|US04|Visualizar as váriavéis que foram selecionadas|
-|US05|Selecionar um intervalo de tempo pré definido|
-|US06|Selecionar um intervalo de tempo personalizado|
-|US07|Gerar um gráfico baseado em uma variável selecionada|
-|US08|Gerar um gráfico baseado em duas ou mais váriaveis selecionadas|
-|US09|Visualizar mais de um gráfico na mesma tela|
+|US|Descrição|Pontuação|
+|:--:|---------|:-----:|
+|US01|Selecionar uma variável listada|3|
+|US02|Selecionar mais de um variável listada|3|
+|US03|Filtrar as váriaveis atráves de pesquisa|5|
+|US04|Visualizar as váriavéis que foram selecionadas|3|
+|US05|Selecionar um intervalo de tempo pré definido|5|
+|US06|Selecionar um intervalo de tempo personalizado|8|
+|US07|Gerar um gráfico baseado em uma variável selecionada|8|
+|US08|Gerar um gráfico baseado em duas ou mais váriaveis selecionadas|13|
+|US09|Visualizar mais de um gráfico na mesma tela|8|
 
 
 <br>
@@ -43,7 +43,14 @@
 
 ### O que foi concluído nessa Sprint?
 
-<p align = "justify">As USs 1, 2 e 4.</p>
+<p align = "justify">As USs 1, 2 e 4. 3 das 9 USs planejadas foram concluídas, totalizando 9 pontos completados.</p>
+
+|Pontuação da Sprint|Pontos concluídos|Dívida para a próxima Sprint|
+|:-----------------:|:---------------:|:--------------------------:|
+|56|9|47|
+
+
+<br>
 
 
 ### Aspectos da Sprint
