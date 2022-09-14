@@ -20,9 +20,9 @@
 ### Release 1
 + 31/07/2022
 ### Release Final
-+ 19/09/2022 à 23/09/2022
++ 21/09/2022
 ### Fim do projeto
-+ Indefinido
++ 21/09/2022
 
 ## Gerente do projeto
 
@@ -65,3 +65,4 @@
 |------|------|------|------|
 |14/07/2022|1.0|Criação do documento|[Gabriel Batalha](https://github.com/Gabriel-Azevedo-Batalha), [João Pedro Moura](https://github.com/Joao-Pedro-Moura)|
 |14/07/2022|1.1|Revisão Ortográfica do documento| [Marcos Vinícius](https://github.com/marcos-mv), [Bruna Almeida](https://github.com/brunaalmeidasantos)|
+|14/09/2022|1.2|Adiciona data da release final| [Bruna Almeida](https://github.com/brunaalmeidasantos)|

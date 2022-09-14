@@ -7,7 +7,7 @@
 
 ###	Quadro de Disponibilidade
 
-<iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGkEu3PnxU-zfAY2WuRmJ1SVkEBnpaIulK4-S3VVeP_b559nkMO5TOAeV2GEFHgBc0bMVFuVh3cE6y/pubhtml?gid=1319716523&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="300px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGkEu3PnxU-zfAY2WuRmJ1SVkEBnpaIulK4-S3VVeP_b559nkMO5TOAeV2GEFHgBc0bMVFuVh3cE6y/pubhtml?gid=1319716523&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Link para a planilha](https://docs.google.com/spreadsheets/d/1bt5rUN-xa-grGlW4Q3IdKEeweN7Xjt8t5kHpAykKtCg/edit?usp=sharing)
 

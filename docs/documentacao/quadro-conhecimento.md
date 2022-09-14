@@ -5,7 +5,7 @@
 
 ###	Quadro de conhecimentos
 
-<iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0O6y1HG_5vs74q5ek8TfSGw2c5K9WnXLFGhEjDCnxsNjYBsrCLttT9vhUh5TBV-cNy2X_ZwU8H18p/pubhtml?gid=1082221761&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="300px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0O6y1HG_5vs74q5ek8TfSGw2c5K9WnXLFGhEjDCnxsNjYBsrCLttT9vhUh5TBV-cNy2X_ZwU8H18p/pubhtml?gid=1082221761&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Link para a planilha](https://docs.google.com/spreadsheets/d/11IdYfWUDnn3HOPEKDmq2127KZvPgb4m5vXBp_PZ4faE/edit?usp=sharing)
 
