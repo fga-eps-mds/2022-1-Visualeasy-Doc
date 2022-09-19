@@ -20,7 +20,7 @@
  
 ### Valores obtidos na planilha
  
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_IGIEg2fVanXRPbyhs54cgEKox27sbYhURNjtt3HmOHfhR7xCBj8K4yOnNkl0aQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="229px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_IGIEg2fVanXRPbyhs54cgEKox27sbYhURNjtt3HmOHfhR7xCBj8K4yOnNkl0aQ/pubhtml?gid=1972720110&amp;single=true&amp;widget=true&amp;headers=false"   width="100%" style="height: 80vh;"></iframe>
  
  
  
@@ -30,6 +30,7 @@
 |------|------|------|------|
 |19/09/2022|1.0|Adiciona documento de analytics|[Bruno Nunes](https://github.com/brunocmo)
 |19/09/2022|1.1|Revisão e Correção ortográfica|[Marcos Vinícius](https://github.com/marcos-mv)
+|19/09/2022|1.2|Ajuste de visualização|[Damarcones Porto](https://github.com/damarcones)
  
  
 
