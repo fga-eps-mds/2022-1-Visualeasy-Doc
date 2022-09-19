@@ -100,6 +100,7 @@ Tem como objetivo verificar a média de pontos que o grupo consegue entregar por
 |14/07/2022|1.0|Adiciona riscos do projeto|[Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv)
 |10/08/2022|2.0|Adiciona contigências|[Damarcones Porto](https://github.com/damarcones)
 |29/08/2022|3.0|Atualização e adição de gráficos|[Marcos Vinícius](https://github.com/marcos-mv)
+|11/09/2022|4.0|Atualização de Gráfico do Velocity|[Marcos Vinícius](https://github.com/marcos-mv)
  
  
 
