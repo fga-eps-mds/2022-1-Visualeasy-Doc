@@ -25,9 +25,9 @@
 <br>
 </figure>
 
-Para o as USs que compõem o MVP do projeto, foram atribuídas as seguintes pontuações:
+<p align="justify">Para o as USs que compõem o MVP do projeto, foram atribuídas as seguintes pontuações:</p>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwmUtX6SdBjGwR0TnPJqhPQjEUtTOkhYm3c7kd7c0gcWERvStYG0WO0mBOl3YRTlx9yeGUbrdQTEEn/pubhtml?gid=51460933&amp;single=true&amp;widget=true&amp;headers=false" width="100%" style="height: 119vh;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwmUtX6SdBjGwR0TnPJqhPQjEUtTOkhYm3c7kd7c0gcWERvStYG0WO0mBOl3YRTlx9yeGUbrdQTEEn/pubhtml?gid=51460933&amp;single=true&amp;widget=true&amp;headers=false" width="100%" style="height: 112vh;"></iframe>
 
 <br>
 

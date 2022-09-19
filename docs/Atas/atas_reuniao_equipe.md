@@ -1,7 +1,7 @@
 # Reuniões de Equipe
 
 
-<p align="justify">Atas das reuniões da equipe no decorrer do desenvolvimento do projeto <b>Visualeasy</b> durante o semestre 01/2022.</p>
+<p align="justify">Atas das primeiras reuniões da equipe no decorrer do desenvolvimento do projeto <b>Visualeasy</b> durante o semestre 01/2022.</p>
 
 - [1ª Reunião da Equipe em 23/06/2022](r1-equipe.md)
 - [2ª Reunião da Equipe em 24/06/2022](r2-equipe.md)
@@ -16,6 +16,7 @@
 - [11ª Reunião da Equipe em 17/07/2022](r11-equipe.md)
 - [12ª Reunião da Equipe em 18/07/2022](r12-equipe.md)
 
+<p align="justify">A partir da data de 10/08/2022, as reuniões de equipe foram realizadas de segunda à sexta-feira às 20h, para realização de <i>Sprint Planning, dailys</i> e <i>Sprint Review</i>. O acompanhamento das <i>Sprints</i> pode ser visualizado <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/scrum/modelo-resumo-sprint/">aqui</a>.</p>
 
 ## Versionamento
 
