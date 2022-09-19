@@ -6,9 +6,9 @@
 
 <p align="justify">O manual de identidade visual do projeto Visualeasy contém: Logo da aplicação - incluíndo suas variações -; Paleta de cores; Tipografia; Botões; Cards; e Campos.</p>
 
-<object data="/Imagens/id-visual.pdf" type="application/pdf" width="750px" height="500px"></object>
+<object data="../../Imagens/id-visual.pdf" type="application/pdf" width="750px" height="500px"></object>
 
-<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="/Imagens/id-visual.pdf">Download PDF</a>.</p>
+<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="../../Imagens/id-visual.pdf">Download PDF</a>.</p>
 
 
 ## Referências
