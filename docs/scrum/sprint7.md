@@ -2,17 +2,11 @@
 
 <p align = "justify">O objetivo deste documento é apresentar o planejamento, <i>Daily Meeting</i> e revisão da <b>Sprint 7</b>, desenvolvida pela equipe <b>Visualeasy</b>.</p>
 
-Fechamento do projeto; última Sprint; Release final.
-
-
 ## Planejamento
 
 ### Objetivo da Sprint
 
-<p align = "justify">Nessa sprint serão implementadas melhorias sugeridas pelos POs. Além disso, a equipe irá trabalhar para fechar documentos pendentes para a release final.</p>
-
-
-
+<p align = "justify">Nessa sprint serão implementadas melhorias sugeridas pelos POs. Além disso, a equipe irá trabalhar para aumentar a cobertura de testes do Frontend e fechar documentos pendentes para a release final.</p>
 
 ### Duração
 
@@ -22,41 +16,30 @@ Fechamento do projeto; última Sprint; Release final.
 
 ### Backlog da Sprint
 
-|ID|Tarefa|Pontuação|Responsáveis|
-|:--:|----|:-------:|:----------:|
-|01|Incrementar histórico sobre abas mútiplas na visualização|8|Gabriel, Luis, João|
-|02|Criar botão de gerar gráfico em todas as abas|8|Damarcones, Itallo|
-|03|Botão de reset do zoom|5|Estevão, Marcos|
-|04|Finalizar documentos para a Release final|5|Bruna, Bruno, Gustavo|
+|ID|Tarefa|Responsáveis|
+|:--:|----|:----------:|
+|1|Aumentar a cobertura de testes do frontend|Itallo, Damarcones, Gabriel|
+|2|Melhorar EVM e atualizar algum documento pendente|Gustavo, Bruna, Marcos|
+|3|Analytics|Bruno, João|
+|4|Retirar comentários do front e back|Estevão|
+|5|Implementar melhoria das abas|Itallo, Damarcones, Luis|
+|6|Botão de reset|Marcos|
+|7|Tratamento de exceção no frontend|Luis|
+|8|Resolver bugs de segurança no front|Itallo|
+|9|Resolver conflito de complexidade ciclomática no back|Bruno, Marcos|
 
 
 <br>
 
 
-<!-- ## <i>Daily Meeting</i>
+## <i>Daily Meeting</i>
 
 
-<p align = "justify"><i>Daily Meeting</i> de 15 de setembro de 2022 (Quinta-feira).</p>
+<p align = "justify"><i>Daily Meeting</i> de 14 de setembro de 2022 (Quarta-feira).</p>
 
-
-
-<br>
-
-<p align = "justify"><i>Daily Meeting</i> de 16 de setembro de 2022 (Sexta-feira).</p>
-
-
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ0j1KvExzN_Hh7ouQeG4tgga8xkrsL2IDxfIJEnZAiAlGUTgDGnJ2VlySa3sbgokxZKg1j2b1eNZiA/pub?embedded=true" width="100%" style="height: 60vh;"></iframe>
 
 <br>
-
-<p align = "justify"><i>Daily Meeting</i> de 19 de setembro de 2022 (Segunda-feira).</p>
-
-
-
-<br>
-
-<p align = "justify"><i>Daily Meeting</i> de 20 de setembro de 2022 (Terça-feira).</p>
-
-<br> -->
 
 
 
@@ -66,30 +49,10 @@ Fechamento do projeto; última Sprint; Release final.
 
 <p align = "justify"></p>
 
-|Pontuação da Sprint|Pontos concluídos|Dívida para a próxima Sprint|
-|:-----------------:|:---------------:|:--------------------------:|
-||||
-
-
-### Aspectos da Sprint
-
-#### Aspectos positivos
-
-+ <p align = "justify"></p>
-
-+ <p align = "justify"></p>
-
-
-#### Problemas/soluções
-
-+ <p align = "justify"></p>
-
-    + <p align = "justify"></p>
-
 
 ### O que vem a seguir?
 
-<p align = "justify"></p>
+<p align = "justify">Fim do projeto.</p>
 
 <br> -->
 
@@ -98,4 +61,5 @@ Fechamento do projeto; última Sprint; Release final.
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-|13/09/2022|1.0 |Adiciona planejamento da sprint 6|[Bruna Santos](https://github.com/brunaalmeidasantos)|
+|13/09/2022|1.0 |Adiciona planejamento da sprint 7|[Bruna Santos](https://github.com/brunaalmeidasantos)|
+<!-- |20/09/2022|1.1|Adiciona dailys e review da sprint 7|[Bruna Santos](https://github.com/brunaalmeidasantos)| -->

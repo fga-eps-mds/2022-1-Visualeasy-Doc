@@ -17,7 +17,7 @@
 
 
 ### <i>Sprint</i>
-<p align="justify"><i>Sprint</i>, no <i>framework</i> Scrum, é um período de tempo limitado a um mês ou menos, no qual uma versão incremental e usável do produto é desenvolvida. No nosso contexto, as <i>Sprints</i> foram definidas de acordo com os épicos do projeto. Cada <i>Sprint</i> irá corresponder a um épico, que pode ser visualizado <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/documentacao/backlog/">aqui</a>.</p>
+<p align="justify"><i>Sprint</i>, no <i>framework</i> Scrum, é um período de tempo limitado a um mês ou menos, no qual uma versão incremental e usável do produto é desenvolvida. No nosso contexto, as <i>Sprints</i> foram definidas de acordo com os épicos do projeto. As Sprints podem ser visualizadas <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/scrum/modelo-resumo-sprint/">aqui</a>.</p>
 
 
 
@@ -25,7 +25,7 @@
 <p align="justify"><i>Sprint Planning</i> é um evento de planejamento onde será definido quais tarefas do <i>Product Backlog</i> serão feitas na próxima <i>Sprint</i>.</p>
 
 
-<p align="justify">No contexto do projeto Visualeasy, as <i>Sprints</i> serão compostas de entregas semanais, intituladas <i>Releases</i>. Durante as reuniões semanais com os <i>Product Owners</i>(POs), os avanços realizados durante a execução das <i>Sprints</i> serão apresentadas aos POs.</p>
+<p align="justify">No contexto do projeto Visualeasy, as <i>Sprints</i> serão compostas de entregas semanais, intituladas <i>Releases</i>. Durante as reuniões semanais com os <i>Product Owners</i> (POs), os avanços realizados durante a execução das <i>Sprints</i> serão apresentadas aos POs.</p>
 
 
 
