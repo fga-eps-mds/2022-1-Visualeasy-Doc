@@ -6,10 +6,13 @@
 
 <p align="justify">O manual de identidade visual do projeto Visualeasy contém: Logo da aplicação - incluíndo suas variações -; Paleta de cores; Tipografia; Botões; Cards; e Campos.</p>
 
-<object data="../../Imagens/id-visual.pdf" type="application/pdf" width="750px" height="500px"></object>
 
-<p>Esse navegador não suporta arquivos em PDF. Por favor, faça o download do arquivo para visualizar: <a href="../../Imagens/id-visual.pdf">Download PDF</a>.</p>
-
+<object data="../../Imagens/id-visual.pdf" type="application/pdf" width="700px" height="400px">
+<embed src="../../Imagens/id-visual.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../Imagens/id-visual.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<br>
 
 ## Referências
 + rockcontent. <b>Entenda o que é identidade visual e qual a sua importância para a estratégia do seu negócio</b>. Disponível em: [rockcontent.com/br/blog/identidade-visual/](https://rockcontent.com/br/blog/identidade-visual/). Acesso em 10 de julho de 2022.
