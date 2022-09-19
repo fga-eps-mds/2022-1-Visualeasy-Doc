@@ -58,20 +58,25 @@ Internet | R$ 100,00 | R$ 375,00
 **Total** || **R$ 88.336,55** |
   
  
-Portanto, o custo final é de **R$ 88.336,55** .
+Portanto, o custo final estimado é de **R$ 88.336,55**.
 
 ### Planilha
 
-<p align = "justify">Segue abaixo a planilha com a estimativa de custos por sprint. As colunas de Concepção 1, 2 e 3 correspondem à <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/scrum/sprint0/">Sprint 0</a>.</p>
+<p align = "justify">Segue abaixo a planilha com a estimativa de custos por sprint.</p>
+
+<p align = "justify">As colunas de Concepção 1, 2 e 3 correspondem à <a href="https://fga-eps-mds.github.io/2022-1-Visualeasy-Doc/scrum/sprint0/">Sprint 0</a>.</p>
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="229px"></iframe>
 
-Gráficos da distribuição dos custos por sprint.
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubchart?oid=1271245598&amp;format=interactive"></iframe>
+<p align = "justify">O gráfico a seguir apresenta os custos de Internet, Conta de Luz, Equipamento e Aluno ao longo das Sprints.</p>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubchart?oid=1863784430&amp;format=interactive"></iframe> 
+<iframe width="800" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubchart?oid=1271245598&amp;format=interactive"></iframe>
+
+<p align = "justify">Por fim, o próximo gráfico mostra a proporção de gastos a cada Sprint concluída</p>
+
+<iframe width="800" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtvIqSqP4vEbotGrG6xjFK7owPO6j0QyIkrpJiK74PjRNv0HiANkyr-yX5is2EWsrIrPPZPmvSoARH/pubchart?oid=1863784430&amp;format=interactive"></iframe> 
  
  
 ### Referências

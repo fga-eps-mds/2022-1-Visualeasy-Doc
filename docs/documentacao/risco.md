@@ -53,15 +53,15 @@ Cada um dos riscos acima foram subdivididos nos subtópicos abaixo:
 | Falta de especificação de teste | Cobertura insuficiente de possíveis problemas e inviabilização da utilização do produto | Aumentar a cobertura de testes ou criar testes mais robustos
  
  
-## Visualização Riscos
+## Visualização dos Riscos
  
 ### Classificação dos Riscos
  
-O grau dos riscos é definido pela multiplicação da probabilidade de ocorrência, pelo impacto dos mesmos, causados ao projeto.
+O grau dos riscos é definido pela multiplicação da probabilidade de ocorrência, pelo impacto dos mesmos causados ao projeto.
  
 As classificações de risco foram definidas da seguinte forma:
  
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=1432428913&amp;single=true" width="81%" height="255px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=1432428913&amp;single=true" width="100%" height="200px"></iframe>
  
 ### Quadro de Riscos
  
@@ -75,13 +75,9 @@ Seguindo um dos pilares do Scrum que diz respeito à transparência, e do PMBOK 
 As informações coletadas durante a avaliação de risco podem ser usadas para criar um Gráfico de *Burndown* de Risco. Ele descreve os riscos identificados no projeto, os monitora analisando seus respectivos impactos e probabilidade de ocorrência ao longo do período de desenvolvimento do projeto.
  
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=403121833&amp;single=true" width="100%" height="900px"></iframe>
- 
-### Velocity
- 
-Tem como objetivo verificar a média de pontos que o grupo consegue entregar por sprint. Quanto mais alta for essa medida, maior a produtividade e, consequentemente, maior capacidade de desenvolvimento da equipe. Ele será elaborado ao fim de cada sprint e é consultado no planejamento da sprint seguinte.
 
-<iframe width="100%" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRcmGp2J8hwLAXFNeJDz2b5BkdsILm8dHGXEYWs7wMwuaS7_SRj1xRsOxQAPmigh9CxTXc3OTHbjDj/pubchart?oid=1763211652&amp;format=interactive"></iframe>
- 
+<br>
+
 ### Referências
  
 + GitHub. <b>Bot Lino</b>. Disponível em [github.com/BotLino/Lino](https://github.com/BotLino/Lino). Acesso em 14 de julho de 2022.

@@ -46,11 +46,11 @@ nav:
     - Sprint 5: scrum/sprint5.md
     - Sprint 6: scrum/sprint6.md
     - Sprint 7: scrum/sprint7.md
-    # - Release 1: scrum/release1.md
-    # - Release 2: scrum/release2.md
-    # - Release 3: scrum/release3.md
-    # - Release 4: scrum/release4.md
-  # - EVM: documentação/evm.md
+    - Release 1: scrum/release1.md
+    - Release 2: scrum/release2.md
+    - Release 3: scrum/release3.md
+    - Release 4: scrum/release4.md
+  - EVM: documentacao/evm.md
   - Políticas:
     - Padrão da Wiki: politicas/padrao-wiki.md
     - Política de Branch: politicas/politica_de_branch.md
