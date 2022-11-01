@@ -2,7 +2,7 @@
  
 ### Finalidade
  
-<p align = "justify">O documento estabelecerá uma visão da arquitetura de <em>software</em> adotada no sistema Visualeasy. Com isso ele tem como finalidade evidenciar com clareza as decisões arquiteturais que foram tomadas no projeto. Disponibilizando as informações essenciais para as pessoas desenvolvedoras e demais envolvidos a respeito da aplicação e das tecnologias que serão utilizadas no desenvolvimento do projeto.</p>
+<p align = "justify">O documento estabelecerá uma visão da arquitetura de <em>software</em> adotada no sistema Visualeasy. Com isso ele tem como finalidade evidenciar com clareza as decisões arquiteturais tomadas no projeto. Disponibilizando as informações essenciais para as pessoas desenvolvedoras e demais envolvidos a respeito da aplicação e das tecnologias que serão utilizadas no desenvolvimento do projeto.</p>
  
 ### Escopo
 <p align = "justify"> Essa documentação foi elaborada sobre a visão de arquitetura de <em>software</em> que será utilizada para a implementação do projeto Visualeasy, para a evidenciar as decisões tomadas. Serão abordados os padrões de arquitetura, os <em>frameworks</em> que serão usados no desenvolvimento do projeto. O objetivo é fornecer visualização gráfica de séries temporais, proporcionando uma melhor visualização dos dados fornecidos à aplicação e permitindo uma tomada de decisão com base na análise dos dados.</p>
@@ -110,7 +110,7 @@ Restrições:
  
 #### Controller
  
-<p align ="justify">Dentro da controller ficam os arquivos responsáveis pela serialização dos dados. Serialização é o processo de conversão de um objeto em um fluxo de bytes para armazenar o objeto ou fluxo na memória, em um banco de dados, ou em um arquivo, ou transmiti-lo por uma conexão de rede, seja em forma binária ou em formato de texto como o JSON. Sua finalidade principal é salvar o estado de um objeto para ser capaz de recriá-lo quando necessário. Logo, é um método simples e robusto para tornar objetos persistentes.</p>
+<p align ="justify">Dentro da controller ficam os arquivos responsáveis pela serialização dos dados. Serialização é o processo de conversão de um objeto em um fluxo de bytes para armazenar o objeto ou fluxo na memória, em um banco de dados, ou em um arquivo, ou transmiti-lo por uma conexão de rede, seja em forma binária ou em formato de texto como o JSON. Sua finalidade principal é salvar o estado de um objeto para conseguir recriá-lo quando necessário. Logo, é um método simples e robusto para tornar objetos persistentes.</p>
  
 #### Routes
 <p align ="justify">Responsável por endereçar a lógica utilizando uma interface de comunicação baseada no protocolo HTTP. Processo realizado através do roteamento que determina como um aplicativo responde a uma solicitação do cliente, que vem através de um URI (caminho) e um método de solicitação HTTP específico (ex: GET, POST). Uma rota pode ter uma ou mais funções que são executadas quando a solicitação corresponde com o endereçamento da rota.</p>
@@ -132,6 +132,8 @@ Cada microsserviço é detalhado da seguinte forma:
  
 - <p align ="justify"><b>Visualização de dados/gráficos:</b> Front-end do produto composto pelo <em>framework</em> Next.Js, para a construção das telas, campos, validações e botões que o usuário irá interagir. Acompanhando o Next.Js, o Chart.Js é responsável pela visualização dos dados tratados, gerando os gráficos.</p>
 - <p align ="justify"><b>Core:</b>O Core é composto pelas APIs responsáveis pela autenticação de usuário e pelo controle, coleta de dados e geração de gráficos.</p>
+- <p align ="justify"><b>Core:</b>A API responsável pela autenticação de usuário, foi prevista na arquitetura. Porém, não foi implementada nesta versão da aplicação.</p>
+     
 
 <br>
 
@@ -176,7 +178,7 @@ Para atualizações futuras e conforme a necessidade para a implantação no sis
 
 ### Portabilidade 
 
-<p align=justify>Grau de eficácia e eficiência com o qual um sistema pode ser transferido de um <i>hardware</i>, <i>software</i> ou outro ambiente operacional ou de utilização para outro.</p>
+<p align=justify>Grau de eficácia e eficiência com o qual um sistema pode ser transferido de um <i>hardware</i>, <i>software</i> ou outro ambiente operacional, ou de utilização para outro.</p>
 
 <p align=justify>Esta é uma característica indispensável ao produto Visualeasy, visto que um dos objetivos do projeto é que os POs testem, a cada release, as novas funcionalidades implementadas. Sendo assim, o sistema deve ser adaptável a diferentes ambientes.</p>
 
