@@ -12,17 +12,17 @@ Cada um dos riscos acima foram subdivididos nos subtópicos abaixo:
  
 ## Riscos de Projeto
  
-| Riscos | Consequência |Contigência|
+| Riscos | Consequência |Contingência|
 |--------|--------------|-----------|
 | Indefinição do escopo | Alteração no planejamento e andamento das sprints | Definir o escopo|
 | Mudança do escopo | Alteração no planejamento e andamento das sprints |Organizar novamente as sprints|
 | Imaturidade da gerência | Planejamentos falhos, falta de qualidade, aumento do custo e tempo do projeto, entre outros | Trocar a gerência|
-| Alteração na arquitetura | Gera retrabalho, alteração nas histórias planejadas, mudança de infraestrutura e código | Análisar se é a melhor alternativa mudar arquitetura |
+| Alteração na arquitetura | Gera retrabalho, alteração nas histórias planejadas, mudança de infraestrutura e código | Analisar se é a melhor alternativa mudar arquitetura |
 | Comunicação não eficiente do grupo | Falhas de desenvolvimento, perda de informação e retrabalho | Estruturar um padrão de comunicação no time| 
 | Baixa produtividade dos integrantes  | Risco para o planejamento e aumento de tarefas não concluídas | Reorganização das tarefas e em último caso, retirada de membros que atrapalham o time|
 | Divergência de horários entres os membros | Risco para o planejamento e aumento de tarefas não concluídas | Tentar alocar aqueles com horários compatíveis e os que não tem trabalham individualmente|
-| Dificuldades na integração do time | Risco para o planejamento e aumento de tarefas não concluídas |Procurar divergências para soluncionar e novas técnicas de entrosamento|
-| Saída de membro do grupo | Sobrecarga e desgaste dos demais membros do grupo | Redisbuição de tarefas de acordo com afinidade de conteúdo|
+| Dificuldades na integração do time | Risco para o planejamento e aumento de tarefas não concluídas |Procurar divergências para solucionar e novas técnicas de entrosamento|
+| Saída de membro do grupo | Sobrecarga e desgaste dos demais membros do grupo | Redistribuição de tarefas de acordo com afinidade de conteúdo|
 | Falta de dedicação em atividades | Risco para o planejamento e aumento de tarefas não concluídas |Reuniões para motivar o time|
 | Atividades atrasadas | Risco para o planejamento e aumento de tarefas não concluídas | Procurar o motivo dos atrasos e solucionar|
 | Atividades secundárias dos membros | Risco para o planejamento e aumento de tarefas não concluídas |Encaixar os horários disponíveis dos membros na agenda do time| 
@@ -72,7 +72,7 @@ Seguindo um dos pilares do Scrum que diz respeito à transparência, e do PMBOK 
  
 ### *Burndown* de Riscos
  
-As informações coletadas durante a avaliação de risco podem ser usadas para criar um Gráfico de *Burndown* de Risco. Ele descreve os riscos identificados no projeto, os monitora analisando seus respectivos impactos e probabilidade de ocorrência ao longo do período de desenvolvimento do projeto.
+As informações coletadas durante a avaliação de risco podem ser usadas para criar um Gráfico de *Burndown* de Risco. Ele descreve os riscos identificados no projeto, os monitora, analisando seus respectivos impactos e probabilidade de ocorrência ao longo do período de desenvolvimento do projeto.
  
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kctCU30z6PdOfWeeuDTmj6d1ol2pdk5jSt0oaa7NFsXvE2IvJGgmACh7EWpmEtqUw0DB_zInGMLs/pubhtml?gid=403121833&amp;single=true" width="100%" height="900px"></iframe>
 
@@ -94,9 +94,10 @@ As informações coletadas durante a avaliação de risco podem ser usadas para 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |14/07/2022|1.0|Adiciona riscos do projeto|[Bruno Nunes](https://github.com/brunocmo), [Marcos Vinicius](https://github.com/marcos-mv)
-|10/08/2022|2.0|Adiciona contigências|[Damarcones Porto](https://github.com/damarcones)
+|10/08/2022|2.0|Adiciona contingências|[Damarcones Porto](https://github.com/damarcones)
 |29/08/2022|3.0|Atualização e adição de gráficos|[Marcos Vinícius](https://github.com/marcos-mv)
 |11/09/2022|4.0|Atualização de Gráfico do Velocity|[Marcos Vinícius](https://github.com/marcos-mv)
+|31/10/2022|5.0|Correção ortográfica|[Marcos Vinícius](https://github.com/marcos-mv)
  
  
 
